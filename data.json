@@ -3,7 +3,7 @@
     {
       "date": "2026-10-19",
       "label": "Monday, October 19",
-      "note": "Automated edition. Sunday night's seed list is folded up below. No race review today: Austin is next weekend.",
+      "note": "Automated edition, with two F1 podcasts and a third F1 site added mid-morning. Sunday night's seed list is folded up below.",
       "slots": [
         {
           "name": "Gear",
@@ -81,12 +81,30 @@
               "u": "https://www.planetf1.com/news/toto-wolff-kimi-antonelli-f1-2026-title-united-states-gp",
               "d": "Antonelli is 102 points clear and can clinch in Austin with a win and the right gap to Russell and Hamilton. Wolff doubts it happens this weekend.",
               "m": "PlanetF1, Oct 19"
+            },
+            {
+              "t": "Singapore victory leaves Verstappen one win away from a full set, but not for long",
+              "u": "https://www.racefans.net/2026/10/16/singapore-victory-leaves-verstappen-one-win-away-from-a-full-set-but-not-for-long/",
+              "d": "Keith Collantine's stats column: 73rd win from pole leading every lap, a 27th different winning circuit, and only Madrid left to complete the set. New site for this list.",
+              "m": "RaceFans, Oct 16"
             }
           ]
         },
         {
           "name": "Listen",
           "items": [
+            {
+              "t": "F1 Beyond the Grid: 50 years since James Hunt's dramatic title win, with Freddie Hunt",
+              "u": "https://audioboom.com/posts/8963796-50-years-since-james-hunt-s-dramatic-title-win-with-freddie-hunt",
+              "d": "25 minutes. Tom Clarkson and Hunt's son on the 1976 season, the Nurburgring fire, the Fuji decider, and growing up with a maverick champion for a father.",
+              "m": "F1 podcast, Oct 13"
+            },
+            {
+              "t": "F1 Nation: F1 Explains, the grid and what happens before lights out",
+              "u": "https://podcasts.apple.com/us/podcast/f1-explains-the-grid-what-happens-before-lights-out/id1510367515?i=1000796565088",
+              "d": "41 minutes. What the mechanics and drivers actually do in the half hour before a start, with Zhou Guanyu as the guest.",
+              "m": "F1 podcast, Oct 15"
+            },
             {
               "t": "Planet Money: Anatomy of a movie market",
               "u": "https://podcasts.apple.com/us/podcast/anatomy-of-a-movie-market/id290783428?i=1000796720849",
