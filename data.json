@@ -3,6 +3,156 @@
     {
       "date": "2026-10-19",
       "label": "Monday, October 19",
+      "note": "Automated edition. Sunday night's seed list is folded up below. No race review today: Austin is next weekend.",
+      "slots": [
+        {
+          "name": "Gear",
+          "items": [
+            {
+              "t": "Ornot's waterproof, packable new cycling jacket thought of everything",
+              "u": "https://www.gearpatrol.com/outdoors/ornot-fog-eater-hooded-rain-jacket/",
+              "d": "A real hands-on test, ridden in the rain from Manhattan to Queens. The stuff-sack pocket and two-way zipper are the details that win it over.",
+              "m": "Gear Patrol, Oct 15"
+            },
+            {
+              "t": "Leisure Travel Vans Wonder FX motorhome",
+              "u": "https://uncrate.com/leisure-travel-vans-wonder-fx-motorhome/",
+              "d": "A sub-25-foot Transit-based camper with a Murphy bed and optional AWD. One-minute daydream material.",
+              "m": "Uncrate"
+            }
+          ]
+        },
+        {
+          "name": "Easy science",
+          "items": [
+            {
+              "t": "Triplet of 'ghostly' galaxies hints at what dark matter is, and isn't",
+              "u": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
+              "d": "Three faint galaxies seem to have almost no dark matter, and the best explanation is an ancient collision that stripped it away. A cosmic whodunit, about 7 minutes.",
+              "m": "Quanta, Oct 14"
+            },
+            {
+              "t": "Here's how freaky the universe would look if light slowed to 3 miles per hour",
+              "u": "https://nautil.us/heres-how-freaky-the-universe-would-look-if-light-slowed-to-3-miles-per-hour-1285830",
+              "d": "A short piece about a browser toy that lets you walk around a world where light moves at walking pace. Three minutes to read, then something to click on.",
+              "m": "Nautilus, Oct 15"
+            }
+          ]
+        },
+        {
+          "name": "Longer read",
+          "items": [
+            {
+              "t": "Portrait of a Scaphander",
+              "u": "https://publicdomainreview.org/essay/portrait-of-a-scaphander",
+              "d": "From the Belgica's brutal Antarctic winter of 1898 to the first underwater photographs and blind cave creatures, following the naturalist Emil Racovita. About 3,800 words.",
+              "m": "Public Domain Review"
+            }
+          ]
+        },
+        {
+          "name": "Money",
+          "items": [
+            {
+              "t": "11 retirement planning mistakes that haunt high-earning physicians",
+              "u": "https://www.physicianonfire.com/11-retirement-planning-mistakes/",
+              "d": "Mid-career traps: too much pre-tax money that becomes an RMD and IRMAA problem, SEP IRA instead of a Solo 401(k) or cash balance plan, and deadlines that fall well before December.",
+              "m": "Physician on FIRE, Oct 13"
+            },
+            {
+              "t": "Who got richer since 2022?",
+              "u": "https://ofdollarsanddata.com/who-got-richer-since-2022/",
+              "d": "New Fed data: households over 75 gained about 38 percent while the under-35s lost ground. Maggiulli's takeaway is to give to your kids earlier. 9 minutes.",
+              "m": "Of Dollars and Data, Oct 13"
+            }
+          ]
+        },
+        {
+          "name": "Formula 1",
+          "items": [
+            {
+              "t": "What one image can't show you about the Rwanda F1 track",
+              "u": "https://www.the-race.com/formula-1/what-one-image-cant-show-you-about-rwanda-f1-track/",
+              "d": "Alex Wurz walks through the elevation and braking zones of the new Kigali circuit that a single render cannot convey. 6 minutes.",
+              "m": "The Race, Oct 17"
+            },
+            {
+              "t": "Toto Wolff issues reality check as Kimi Antonelli closes in on the title",
+              "u": "https://www.planetf1.com/news/toto-wolff-kimi-antonelli-f1-2026-title-united-states-gp",
+              "d": "Antonelli is 102 points clear and can clinch in Austin with a win and the right gap to Russell and Hamilton. Wolff doubts it happens this weekend.",
+              "m": "PlanetF1, Oct 19"
+            }
+          ]
+        },
+        {
+          "name": "Listen",
+          "items": [
+            {
+              "t": "Planet Money: Anatomy of a movie market",
+              "u": "https://podcasts.apple.com/us/podcast/anatomy-of-a-movie-market/id290783428?i=1000796720849",
+              "d": "32 minutes. Riding along with the 'King of Sundance' as he sells a slate of indie films to Netflix, Sony and Apple, with the backstories of Little Miss Sunshine and Napoleon Dynamite.",
+              "m": "Podcast, Oct 16"
+            },
+            {
+              "t": "Unexplainable: What's cooler than being cool?",
+              "u": "https://podcasts.apple.com/us/podcast/whats-cooler-than-being-cool/id1554578197?i=1000795909808",
+              "d": "29 minutes. Why quantum computers have to be chilled to near the coldest temperatures in the universe, and the race to build the refrigerators that get them there.",
+              "m": "Podcast, Oct 12"
+            },
+            {
+              "t": "Today, Explained: The cost of loving your pet",
+              "u": "https://podcasts.apple.com/us/podcast/the-cost-of-loving-your-pet/id1346207297?i=1000795253008",
+              "d": "30 minutes. How our bonds with pets deepened after the pandemic, and how the bills climbed with them.",
+              "m": "Podcast, Oct 11"
+            }
+          ]
+        },
+        {
+          "name": "Front page, no Reddit",
+          "items": [
+            {
+              "t": "I electrified my push scooter with a power drill",
+              "u": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
+              "d": "A cordless drill bolted to the front wheel of a Razor scooter, with one-way bearings so it still coasts. About 10 mph and 2 miles of range. Did not save money, was worth it anyway.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "World first: a southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+              "u": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+              "d": "Amsterdam's zoo and Utrecht's vets rebuilt a broken beak in two printed pieces. The bird started using it the same day.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "There's never been a better time to go into math",
+              "u": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+              "d": "Grant Sanderson of 3Blue1Brown on why AI proving theorems makes math more inviting, not less. A 35 minute video, so save it for a lunch break.",
+              "m": "Hacker News"
+            }
+          ]
+        },
+        {
+          "name": "Wildcard",
+          "items": [
+            {
+              "t": "Why some people mow a lawn better than others",
+              "u": "https://pudding.cool/2026/06/mow/",
+              "d": "Mow a virtual lawn as efficiently as you can, then see how your route compares with 132,000 other people and the mathematically optimal path. Oddly competitive.",
+              "m": "The Pudding"
+            }
+          ]
+        }
+      ],
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1494783367193-149034c05e8f?w=1400&q=75&auto=format",
+        "alt": "A lone two lane highway runs straight across the Atacama Desert toward distant mountains",
+        "credit": "Diego Jimenez",
+        "page": "https://unsplash.com/photos/lone-road-going-to-mountains-A-NVHPka9Rk",
+        "caption": "Lone desert highway"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "label": "Monday, October 19",
       "note": "First edition. Seeded Sunday night; the automated version starts tomorrow.",
       "slots": [
         {
