@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Morning Reads</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+/* Layout: one narrow reading column, newest day on top, older days folded below. Plain, quiet, built for a phone in a parked car. */
+:root{
+  --bg:#f7f5f0; --fg:#1d1c19; --muted:#6b675d; --rule:#d9d4c8; --accent:#2f5d50; --chip:#e8e3d6;
+  --display:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --body:"IBM Plex Sans","Helvetica Neue",Arial,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){--bg:#171613;--fg:#ebe7dd;--muted:#a19b8d;--rule:#33312b;--accent:#8fc4b2;--chip:#26241f;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#171613;--fg:#ebe7dd;--muted:#a19b8d;--rule:#33312b;--accent:#8fc4b2;--chip:#26241f;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:16px;line-height:1.5;margin:0;padding:calc(20px + env(safe-area-inset-top,0px)) max(16px,env(safe-area-inset-right,0px)) calc(48px + env(safe-area-inset-bottom,0px)) max(16px,env(safe-area-inset-left,0px))}
+main{max-width:640px;margin:0 auto}
+header h1{font-family:var(--display);font-weight:600;font-size:2rem;margin:0;letter-spacing:-.01em}
+header p{margin:4px 0 0;color:var(--muted);font-size:.9rem}
+.day{border-top:1px solid var(--rule);margin-top:28px;padding-top:12px}
+.day h2{font-family:var(--display);font-weight:600;font-size:1.3rem;margin:0 0 4px;text-wrap:balance}
+.day .note{color:var(--muted);font-size:.9rem;margin:0 0 14px}
+.slot{display:grid;gap:10px;margin:0 0 22px}
+.slot h3{font-size:.72rem;font-weight:600;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);margin:0}
+.item{min-width:0}
+.item a{color:var(--fg);font-family:var(--display);font-weight:600;font-size:1.1rem;text-decoration:none;line-height:1.3}
+.item a:hover,.item a:focus-visible{text-decoration:underline;outline:none}
+.item p{margin:3px 0 0;color:var(--muted);font-size:.93rem}
+.meta{display:inline-block;background:var(--chip);border-radius:3px;padding:1px 7px;font-size:.72rem;color:var(--muted);margin-left:6px;vertical-align:middle;white-space:nowrap}
+details.day summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:10px}
+details.day summary::-webkit-details-marker{display:none}
+details.day summary h2{margin:0}
+details.day summary .note{margin:0}
+details.day[open] summary{margin-bottom:12px}
+footer{border-top:1px solid var(--rule);margin-top:36px;padding-top:12px;color:var(--muted);font-size:.8rem}
+@media (prefers-reduced-motion:no-preference){.item a{transition:color .15s}}
+</style>
+
+</head>
+<body>
+<main>
+<header>
+  <h1>Morning Reads</h1>
+  <p id="stamp">Updated each weekday around 6:50 am. Everything here is free to read, no sign-in.</p>
+</header>
+
+<div id="days"></div>
+
+<footer>Older days fold up below the newest one. The page keeps the last 14 days.</footer>
+</main>
+
+
+
+<script>
+function render(data){
+  var days = data.days.slice().sort(function(a,b){ return a.date < b.date ? 1 : -1; }).slice(0,14);
+  var root = document.getElementById('days');
+  function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+  function renderSlots(slots){
+    return slots.map(function(s){
+      return '<section class="slot"><h3>'+esc(s.name)+'</h3>'+s.items.map(function(it){
+        return '<div class="item"><a href="'+esc(it.u)+'" target="_blank" rel="noopener">'+esc(it.t)+'</a>'+(it.m?'<span class="meta">'+esc(it.m)+'</span>':'')+(it.d?'<p>'+esc(it.d)+'</p>':'')+'</div>';
+      }).join('')+'</section>';
+    }).join('');
+  }
+  var html = days.map(function(d,i){
+    var head = '<h2>'+esc(d.label)+'</h2>'+(d.note?'<p class="note">'+esc(d.note)+'</p>':'');
+    if(i===0){ return '<section class="day">'+head+renderSlots(d.slots)+'</section>'; }
+    return '<details class="day"><summary>'+head+'</summary>'+renderSlots(d.slots)+'</details>';
+  }).join('');
+  root.innerHTML = html || '<p class="note">Nothing yet. The first list arrives on the next weekday morning.</p>';
+  if(days[0]){ document.getElementById('stamp').textContent = 'Latest: '+days[0].label+'. Updated each weekday around 6:50 am. Everything here is free to read, no sign-in.'; }
+}
+fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(render).catch(function(){ render({days:[]}); });
+</script>
+
+</body>
+</html>

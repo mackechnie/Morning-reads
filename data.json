@@ -1,0 +1,147 @@
+{
+  "days": [
+    {
+      "date": "2026-10-19",
+      "label": "Monday, October 19",
+      "note": "First edition. Seeded Sunday night; the automated version starts tomorrow.",
+      "slots": [
+        {
+          "name": "Gear",
+          "items": [
+            {
+              "t": "Yeti's first technical jacket should put Patagonia and The North Face on notice",
+              "u": "https://www.gearpatrol.com/outdoors/yeti-performance-apparel-tensleep-jacket/",
+              "d": "The cooler company made a shell. Gear Patrol thinks it is a real contender.",
+              "m": "Gear Patrol"
+            },
+            {
+              "t": "Ressence Type 10 DN",
+              "u": "https://uncrate.com/ressence-type-10-dn-dark-night-watch/",
+              "d": "A watch with no hands: oil-filled discs rotate inside each other. 100 made.",
+              "m": "Uncrate"
+            }
+          ]
+        },
+        {
+          "name": "Easy science",
+          "items": [
+            {
+              "t": "Sea monkeys show scientists how to rewrite a rule of turbulence",
+              "u": "https://www.quantamagazine.org/sea-monkeys-show-scientists-how-to-rewrite-a-rule-of-turbulence-20261002/",
+              "d": "Brine shrimp swimming in a tank reversed the direction energy is supposed to flow in turbulent water.",
+              "m": "Quanta"
+            },
+            {
+              "t": "Life after death?",
+              "u": "https://pudding.cool/2026/10/lifeafter",
+              "d": "Thousands of people answered what they think comes next. A scrolling visual essay, about 8 minutes.",
+              "m": "The Pudding"
+            }
+          ]
+        },
+        {
+          "name": "Longer read",
+          "items": [
+            {
+              "t": "Jos Verstappen was hyped like Max, until it all went wrong",
+              "u": "https://www.the-race.com/formula-1/jos-verstappen-was-hyped-like-max-until-it-all-went-wrong/",
+              "d": "The father's career, which explains a lot about the son.",
+              "m": "The Race"
+            }
+          ]
+        },
+        {
+          "name": "Money",
+          "items": [
+            {
+              "t": "Invest vs. pay off debt: what should you do with extra cash?",
+              "u": "https://www.whitecoatinvestor.com/invest-vs-pay-off-debt-what-to-do-with-extra-cash-493/",
+              "d": "Listener questions on debt payoff versus investing, practice buy-ins, and account types.",
+              "m": "WCI, Oct 15"
+            },
+            {
+              "t": "'My spirit animal is now the sloth': how real retirees withdraw money",
+              "u": "https://www.whitecoatinvestor.com/reader-retirement-withdrawal-examples-5/",
+              "d": "Survey answers from retired physicians on how they actually spend down.",
+              "m": "WCI, Oct 13"
+            }
+          ]
+        },
+        {
+          "name": "Formula 1",
+          "items": [
+            {
+              "t": "How Horner, Brown and Wolff made their fortunes from F1",
+              "u": "https://www.the-race.com/business/how-horner-brown-wolff-made-their-fortunes-from-f1/",
+              "d": "UK company accounts, so the numbers are real. Horner's exit payment is the headline.",
+              "m": "The Race, Oct 16"
+            },
+            {
+              "t": "What Ferrari is changing with its biggest upgrade of 2026",
+              "u": "https://www.the-race.com/formula-1/what-ferrari-is-changing-biggest-f1-2026-upgrade/",
+              "d": "New floor for Austin this weekend, the last big push before the 2027 car.",
+              "m": "The Race, Oct 18"
+            },
+            {
+              "t": "Chequered Flag Extra: F1 super subs and the home Grand Prix curse",
+              "u": "https://www.bbc.co.uk/programmes/p0npnl10",
+              "d": "Latest episode, 30 minutes. Streams free on BBC Sounds without an account.",
+              "m": "Podcast"
+            }
+          ]
+        },
+        {
+          "name": "Listen, about 25 minutes",
+          "items": [
+            {
+              "t": "99% Invisible: (Not Just) Another Brick in the Wall",
+              "u": "https://podcasts.apple.com/us/podcast/99-invisible/id394775318",
+              "d": "28 minutes on Chicago's strange handmade bricks and why they look the way they do.",
+              "m": "Podcast"
+            },
+            {
+              "t": "Today, Explained: Data centers fight back",
+              "u": "https://podcasts.apple.com/us/podcast/today-explained/id1346207297",
+              "d": "26 minutes. The PR war to make AI infrastructure likable.",
+              "m": "Podcast"
+            }
+          ]
+        },
+        {
+          "name": "Front page, no Reddit",
+          "items": [
+            {
+              "t": "Sigsaly: Churchill's top secret hotline to the President",
+              "u": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+              "d": "The encrypted phone in the Cabinet War Rooms, and how it worked.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The Zelda timeline, to catch up before the Ocarina of Time remake",
+              "u": "https://legendofhyrule.com/",
+              "d": "A fan-built interactive timeline of every game. Pure nostalgia.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Going 94 mph on a skateboard, new world record",
+              "u": "https://kottke.org/26/10/going-94-mph-on-a-skateboard-new-world-record",
+              "d": "Diego Poncelet, 151.8 km/h, downhill. Watch the video before coffee.",
+              "m": "Kottke"
+            }
+          ]
+        },
+        {
+          "name": "Wildcard",
+          "items": [
+            {
+              "t": "The online Library of Babel",
+              "u": "https://libraryofbabel.info",
+              "d": "Every possible page of text already exists here. Search for a sentence you just wrote and it will find it.",
+              "m": "Site"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
