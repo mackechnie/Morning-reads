@@ -141,7 +141,14 @@
             }
           ]
         }
-      ]
+      ],
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1504025468847-0e438279542c?w=1400&q=75&auto=format",
+        "alt": "A runner on a ridge above the clouds",
+        "credit": "Brian Erickson",
+        "page": "https://unsplash.com/photos/man-running-on-edge-near-mountain-XFneC_rHR48",
+        "caption": "Ridge running"
+      }
     }
   ]
 }

@@ -34,6 +34,10 @@ details.day summary::-webkit-details-marker{display:none}
 details.day summary h2{margin:0}
 details.day summary .note{margin:0}
 details.day[open] summary{margin-bottom:12px}
+.hero{margin:18px 0 0}
+.hero img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:4px;background:var(--chip)}
+.hero figcaption{margin:6px 0 0;color:var(--muted);font-size:.78rem}
+.hero figcaption a{color:var(--muted)}
 footer{border-top:1px solid var(--rule);margin-top:36px;padding-top:12px;color:var(--muted);font-size:.8rem}
 @media (prefers-reduced-motion:no-preference){.item a{transition:color .15s}}
 </style>
@@ -65,12 +69,21 @@ function render(data){
       }).join('')+'</section>';
     }).join('');
   }
+  var hero = (days[0] && days[0].hero) ? days[0].hero : null;
+  var heroHtml = hero ? '<figure class="hero"><img src="'+esc(hero.img)+'" alt="'+esc(hero.alt||'')+'" loading="eager"><figcaption>'+(hero.caption?esc(hero.caption)+'. ':'')+'Photo by <a href="'+esc(hero.page||'#')+'" target="_blank" rel="noopener">'+esc(hero.credit||'Unsplash')+'</a> on Unsplash</figcaption></figure>' : '';
   var html = days.map(function(d,i){
     var head = '<h2>'+esc(d.label)+'</h2>'+(d.note?'<p class="note">'+esc(d.note)+'</p>':'');
     if(i===0){ return '<section class="day">'+head+renderSlots(d.slots)+'</section>'; }
     return '<details class="day"><summary>'+head+'</summary>'+renderSlots(d.slots)+'</details>';
   }).join('');
-  root.innerHTML = html || '<p class="note">Nothing yet. The first list arrives on the next weekday morning.</p>';
+  root.innerHTML = heroHtml + (html || '<p class="note">Nothing yet. The first list arrives on the next weekday morning.</p>');
+  root.addEventListener('click', function(e){
+    var a = e.target.closest('.item a'); if(!a) return;
+    var item = a.closest('.item'); var slot = item && item.closest('.slot'); var h = slot && slot.querySelector('h3');
+    var meta = item && item.querySelector('.meta');
+    var payload = JSON.stringify({u:a.href, t:a.textContent, slot:h?h.textContent:'', m:meta?meta.textContent:''});
+    try{ if(navigator.sendBeacon){ navigator.sendBeacon('/api/clicks', new Blob([payload],{type:'application/json'})); } else { fetch('/api/clicks',{method:'POST',body:payload,keepalive:true,headers:{'content-type':'application/json'}}); } }catch(err){}
+  });
   if(days[0]){ document.getElementById('stamp').textContent = 'Latest: '+days[0].label+'. Updated each weekday around 6:50 am. Everything here is free to read, no sign-in.'; }
 }
 fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(render).catch(function(){ render({days:[]}); });
