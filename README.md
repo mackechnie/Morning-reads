@@ -1,5 +1,7 @@
 # Morning Reads
 
+Live at https://morningreads.netlify.app
+
 A static page with a daily list of free reading and listening links for the commute.
 
 - `index.html` renders `data.json`. Do not edit the HTML for a daily update.
