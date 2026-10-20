@@ -1,6 +1,168 @@
 {
   "days": [
     {
+      "date": "2026-10-20",
+      "label": "Tuesday, October 20",
+      "note": "Fresh sites all over today: Carryology, Science News, Big Think, Atlas Obscura, Humble Dollar, A Wealth of Common Sense, Motor Sport Magazine, Motorsport Week, and a map blog.",
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1493787039806-2edcbe808750?w=1400&q=75&auto=format",
+        "alt": "A man fly fishing on the Owens River at sunset with snow-capped mountains behind him",
+        "credit": "Robson Hatsukami Morgan",
+        "page": "https://unsplash.com/photos/landscape-photo-of-man-fishing-on-river-near-mountain-alps-qr7tsSwDOg0",
+        "caption": "Owens River, dusk"
+      },
+      "slots": [
+        {
+          "name": "Gear",
+          "items": [
+            {
+              "t": "The forgotten British brand that changed outdoor gear forever",
+              "u": "https://www.carryology.com/liking/brands/the-forgotten-british-brand-that-changed-outdoor-gear-forever/",
+              "d": "The rise and fall of Karrimor, the Lancashire bike-bag shop that invented the Karrimat sleeping pad and built the packs carried up Everest in 1975, then got crushed by cheap imports. Gear history rather than a product plug. New site for this list.",
+              "m": "Carryology, Sep 7"
+            },
+            {
+              "t": "This legendary mil-spec dive watch now has a permanent titanium upgrade",
+              "u": "https://www.gearpatrol.com/watches/marathon-titanium-gsar-type-ii/",
+              "d": "Marathon's GSAR, the dive watch actually issued to search-and-rescue units, finally gets a regular-production titanium case about 30 percent lighter, with tritium tubes and a 24-hour military dial. A quick look at a tool watch built for use rather than show.",
+              "m": "Gear Patrol, Oct 16"
+            }
+          ]
+        },
+        {
+          "name": "Easy science",
+          "items": [
+            {
+              "t": "These tiny snakes cartwheel to escape danger",
+              "u": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
+              "d": "Researchers put little Southeast Asian snakes on a lab racetrack and filmed them flinging themselves into airborne cartwheels at up to 13 km/h, which finally explains the old hoop snake legend. About 700 words, with video. New site for this list.",
+              "m": "Science News, Oct 19"
+            },
+            {
+              "t": "7 shocking comparisons between the Universe and a human body",
+              "u": "https://bigthink.com/starts-with-a-bang/7-comparisons-universe-human-body/",
+              "d": "Ethan Siegel lines up the numbers in you (cells, atoms, daily cell turnover) against the numbers out there (stars, galaxies, cosmic structures) and the matchups are surprising. No math, roughly 8 minutes.",
+              "m": "Big Think, Oct 12"
+            }
+          ]
+        },
+        {
+          "name": "Longer read",
+          "items": [
+            {
+              "t": "The history and mystery of Yemen's 'Well of Hell'",
+              "u": "https://www.atlasobscura.com/articles/yemen-well-of-hell-cave-explored",
+              "d": "For centuries locals avoided a 367-foot sinkhole in the Yemeni desert said to be a prison for jinn, until a geologist's team rappelled to the bottom and found waterfalls, cave pearls, and a surprisingly friendly ecosystem. About 1,350 words, 6 or 7 minutes.",
+              "m": "Atlas Obscura"
+            }
+          ]
+        },
+        {
+          "name": "Money",
+          "items": [
+            {
+              "t": "Life insurance",
+              "u": "https://humbledollar.com/2026/10/life-insurance/",
+              "d": "Adam Grossman uses Pacific Life's $58 million settlement over permanent life insurance marketing to make the case for plain term coverage, then walks through how to size it: mortgage balance, future tuition, a living-expense fund, and separate policies for each working spouse. A tight refresher for a high earner with young kids, about 5 minutes. New site for this list.",
+              "m": "Humble Dollar, Oct 17"
+            },
+            {
+              "t": "Is it time to rebalance your portfolio?",
+              "u": "https://awealthofcommonsense.com/2026/10/is-it-time-to-rebalance-your-portfolio/",
+              "d": "Ben Carlson shows how the 2020s bull market has quietly pushed a 60/40 portfolio to roughly 77/23, and argues that with high-quality bond yields above 5 percent a balanced allocation no longer needs heroic stock returns. Short and practical, about 3 minutes.",
+              "m": "A Wealth of Common Sense, Oct 13"
+            }
+          ]
+        },
+        {
+          "name": "Formula 1",
+          "items": [
+            {
+              "t": "Why has Valtteri Bottas lost his F1 race pace? The 'million-dollar question'",
+              "u": "https://www.motorsportmagazine.com/articles/single-seaters/f1/where-has-valtteri-bottass-f1-race-pace-gone-the-million-dollar-question/",
+              "d": "Pablo Elizalde digs into why Bottas qualifies close to Cadillac teammate Sergio Perez but loses the race head-to-head 11 to 4, weighing set-up, car inconsistency, and Bottas himself without rushing to a verdict. About 5 minutes.",
+              "m": "Motor Sport Magazine, Oct 16"
+            },
+            {
+              "t": "It's race week: 5 storylines ahead of the 2026 United States Grand Prix",
+              "u": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-united-states-grand-prix.4utgT1kLqHM2HAM98YP4TW",
+              "d": "Chris Medland sets up Austin, where Antonelli can clinch the title with a win if Russell and Hamilton stumble, and explains why Verstappen's winning run (he is 119 points back) has Mercedes calling his form 'very, very scary'. Also the upgrade race and Haas signing Rafael Camara. About 5 minutes.",
+              "m": "Formula1.com, Oct 19"
+            },
+            {
+              "t": "F1 Rewind: Jenson Button completes Brawn's one pound miracle in Sao Paulo",
+              "u": "https://www.motorsportweek.com/2026/10/18/jenson-button-brawn-gp-miracle/",
+              "d": "Timely history as another title could be decided this weekend: how Ross Brawn bought the Honda team for a pound, dominated early 2009, then watched Button fight from a Q2 exit to the fifth place that sealed the championship at Interlagos. About 3 minutes. New site for this list.",
+              "m": "Motorsport Week, Oct 18"
+            }
+          ]
+        },
+        {
+          "name": "Listen",
+          "items": [
+            {
+              "t": "The Race F1 Podcast: Christian Horner on Ferrari rumors, nearly signing Alonso, and Newey's Aston Martin",
+              "u": "https://shows.acast.com/the-race-f1-podcast/episodes/christian-horner-on-ferrari-rumours-nearly-signing-alonso-wh",
+              "d": "A 56 minute long-form interview with the former Red Bull boss, out days before his book lands. Edd Straw and Jon Noble get him on building Red Bull from disruptor to dynasty, why he was pushed out, his conditions for a comeback, and how the Ferrari rumors started.",
+              "m": "F1 podcast, Oct 18"
+            },
+            {
+              "t": "Bring Back V10s: Debating your 'V10sMen' suggestions",
+              "u": "https://podcasts.apple.com/us/podcast/bbv10s-bonus-debating-your-v10smen-suggestions/id1502628252?i=1000788469225",
+              "d": "A 36 minute bonus episode where Glenn Freeman and Matt argue over which listener-nominated V10 era cult heroes (Salo, Fisichella, Panis, Herbert) actually earn the badge. Pure 1990s and 2000s nostalgia with no race recap in sight.",
+              "m": "F1 podcast, Sep 8"
+            },
+            {
+              "t": "Science Vs: Collagen peptides, should you take them?",
+              "u": "https://podcasts.apple.com/us/podcast/collagen-peptides-should-you-take-them/id1051557000?i=1000793832436",
+              "d": "Wendy Zukerman spends 35 minutes testing the influencer claims that collagen powders make you look younger and recover faster, with dermatologists and exercise physiologists explaining what actually happens to collagen once you swallow it.",
+              "m": "Podcast, Oct 8"
+            },
+            {
+              "t": "Planet Money: Wanna slow down AI? These biologists can help",
+              "u": "https://podcasts.apple.com/us/podcast/wanna-slow-down-ai-these-biologists-can-help/id290783428?i=1000796381396",
+              "d": "A 29 minute history lesson about the 1975 Asilomar meeting, when scientists voluntarily paused gene-splicing research for four days on the California coast, and whether that playbook could work again. A fun collective action puzzle told as a story.",
+              "m": "Podcast, Oct 14"
+            }
+          ]
+        },
+        {
+          "name": "Front page, no Reddit",
+          "items": [
+            {
+              "t": "I built a drone with only one motor",
+              "u": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+              "d": "Maker Joshua Bird builds a flying drone that steers with a single motor, working through failed hub designs, timing fixes, a homemade high-speed camera, and a test stand before it finally flies. Satisfying garage engineering, with open-source CAD files if you want to poke at the design.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Gdynia and the dream of a maritime Poland",
+              "u": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+              "d": "In 1920 a newly independent Poland, boxed in by Germany and the German-run Free City of Danzig, picked a fishing village and built a modernist port city from scratch in under two decades. A compact history of ambition, architecture, and the limits of a harbor in guaranteeing a country's security.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+              "u": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+              "d": "Researchers at the University of Parma tested 70 dogs and found they looked longer at the round shape for 'bouba' and the spiky one for 'kiki', the same sound-shape instinct people have. A three minute oddity.",
+              "m": "Hacker News"
+            }
+          ]
+        },
+        {
+          "name": "Wildcard",
+          "items": [
+            {
+              "t": "There are 89,603 dogs in New York City",
+              "u": "https://googlemapsmania.blogspot.com/2026/10/there-are-89603-dogs-in-new-york-city.html",
+              "d": "A short post on Every Dog in New York, an interactive map built from the city's dog licensing records that shows the dominant breed and most popular names in each of 197 neighborhoods, plus the 2020 puppy spike and the end of the French Bulldog boom. Fun to poke around in for ten minutes. New site for this list.",
+              "m": "Maps Mania, Oct 19"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "label": "Monday, October 19",
       "note": "Automated edition, with two F1 podcasts and a third F1 site added mid-morning.",
