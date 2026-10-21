@@ -9,7 +9,7 @@ export default async (req) => {
     try { body = await req.json(); } catch { return new Response("bad request", { status: 400 }); }
     const u = clean(body.u, 500);
     if (!/^https?:\/\//.test(u)) return new Response("bad request", { status: 400 });
-    const rec = { u, t: clean(body.t, 200), slot: clean(body.slot, 60), m: clean(body.m, 60), at: new Date().toISOString() };
+    const rec = { u, t: clean(body.t, 200), slot: clean(body.slot, 60), m: clean(body.m, 60), pick: clean(body.pick, 8), at: new Date().toISOString() };
     const key = "log/" + Date.now() + "-" + Math.random().toString(36).slice(2, 8);
     await store.setJSON(key, rec);
     return new Response("ok");
@@ -26,7 +26,8 @@ export default async (req) => {
     total: recs.length,
     bySlot: count("slot"),
     bySource: count("m"),
-    recent: recs.slice(-40).reverse().map(({ t, u, slot, m, at }) => ({ t, u, slot, m, at })),
+    byPick: count("pick"),
+    recent: recs.slice(-40).reverse().map(({ t, u, slot, m, pick, at }) => ({ t, u, slot, m, pick, at })),
   };
   return Response.json(body, { headers: { "cache-control": "no-store" } });
 };

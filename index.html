@@ -28,6 +28,12 @@ header p{margin:4px 0 0;color:var(--muted);font-size:.9rem}
 .item a{color:var(--fg);font-family:var(--display);font-weight:600;font-size:1.1rem;text-decoration:none;line-height:1.3}
 .item a:hover,.item a:focus-visible{text-decoration:underline;outline:none}
 .item p{margin:3px 0 0;color:var(--muted);font-size:.93rem}
+.more summary{cursor:pointer;list-style:none;font-size:.8rem;font-weight:500;color:var(--accent);padding:2px 0;width:max-content}
+.more summary::-webkit-details-marker{display:none}
+.more summary::before{content:"+ "}
+.more[open] summary::before{content:"\2212  "}
+.more summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.more .items{display:grid;gap:10px;margin-top:10px;padding-left:12px;border-left:2px solid var(--rule)}
 .meta{display:inline-block;background:var(--chip);border-radius:3px;padding:1px 7px;font-size:.72rem;color:var(--muted);margin-left:6px;vertical-align:middle;white-space:nowrap}
 details.day summary{cursor:pointer;list-style:none;display:flex;align-items:baseline;gap:10px}
 details.day summary::-webkit-details-marker{display:none}
@@ -66,11 +72,14 @@ function render(data){
   }).map(function(x){ return x.d; }).slice(0,14);
   var root = document.getElementById('days');
   function esc(s){ return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];}); }
+  function renderItem(it){
+    return '<div class="item"><a href="'+esc(it.u)+'" target="_blank" rel="noopener">'+esc(it.t)+'</a>'+(it.m?'<span class="meta">'+esc(it.m)+'</span>':'')+(it.d?'<p>'+esc(it.d)+'</p>':'')+'</div>';
+  }
+  // Each slot shows its top picks; optional "more" holds the rest, folded under a toggle.
   function renderSlots(slots){
     return slots.map(function(s){
-      return '<section class="slot"><h3>'+esc(s.name)+'</h3>'+s.items.map(function(it){
-        return '<div class="item"><a href="'+esc(it.u)+'" target="_blank" rel="noopener">'+esc(it.t)+'</a>'+(it.m?'<span class="meta">'+esc(it.m)+'</span>':'')+(it.d?'<p>'+esc(it.d)+'</p>':'')+'</div>';
-      }).join('')+'</section>';
+      var more = (s.more && s.more.length) ? '<details class="more"><summary>'+s.more.length+' more</summary><div class="items">'+s.more.map(renderItem).join('')+'</div></details>' : '';
+      return '<section class="slot"><h3>'+esc(s.name)+'</h3>'+s.items.map(renderItem).join('')+more+'</section>';
     }).join('');
   }
   var hero = (days[0] && days[0].hero) ? days[0].hero : null;
@@ -85,7 +94,7 @@ function render(data){
     var a = e.target.closest('.item a'); if(!a) return;
     var item = a.closest('.item'); var slot = item && item.closest('.slot'); var h = slot && slot.querySelector('h3');
     var meta = item && item.querySelector('.meta');
-    var payload = JSON.stringify({u:a.href, t:a.textContent, slot:h?h.textContent:'', m:meta?meta.textContent:''});
+    var payload = JSON.stringify({u:a.href, t:a.textContent, slot:h?h.textContent:'', m:meta?meta.textContent:'', pick:a.closest('.more')?'more':'top'});
     try{ if(navigator.sendBeacon){ navigator.sendBeacon('/api/clicks', new Blob([payload],{type:'application/json'})); } else { fetch('/api/clicks',{method:'POST',body:payload,keepalive:true,headers:{'content-type':'application/json'}}); } }catch(err){}
   });
   if(days[0]){ document.getElementById('stamp').textContent = 'Latest: '+days[0].label+'. Updated each weekday around 6:50 am. Everything here is free to read, no sign-in.'; }
