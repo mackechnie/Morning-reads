@@ -1,6 +1,346 @@
 {
   "days": [
     {
+      "date": "2026-10-21",
+      "label": "Wednesday, October 21",
+      "note": "New sites today: Longreads, Early Retirement Now, Mr. Money Mustache, GPblog, RacingNews365, Open Culture, Short Wave, and a Nebraska newsroom with a hot dog cannon. Each slot now folds a few extras under a toggle.",
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1509914398892-963f53e6e2f1?w=1400&q=75&auto=format",
+        "alt": "A surfer riding a small wave on golden sunlit water at sunset",
+        "credit": "Linus Nylund",
+        "page": "https://unsplash.com/photos/man-surfing-on-ocean-water-during-golden-hour-SfdwxMA5VIM",
+        "caption": "Golden hour surf"
+      },
+      "slots": [
+        {
+          "name": "Gear",
+          "items": [
+            {
+              "t": "The lost art of carrying loads",
+              "u": "https://www.carryology.com/insights/the-lost-art-of-carrying-loads/",
+              "d": "A tour of how people around the world have hauled heavy things for centuries, from Japanese furoshiki cloths and Himalayan tumpline baskets to birch-bark packs and head carrying, and what modern backpack designers could learn from them. About 3,000 words, 15 to 20 minutes.",
+              "m": "Carryology, Aug 18"
+            },
+            {
+              "t": "Storyteller's clever new modular camper van makes gear a priority, too",
+              "u": "https://www.gearpatrol.com/cars/2027-storyteller-gear-mode-van-conversion/",
+              "d": "Storyteller's new Gear Mode Sprinter conversion has wall panels that flip between cargo bay, bunks, and dinette, so bikes and boards ride inside with the family. About 500 words, a quick daydream read.",
+              "m": "Gear Patrol, Oct 15"
+            }
+          ],
+          "more": [
+            {
+              "t": "Wait, did Fossil just make a great automatic watch?",
+              "u": "https://www.gearpatrol.com/watches/fossil-signature-cs-1-swiss-automatic-chronograph-collection/",
+              "d": "The mall-watch brand of your high school years is back with Swiss automatic movements and a mid-priced Signature CS-1 line, and Gear Patrol is cautiously impressed. About 850 words.",
+              "m": "Gear Patrol, Oct 19"
+            },
+            {
+              "t": "Outerknown outshines Patagonia at its own game with a premium fleece lineup",
+              "u": "https://www.gearpatrol.com/outdoors/outerknown-woolaroo-collection/",
+              "d": "Why recycled wool might beat polyester fleece for breathability, warmth when wet, and stink resistance, hung on Outerknown's new Woolaroo line. About 500 words.",
+              "m": "Gear Patrol, Oct 15"
+            },
+            {
+              "t": "Yeti's new under-the-radar release is practical, backwards compatible and budget-friendly",
+              "u": "https://www.gearpatrol.com/outdoors/yeti-stronghold-lid-travel-mug/",
+              "d": "Yeti quietly fixed the fiddly four-piece lid on its Travel Mug with a leakproof three-piece Stronghold Lid that fits older mugs too. About 700 words.",
+              "m": "Gear Patrol, Oct 20"
+            }
+          ]
+        },
+        {
+          "name": "Easy science",
+          "items": [
+            {
+              "t": "Whoa, the Lion Nebula!",
+              "u": "https://kottke.org/26/10/whoa-the-lion-nebula",
+              "d": "A fresh James Webb infrared portrait of the Lion Nebula, the glowing bubble a dying Sun-like star leaves behind, with a plain-language explainer on the lion's face, mane, and comet-like tufts of dust. A two-minute look at a gorgeous image that will be gone in about 10,000 years.",
+              "m": "Kottke.org, Oct 14"
+            },
+            {
+              "t": "Voyager 1 is now one light-day from Earth. What's out there?",
+              "u": "https://www.sciencenews.org/article/voyager-1-light-day-exploration",
+              "d": "On November 18 the 1977 probe becomes the first human-made object a full light-day away, and this piece walks through what it has found at the edge of the solar system and the unexplained readings it has sent back since 2020. About 1,700 words, 9 minutes.",
+              "m": "Science News, Oct 14"
+            }
+          ],
+          "more": [
+            {
+              "t": "This giant waterlily species was discovered via Instagram",
+              "u": "https://nautil.us/this-giant-waterlily-species-was-discovered-via-instagram-1285947",
+              "d": "A botanist's Instagram selfie tipped off Kew's waterlily expert to a plant growing far outside its known range in Colombia, and a scramble up the Inirida River turned up a new six-foot-wide species with only 30 to 50 plants left. About 400 words.",
+              "m": "Nautilus, Oct 20"
+            },
+            {
+              "t": "Astronomers find first green star",
+              "u": "https://nautil.us/it-feels-like-something-out-of-science-fiction-astronomers-find-first-green-star-1285927",
+              "d": "Stars are never supposed to look green, but a cool white dwarf that swallowed its own planets now glows chartreuse because sodium in its atmosphere soaks up the orange light. About 600 words, with a salmon-pink star as a bonus.",
+              "m": "Nautilus, Oct 19"
+            },
+            {
+              "t": "How hunting owls use sound to see under the snow",
+              "u": "https://kottke.org/26/10/how-hunting-owls-use-sound-to-see-under-the-snow",
+              "d": "A short clip from CBC's The Nature of Things uses a 60-microphone acoustic camera to show what a great grey owl hears through half a meter of snow before it dives on a vole. Quick post plus a short video, good for the kids too.",
+              "m": "Kottke.org, Oct 15"
+            },
+            {
+              "t": "How the Grand Canyon could have lost 1 billion years of geologic history",
+              "u": "https://www.sciencenews.org/article/grand-canyon-lost-history-giant-cliff",
+              "d": "A new idea for the famous gap in the canyon's rock record: a continent-spanning cliff that formed as the supercontinent Rodinia broke apart and eroded a billion years of rock away. 3-minute read.",
+              "m": "Science News, Oct 9"
+            }
+          ]
+        },
+        {
+          "name": "Longer read",
+          "items": [
+            {
+              "t": "Still on its way to Cleveland",
+              "u": "https://longreads.com/2026/09/22/family-road-trip-early-internet-90s/",
+              "d": "In fall 1996 a Michigan couple loaded three kids and a golden retriever into a motorhome and spent nine months and 25,000 miles crossing 40 states, filing a family travel website over dial-up from libraries and strangers' offices along the way. A warm, funny memoir of a big family adventure and the friendlier early internet that made it possible, about 2,700 words (10 to 14 minutes). New site for this list.",
+              "m": "Longreads, Sep 22"
+            }
+          ],
+          "more": [
+            {
+              "t": "Death by a thousand dams",
+              "u": "https://biographic.com/death-by-a-thousand-dams/",
+              "d": "Ben Goldfarb on the tens of thousands of small, forgotten mill dams across the Northeast that still block alewives and shad, and the people pulling them out one creek at a time to bring the fish runs back. Free and ad-free on nonprofit bioGraphic, about 4,400 words (roughly 20 minutes). New site for this list.",
+              "m": "bioGraphic, Sep 22"
+            },
+            {
+              "t": "Where the forest went",
+              "u": "https://longreads.com/2026/10/13/american-forest-development-property-hugh-maxwell/",
+              "d": "In 1788 a surveyor named Hugh Maxwell walked straight lines through 2.6 million acres of western New York forest and turned it into a grid of parcels for sale; the author retraces his route through what is now suburbia. About 5,900 words (25 minutes).",
+              "m": "Longreads, Oct 13"
+            }
+          ]
+        },
+        {
+          "name": "Money",
+          "items": [
+            {
+              "t": "Can a TIPS allocation raise my safe withdrawal rate?",
+              "u": "https://earlyretirementnow.com/2026/10/19/tips-swr-series-part-66/",
+              "d": "Big ERN reverses his old skepticism on TIPS now that 20- and 30-year real yields sit above 3 percent, and runs the simulations showing a partial TIPS ladder can lift a safe withdrawal rate toward 5 percent in a tax-advantaged account. Dense but rigorous, about 25 minutes. New site for this list.",
+              "m": "Early Retirement Now, Oct 19"
+            },
+            {
+              "t": "Will the AI bubble destroy our retirement?",
+              "u": "https://www.mrmoneymustache.com/2026/09/25/will-the-ai-bubble-destroy-our-retirement/",
+              "d": "MMM zooms out to show how 2008 and 2020 look like blips on a 20-year chart, then argues the real portfolio risk is your own fear reflex, with practical rules for managing it. Upbeat, about 2,000 words. New site for this list.",
+              "m": "Mr. Money Mustache, Sep 25"
+            }
+          ],
+          "more": [
+            {
+              "t": "Some thoughts on spending",
+              "u": "https://jlcollinsnh.com/2026/02/01/some-thoughts-on-spending/",
+              "d": "JL Collins on how to spend without guilt once you have enough, including why a poor-value splurge like a first-class seat can still be the right call. An 11-minute evergreen read. New site for this list.",
+              "m": "JL Collins, Feb 1"
+            },
+            {
+              "t": "Long-term money",
+              "u": "https://collabfund.com/blog/long-term-money/",
+              "d": "Morgan Housel on why each generation works so the next can have it easier, and why the kids who benefit look spoiled rather than lucky. A quick 800-word read for anyone saving for young children. New site for this list.",
+              "m": "Collaborative Fund, Apr 2"
+            },
+            {
+              "t": "The shockingly simple math behind Social Security",
+              "u": "https://www.mrmoneymustache.com/2026/04/16/the-shockingly-simple-math-behind-social-security/",
+              "d": "Treats your future Social Security as a present-value asset you already own and shows how much it shrinks the savings target for someone in their 40s. About 2,200 words with a worked example on claiming at 62 versus later.",
+              "m": "Mr. Money Mustache, Apr 16"
+            }
+          ]
+        },
+        {
+          "name": "Formula 1",
+          "items": [
+            {
+              "t": "Analysis: Max Verstappen up to three seconds slower in Austin",
+              "u": "https://www.gpblog.com/en/analysis/verstappen-simulation-in-austin-produces-surprising-picture-for-red-bull",
+              "d": "Austin preview with a twist: GPblog runs the numbers on how much slower the 2026 cars will be around COTA than Verstappen's 2025 pole lap (about 2.8 seconds) and where the time goes, in the fast esses and on the straight where battery energy runs out. About 1,000 words, 5 minutes. New site for this list.",
+              "m": "GPblog, Oct 21"
+            },
+            {
+              "t": "Exclusive: Red Bull reveal knife-edge battle as Max Verstappen confidence builds",
+              "u": "https://racingnews365.com/exclusive-red-bull-reveal-knife-edge-battle-as-max-verstappen-confidence-builds",
+              "d": "Red Bull technical director Pierre Wache explains why the RB22 was so hard to balance between low-speed traction and high-speed stability, and how the Baku floor and diffuser package turned the car into a two-race winner. A rare peek inside the engineering before Austin, about 3 minutes. New site for this list.",
+              "m": "RacingNews365, Oct 20"
+            },
+            {
+              "t": "MPH: The revelation in Horner's book, how he turned Red Bull from no-hopers into F1 winners",
+              "u": "https://www.motorsportmagazine.com/articles/single-seaters/f1/mph-the-revelation-in-horners-book-how-he-transformed-red-bull-from-no-hopers-to-f1-title-winners/",
+              "d": "Mark Hughes reads Christian Horner's new memoir Drive and pulls out the story of how a struggling ex-Jaguar outfit landed Adrian Newey in 2006 and the friction that followed. Good team-building history with some fresh gossip, about 950 words, 5 minutes.",
+              "m": "Motor Sport Magazine, Oct 21"
+            }
+          ],
+          "more": [
+            {
+              "t": "Youngest world champion in F1 history? The records Kimi Antonelli is closing in on",
+              "u": "https://www.grandprix247.com/f1-driver-news/youngest-world-champion-in-f1-history-the-records-kimi-antonelli-is-closing-in-on",
+              "d": "What has to happen in Austin for Antonelli to clinch the title at 20, plus the Vettel, Hamilton and Mercedes records he is chasing. About 950 words, 5 minutes. New site for this list.",
+              "m": "GrandPrix247, Oct 17"
+            },
+            {
+              "t": "Featured comment: Budget cap not to blame for lack of winning teams in F1",
+              "u": "https://www.racefans.net/2026/10/20/featured-comment-budget-cap-not-to-blame-for-lack-of-winning-teams-in-f1/",
+              "d": "Keith Collantine spotlights a reader who counted only six wins from outside the top four teams in roughly 600 races between 1990 and 2023, an argument that money, not the cost cap, keeps the winners' circle small. About 400 words, 2 minutes.",
+              "m": "RaceFans, Oct 20"
+            },
+            {
+              "t": "Horner was congratulated by Red Bull bosses after F1 engine's wins",
+              "u": "https://www.the-race.com/formula-1/horner-was-congratulated-by-red-bull-bosses-after-f1-engines-wins/",
+              "d": "Horner says the shareholders who fired him thanked him when the in-house Red Bull engine he championed won its first races this year. Gossip with a sting, about 775 words, 4 minutes.",
+              "m": "The Race, Oct 19"
+            },
+            {
+              "t": "On This Day: Hill claims emotional championship victory for Williams at Suzuka",
+              "u": "https://www.racefans.net/2026/10/13/on-this-day-hill-claims-emotional-championship-victory-for-williams-at-suzuka/",
+              "d": "Thirty years ago this month Damon Hill won the title in his last race for Williams, the team that had already shown him the door. A one-minute history nugget from Keith Collantine.",
+              "m": "RaceFans, Oct 13"
+            },
+            {
+              "t": "Lewis Hamilton delivers blunt assessment on common F1 track feature",
+              "u": "https://www.motorsportweek.com/2026/10/19/lewis-hamilton-f1-tracks/",
+              "d": "Hamilton says he misses grass and gravel run-offs and names his toughest physical seasons, a quick read before a weekend at tarmac-heavy COTA. About 350 words, 2 minutes.",
+              "m": "Motorsport Week, Oct 19"
+            }
+          ]
+        },
+        {
+          "name": "Listen",
+          "items": [
+            {
+              "t": "Motor Sport F1 Show: Ferrari F1 comms blunders, 'Hamilton asked a really easy question!'",
+              "u": "https://podcasts.apple.com/us/podcast/ferrari-f1-comms-blunders-hamilton-asked-a-really/id328064082?i=1000796478223",
+              "d": "Mark Hughes and Bryn Lucas trace Ferrari's radio and strategy communication problems back to the Vettel era and explain why drivers stop trusting the pit wall, then take listener questions on those odd rear-wing triangles and on F1's planned Rwanda race. 57 minutes.",
+              "m": "F1 podcast, Oct 15"
+            },
+            {
+              "t": "P1 with Matt and Tommy: Our 2026 United States GP predictions",
+              "u": "https://getcarcurious.com/episodes/our-2026-united-states-gp-predictions",
+              "d": "A light race-week preview for Austin with pole and winner picks, driver-market chatter about Haas and Raphael Kamara, and how teams use private testing to find lap time. 34 minutes.",
+              "m": "F1 podcast, Oct 20"
+            },
+            {
+              "t": "Unexplainable: What color is a tennis ball?",
+              "u": "https://podcasts.apple.com/us/podcast/what-color-is-a-tennis-ball/id1554578197?i=1000793205239",
+              "d": "Yellow or green? Neuroscientist and artist Bevil Conway argues there may be no such thing as color at all, which makes this a fun one to settle with the kids. 28 minutes.",
+              "m": "Podcast, Oct 5"
+            },
+            {
+              "t": "Planet Money: Charles Ponzi's scheme (plus a new scam)",
+              "u": "https://podcasts.apple.com/us/podcast/charles-ponzis-scheme-plus-a-new-scam/id290783428?i=1000793495771",
+              "d": "How an Italian immigrant with a postal reply coupon and no money became a household name for fraud, based on Mitchell Zuckoff's book, with a modern scam tacked on at the end. 26 minutes.",
+              "m": "Podcast, Oct 7"
+            },
+            {
+              "t": "Short Wave: What are the odds we're not alone in the universe?",
+              "u": "https://podcasts.apple.com/us/podcast/what-are-the-odds-were-not-alone-in-the-universe/id1482575855?i=1000797162337",
+              "d": "A quick walk through the Drake Equation and whether the 1961 formula still guides the search for alien life. 15 minutes, so a short one for the last stretch of the drive. New show for this list.",
+              "m": "Podcast, Oct 20"
+            }
+          ],
+          "more": [
+            {
+              "t": "Missed Apex: Behind the Barriers, Campbell Waddell",
+              "u": "https://podcasts.apple.com/gb/podcast/behind-the-barriers-campbell-waddell/id1097310026?i=1000796969946",
+              "d": "An interview with Dr Campbell Waddell, whose PhD on motorsport surfaces turned into 20 years working on F1 circuits around the world, covering how asphalt and tires interact plus the story of an F1 driver accidentally hitting him in the face with a door. A long one at 64 minutes. New show for this list.",
+              "m": "F1 podcast, Oct 18"
+            },
+            {
+              "t": "Unexplainable: How does music move us? (feat. Sylvan Esso's Amelia Meath)",
+              "u": "https://podcasts.apple.com/us/podcast/how-does-music-move-us-feat-sylvan-essos-amelia-meath/id1554578197?i=1000793617277",
+              "d": "Why a song can give you goosebumps or make you cry, with singer Amelia Meath and Princeton music cognition researcher Elizabeth Margulis. 32 minutes.",
+              "m": "Podcast, Oct 7"
+            },
+            {
+              "t": "Planet Money: Where all those weird new drinks are coming from",
+              "u": "https://podcasts.apple.com/us/podcast/where-all-those-weird-new-drinks-are-coming-from/id290783428?i=1000792902764",
+              "d": "A visit to the beverage lab behind the flood of functional sodas and strange seltzers, including a taste test of a sports hydration broth. 30 minutes.",
+              "m": "Podcast, Oct 2"
+            }
+          ]
+        },
+        {
+          "name": "Front page, no Reddit",
+          "items": [
+            {
+              "t": "Der Viener Schlinger: the meat cannon that launched 20,000 hot dogs",
+              "u": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+              "d": "A Nebraska nonprofit newsroom tells the full story of the handheld hot dog launcher that has fired wieners into the Memorial Stadium crowd at Husker games since 1997, from its radio-contest name to the student engineers who kept improving it. Long and very fun, about 4,000 words (19 minutes). New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Flat pack, step by step: IKEA manuals built in 3D",
+              "u": "https://sael.net/flatpack/",
+              "d": "Ryan Sael pairs the real IKEA instruction pages for the BILLY bookcase and the LACK table with an interactive 3D build you can step through, play end to end, or explode apart, plus a short explainer on how cam locks actually work. Ten minutes of poking around, oddly satisfying.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "William Gibson and the trademarking of Cyberspace",
+              "u": "https://colo.to/cyberspace.html",
+              "d": "Eric Gullichsen, who was at Autodesk when the company tried to trademark the word cyberspace around 1989, sets the record straight on Gibson's objection and the long-running myth (a Timothy Leary prank) that Gibson trademarked Gullichsen's name in revenge. Short, about 600 words.",
+              "m": "Hacker News"
+            }
+          ],
+          "more": [
+            {
+              "t": "Permit Pending: SimCity, but with permits",
+              "u": "https://permit.petercai.com/",
+              "d": "A free browser city builder (no account, desktop only) where you are an elected mayor rather than a god, so every new road, apartment block or factory has to survive zoning boards, angry neighbors, lawsuits and the next election. Satirical premise, real game.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Weball: play Katamari on any website",
+              "u": "https://www.funwithcomputervision.com/weball/",
+              "d": "Type in any URL and roll a Katamari-style ball around the page, scooping up words, images and buttons as it grows. Silly five-minute toy, no sign-in.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Making solar panels with a microwave (video)",
+              "u": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+              "d": "The Dr.Semiconductor channel fabricates working silicon solar cells in a home garage using a 900 watt microwave, a microwave kiln and bare wafers, as a demonstration of what hobby gear can do versus a real chip fab.",
+              "m": "Hacker News"
+            }
+          ]
+        },
+        {
+          "name": "Wildcard",
+          "items": [
+            {
+              "t": "In 1897, London's lampposts dispensed hot coffee, tea, and fluid beef",
+              "u": "https://www.openculture.com/2026/10/in-1897-londons-lampposts-dispensed-hot-coffee-tea-and-fluid-beef.html",
+              "d": "The Pluto Lamp was a Victorian streetlight that sold a ha'penny cup of hot coffee, tea, cocoa, or beef broth, plus postcards and cigarettes, until counterfeit coins and upkeep killed it before 1900. About 430 words, a two-minute curiosity. New site for this list.",
+              "m": "Open Culture, Oct"
+            }
+          ],
+          "more": [
+            {
+              "t": "The best Monopoly strategy, tested on 300 million games",
+              "u": "https://kottke.org/26/10/the-best-monopoly-strategy-tested-on-300-million-games",
+              "d": "A simulation of 313 million Monopoly games finds the best strategy wins 43 percent of four-player games and the worst just 3 percent, and names the four mistakes that make the difference. Short post pointing to a YouTube breakdown, handy before the next family game night.",
+              "m": "Kottke.org, Oct 20"
+            },
+            {
+              "t": "In 'Aeolus,' DRIFT suspends illuminated glass rods in a sculpture of the wind",
+              "u": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
+              "d": "Amsterdam studio DRIFT hung hundreds of lit glass rods that ripple when visitors move past, so the sculpture only exists when someone is in the room. One-minute read with photos. New site for this list.",
+              "m": "Colossal, Oct 19"
+            },
+            {
+              "t": "Interactive map of the Hebrew Bible",
+              "u": "https://flowingdata.com/2026/10/09/interactive-map-of-the-hebrew-bible/",
+              "d": "Nathan Yau points to Torahmap, which lays out every verse of the Hebrew Bible as a zoomable grid, one column per book, one square per verse, a neat example of treating words as data. One-minute post that links out to the project. New site for this list.",
+              "m": "FlowingData, Oct 9"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-20",
       "label": "Tuesday, October 20",
       "note": "Fresh sites all over today: Carryology, Science News, Big Think, Atlas Obscura, Humble Dollar, A Wealth of Common Sense, Motor Sport Magazine, Motorsport Week, and a map blog.",
