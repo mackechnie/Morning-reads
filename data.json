@@ -1,6 +1,388 @@
 {
   "days": [
     {
+      "date": "2026-10-22",
+      "label": "Thursday, October 22",
+      "note": "New sites today: Wait But Why, Autosport, Crash.net, Smithsonian Magazine, Craig Mod, Aeon, Aftermath, Practical Engineering, and Construction Physics, plus two F1 podcasts new to the list, The Autosport F1 Podcast and Inside Line. Austin race week, and the Horner memoir keeps giving.",
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1478131143081-80f7f84ca84d?w=1400&q=75&auto=format",
+        "alt": "A group of friends gathered around a glowing campfire among tall trees at night in Haliburton, Canada",
+        "credit": "Tegan Mierle",
+        "page": "https://unsplash.com/photos/group-of-people-near-bonfire-near-trees-during-nighttime-fDostElVhN8",
+        "caption": "Fireside, Haliburton"
+      },
+      "slots": [
+        {
+          "name": "Gear",
+          "items": [
+            {
+              "t": "Review: The 2027 Range Rover Electric Is the Most Radical Range Rover Yet",
+              "u": "https://www.gearpatrol.com/cars/first-drive-take-2027-range-rover-electric/",
+              "d": "A real first drive, not a press release: Chris Chin takes a near-production prototype on road and through Land Rover's Gaydon off-road course and asks the only question that matters, does it still feel like a Range Rover. About 1,300 words, 7 minutes.",
+              "m": "Gear Patrol, Sep 4"
+            },
+            {
+              "t": "The James Brand Finally Built an EDC Multi-Tool to Rival the Swiss Army Knife",
+              "u": "https://www.gearpatrol.com/outdoors/the-james-brand-the-helton-exclusive/",
+              "d": "Hands-on time with the Helton, a $169 pocket multi-tool with four locking implements and nine functions, including the honest bit about finish already rubbing off the scales. About 900 words, 5 minutes.",
+              "m": "Gear Patrol, Aug 21"
+            }
+          ],
+          "more": [
+            {
+              "t": "Rivian's Rad Reinterpretation of an Iconic Movie Car Just Put Tesla on Notice",
+              "u": "https://www.gearpatrol.com/cars/rivian-halloween-mode-ecto-r1/",
+              "d": "Rivian and Sony built a full-scale Ghostbusters Ecto-1 version of the R1S, with restored vintage roof sirens and a radar dish, and shipped a Halloween Mode update with themed lights, sounds and an in-car arcade game. Fun one to show the kids. About 500 words, 3 minutes.",
+              "m": "Gear Patrol, Oct 9"
+            },
+            {
+              "t": "Work Sharp's Unique New EDC Knife Aims to Prove Less Really Is More",
+              "u": "https://www.gearpatrol.com/outdoors/work-sharp-rmx-misfit-compact-reverse-tanto/",
+              "d": "The RMX MisFit pairs a stubby 2.4 inch reverse tanto blade with a full-size magnesium handle and revives Work Sharp's switchable manual or automatic deployment, with a conversion kit in the box. About 600 words, 3 minutes.",
+              "m": "Gear Patrol, Oct 19"
+            },
+            {
+              "t": "Swatch Group's German Sleeper Brand Drops a Fun Racing Chronograph",
+              "u": "https://www.gearpatrol.com/watches/union-glashutte-belisar-chronograph-speedster-2026/",
+              "d": "Union Glashutte's new 40mm Belisar Speedster takes its beige and orange checkerboard dial from a one-off 1968 Porsche 911, limited to 288 pieces at $3,700. About 450 words, 2 minutes.",
+              "m": "Gear Patrol, Oct 20"
+            },
+            {
+              "t": "An Affordable Automotive Icon Finally Rolls Into the 21st Century",
+              "u": "https://www.gearpatrol.com/cars/citroen-2cv-all-electric-concept/",
+              "d": "Citroen's electric 2CV concept from the Paris show keeps the people's car brief: roughly one tonne, a single 8 inch screen, a target price near 15,000 euros and production confirmed for 2028. About 400 words, 2 minutes.",
+              "m": "Gear Patrol, Oct 12"
+            },
+            {
+              "t": "Leica Q3 43 Formula 1 Edition Camera",
+              "u": "https://uncrate.com/leica-q3-43-formula-1-edition-camera/",
+              "d": "Quick look at Leica's F1 tie-in: a Q3 43 with a carbon fiber charging grip, red accents, steering-wheel-style grip covering and an app-only F1 color profile, at $9,950. Short blurb, about 120 words.",
+              "m": "Uncrate, Oct 21"
+            }
+          ]
+        },
+        {
+          "name": "Easy science",
+          "items": [
+            {
+              "t": "Japan's sample return mission to Phobos may also collect some Mars dust",
+              "u": "https://www.sciencenews.org/article/japan-mission-mars-moon",
+              "d": "Japan's MMX probe launched this week to land a rover on Mars's bigger moon, scoop up about 10 grams of it, and fly it home by 2031, with a bonus chance of catching grains blasted off Mars itself. A clear, timely explainer at about 950 words, roughly 4 minutes.",
+              "m": "Science News, Oct 19"
+            },
+            {
+              "t": "A Stunning Nebula Image Predicts How Our Sun Will Die",
+              "u": "https://nautil.us/a-stunning-nebula-image-predicts-how-our-sun-will-die-1285851",
+              "d": "An astrophotographer's shot of the Dumbbell Nebula doubles as a preview of our own Sun's finale: red giant, shed outer layers, then a white dwarf lighting up the leftovers for 25,000 years. Quick and vivid, about 650 words or 3 minutes.",
+              "m": "Nautilus, Oct 16"
+            }
+          ],
+          "more": [
+            {
+              "t": "Horned dinosaurs' weapons evolved to handle the forces of combat",
+              "u": "https://www.sciencenews.org/article/horned-dinosaur-skull-forces-combat",
+              "d": "Researchers stress-tested digital skulls of five horned dinosaurs and found Triceratops was built for horn-locking and wrestling, while earlier species were all show. About 800 words, a 3-minute read.",
+              "m": "Science News, Oct 16"
+            },
+            {
+              "t": "To turn invisible, we need to tweak the path light travels",
+              "u": "https://www.sciencenews.org/article/invisibility-tweak-path-light-cloak",
+              "d": "From the Invisible Woman to ghost catfish and glasswing butterflies, a fun look at how real animals get close to transparent and why a true invisibility cloak remains out of reach. No math, about 600 words, 3 minutes.",
+              "m": "Science News, Oct 13"
+            },
+            {
+              "t": "Meet Loki the Sea Cucumber, One of 57 Newly Discovered Deep-Sea Species",
+              "u": "https://nautil.us/meet-loki-the-sea-cucumber-one-of-57-newly-discovered-deep-sea-species-1285856",
+              "d": "A 21-day ROV expedition into a submarine canyon off Argentina turned up 57 new species, led by a translucent 4-inch sea cucumber named Loki. A quick, cheerful read of about 350 words, 2 minutes.",
+              "m": "Nautilus, Oct 16"
+            },
+            {
+              "t": "Ambient Earth",
+              "u": "https://kottke.org/26/10/ambient-earth",
+              "d": "A 7.5-hour real-time 4K video of Earth from the Space Station, stitched from 49,000 astronaut photos with ambient audio recorded on board by Chris Hadfield. The post is a 1-minute read; the video is perfect for a second screen.",
+              "m": "Kottke.org, Oct 21"
+            },
+            {
+              "t": "The Real Kevin Bacon",
+              "u": "https://pudding.cool/2026/10/kevin-bacon/",
+              "d": "An interactive data essay that measures degrees of separation across 169,000 actors, finds Samuel L. Jackson is the true center of Hollywood, and simulates which young actor might take the crown next. About 900 words plus charts, 5 to 7 minutes.",
+              "m": "The Pudding, Oct 2026"
+            }
+          ]
+        },
+        {
+          "name": "Longer read",
+          "items": [
+            {
+              "t": "The Fermi Paradox",
+              "u": "https://waitbutwhy.com/2014/05/fermi-paradox.html",
+              "d": "Tim Urban's classic stick-figure tour of why a galaxy with maybe 100,000 intelligent civilizations looks completely empty, from the Great Filter to the galactic zoo theory. About 5,500 words, 24 minutes, and still the most fun explainer on the subject. New site for this list.",
+              "m": "Wait But Why, May 2014"
+            }
+          ],
+          "more": [
+            {
+              "t": "Twilight of the Velocipede: Typesetting Races before the Age of Linotype",
+              "u": "https://publicdomainreview.org/essay/twilight-of-the-velocipede/",
+              "d": "In the 1870s and 1880s hand typesetters called Swifts raced in front of big crowds for $1,000 purses, and a Boston contest in 1886 featured record-breaking women compositors and two monkeys as distractions. About 3,000 words, 12 minutes, on a very clean site.",
+              "m": "Public Domain Review, May 13"
+            },
+            {
+              "t": "The Long History of the Quest to Find a Peak Taller Than Everest",
+              "u": "https://www.atlasobscura.com/articles/taller-than-everest-katie-ives",
+              "d": "Katie Ives traces a century of rumors, cloud-fooled surveyors and phantom Antarctic summits that convinced climbers something out there topped Everest. Book excerpt, about 1,800 words, 8 minutes.",
+              "m": "Atlas Obscura, book excerpt"
+            }
+          ]
+        },
+        {
+          "name": "Money",
+          "items": [
+            {
+              "t": "Year-End Tax Planning for Physicians: What To Do Before 2026 Is Over",
+              "u": "https://www.physicianonfire.com/year-end-tax-planing-physicians/",
+              "d": "A checklist of moves to make before December 31 under the new tax rules: timing income and deductions, avoiding the AMT and underpayment penalties, topping off retirement and HSA accounts, charitable giving limits, the SALT cap, and when a Roth conversion makes sense. About 3,000 words, 13 minutes.",
+              "m": "Physician on FIRE, Oct 19"
+            },
+            {
+              "t": "Why You (and I) Aren't Retiring",
+              "u": "https://www.whitecoatinvestor.com/why-you-and-i-arent-retiring/",
+              "d": "A columnist who hit financial independence at 45 and kept working digs into why so many high net worth doctors with modest spending still do not feel financially independent, from distrust of withdrawal-rate math to the pull of watching the number grow. About 1,300 words, 6 minutes.",
+              "m": "White Coat Investor, Oct 20"
+            }
+          ],
+          "more": [
+            {
+              "t": "What Is the Average Net Worth by Age?",
+              "u": "https://ofdollarsanddata.com/average-net-worth-by-age/",
+              "d": "Nick Maggiulli breaks down the Fed's new 2025 Survey of Consumer Finances by age and percentile, including the 45 to 54 bracket and what happens to the numbers once you strip out home equity. About 2,500 words, 11 minutes.",
+              "m": "Of Dollars and Data, Oct 20"
+            },
+            {
+              "t": "Market Risks",
+              "u": "https://humbledollar.com/2026/10/market-risks/",
+              "d": "Adam Grossman on two risks that strong markets hide: how a 10 percent average return masks brutal single years, and why P/E ratios tell you almost nothing about the next 12 months. Ends with a Pascal's wager approach to allocation. About 1,000 words, 5 minutes.",
+              "m": "Humble Dollar, Oct 10"
+            },
+            {
+              "t": "Qualified Opportunity Zones Are Back",
+              "u": "https://www.whitecoatinvestor.com/return-of-qoz-qualified-opportunity-zone/",
+              "d": "Jim Dahle explains the permanent new version of opportunity zone funds that starts January 2027: deferring capital gains, the 10 or 30 percent basis step-up, and why the real estate still has to be a good investment before the tax break matters. About 1,000 words, 5 minutes.",
+              "m": "White Coat Investor, Oct 14"
+            },
+            {
+              "t": "The Biggest Risk Everyone Already Knows About",
+              "u": "https://awealthofcommonsense.com/2026/10/the-biggest-risk-everyone-already-knows-about/",
+              "d": "Ben Carlson weighs the AI capex boom against past infrastructure bubbles, with the hyperscalers' debt funding, extreme index concentration, and Nvidia's surprisingly modest forward P/E on the other side of the ledger. Honest about not knowing how it ends. About 700 words, 4 minutes.",
+              "m": "A Wealth of Common Sense, Oct 4"
+            },
+            {
+              "t": "You're Not Rich, and Neither Am I",
+              "u": "https://www.physicianonfire.com/wealth-comparison-physicians/",
+              "d": "Dr. Flashy versus Dr. Net-Worth, two physicians with the same income and very different balance sheets, plus Fed and Medscape data on where doctors actually sit on the wealth curve. The point is spending deliberately, not just spending less. About 1,900 words, 9 minutes.",
+              "m": "Physician on FIRE, Oct 20"
+            }
+          ]
+        },
+        {
+          "name": "Formula 1",
+          "items": [
+            {
+              "t": "Five surprising things we learned from Horner's book",
+              "u": "https://the-race.com/formula-1/five-surprising-things-we-learned-from-horners-book",
+              "d": "Edd Straw pulls the best gossip out of Christian Horner's new memoir: a Lotus test, a late-2012 approach from Niki Lauda to run Mercedes, and the Ricciardo handshake deal that fell apart. Roughly 700 words, a quick and fun read.",
+              "m": "The Race, Oct 22"
+            },
+            {
+              "t": "The maths behind when Mercedes could become F1 world champions in 2026",
+              "u": "https://autosport.com/f1/news/the-maths-behind-when-mercedes-could-become-f1-world-champions-in-2026/10866008/",
+              "d": "A clear walk through the title permutations heading into Austin: Antonelli's 102-point lead, why the drivers' crown is more likely to land in Mexico, and why Mercedes should wrap the constructors' title in Brazil. About 600 words. New site for this list.",
+              "m": "Autosport, Oct 18"
+            },
+            {
+              "t": "F1 victory without a pitstop: Berger and Benetton's shock Mexican GP win",
+              "u": "https://www.motorsportmagazine.com/articles/single-seaters/f1/f1-victory-without-a-pitstop-berger-benettons-shock-mexican-gp-win/",
+              "d": "Matt Bishop marks 40 years since Gerhard Berger ran one set of Pirellis for all 68 laps in 1986 while Senna and Prost pitted, giving Benetton its first win and BMW's turbo its last. Good timing with Mexico up next week. About 1,700 words, an 8-minute read.",
+              "m": "Motor Sport Magazine, Oct 20"
+            }
+          ],
+          "more": [
+            {
+              "t": "Early coronation for Antonelli? Five talking points for the United States Grand Prix",
+              "u": "https://www.racefans.net/2026/10/20/early-coronation-for-antonelli-five-talking-points-for-the-united-states-grand-prix/",
+              "d": "Keith Collantine's Austin preview: whether Antonelli can clinch this weekend (unlikely), whether a resurgent Verstappen and Red Bull keep winning, McLaren's post-Singapore tension, and the US teams' 2027 driver calls. About 500 words.",
+              "m": "RaceFans, Oct 20"
+            },
+            {
+              "t": "How Kimi Antonelli can become F1 world champion at the United States GP",
+              "u": "https://www.crash.net/f1/news/1107507/1/how-kimi-antonelli-can-become-f1-world-champion-united-states-gp",
+              "d": "The exact scenario for a title in Austin: Antonelli must win, Russell must finish ninth or lower, and Hamilton fifth or lower, with Russell's engine penalty possibly helping. About 700 words.",
+              "m": "Crash.net, Oct 20"
+            },
+            {
+              "t": "Lewis Hamilton magic or misery, Max Verstappen glory and more United States GP predictions",
+              "u": "https://www.planetf1.com/features/united-states-grand-prix-2026-predictions",
+              "d": "Five PlanetF1 writers make their calls for Austin, including a first Hamilton podium since 2022 and a Verstappen versus Antonelli fight for the win. About 800 words of fun pre-race opinion.",
+              "m": "PlanetF1, Oct 22"
+            },
+            {
+              "t": "FIA president issues update on timeframe for mooted F1 V8 agreement",
+              "u": "https://www.motorsportweek.com/2026/10/21/fia-president-f1-v8/",
+              "d": "Mohammed Ben Sulayem wants V8s back in 2030, a year earlier than rumored, and needs four of six engine makers on board within months. About 550 words on where F1's engine future stands.",
+              "m": "Motorsport Week, Oct 21"
+            },
+            {
+              "t": "Antonelli reveals F1 championship hopes in meeting with NBA star",
+              "u": "https://www.gpblog.com/en/news/antonelli-makes-f1-title-ambitions-clear-in-unexpected-nba-encounter",
+              "d": "Antonelli dropped in on the San Antonio Spurs and met Victor Wembanyama, saying he hopes to have the title done within two weeks. Light and quick, about 380 words.",
+              "m": "GPblog, Oct 21"
+            },
+            {
+              "t": "Mercedes target Austin fightback with upgrades after difficult Malaysia and Singapore races",
+              "u": "https://www.grandprix247.com/grand-prix-f1-weekend-news/mercedes-target-austin-fightback-with-upgrades-after-difficult-malaysia-and-singapore-races",
+              "d": "Toto Wolff on why both Mercedes drivers get the new upgrade package this weekend and what went wrong in the last two rounds. About 350 words.",
+              "m": "GrandPrix247, Oct 21"
+            }
+          ]
+        },
+        {
+          "name": "Listen",
+          "items": [
+            {
+              "t": "The Autosport F1 Podcast: Red Bull Sets the Pace, FIA Electronics Come Under Fire | Singapore Grand Prix 2026",
+              "u": "https://podcasts.apple.com/us/podcast/red-bull-sets-the-pace-fia-electronics-come-under/id276293870?i=1000795974835",
+              "d": "Autosport veterans Stuart Codling and Kevin Turner ask whether Verstappen's Singapore sprint and race double means Red Bull now has the fastest car, with a clear explainer on tyre wear, why Leclerc and Hamilton faded, and what went wrong with the FIA's electronics in the rain. 40 minutes. New show for this list.",
+              "m": "F1 podcast, Oct 12"
+            },
+            {
+              "t": "Inside Line F1 Podcast: Paddock Stories, Max Verstappen's Win, Lewis Hamilton's Error, FIA Delays, 2026 Singapore GP",
+              "u": "https://podcasts.apple.com/us/podcast/paddock-stories-max-verstappens-win-lewis-hamiltons/id632531804?i=1000797319751",
+              "d": "Kunal Shah, who was in the Marina Bay paddock, brings behind-the-scenes stories from the weekend while Mithila Mehta and Soumil Arora debate Hamilton's puzzling strategy calls and why the race felt so flat. A quick, chatty listen at 31 minutes. Also new to this list.",
+              "m": "F1 podcast, Oct 20"
+            },
+            {
+              "t": "99% Invisible: Audio Guide of the Imperfections of a Perfect Masterpiece",
+              "u": "https://podcasts.apple.com/us/podcast/audio-guide-of-the-imperfections-of-a-perfect-masterpiece/id394775318?i=1000797404365",
+              "d": "A bonus walking tour of Frank Lloyd Wright's Guggenheim spiral that skips the greatness and lingers on the quirks: parapets repainted every night, the faint checkerboard left by sprayed concrete, and the 105 degree display bays that let art hang on a sloping ramp. 30 minutes.",
+              "m": "Podcast, Oct 21"
+            },
+            {
+              "t": "Today, Explained: The passive income influencers",
+              "u": "https://podcasts.apple.com/us/podcast/the-passive-income-influencers/id1346207297?i=1000797307120",
+              "d": "Sean Rameswaram digs into the online side hustle gurus who promise financial freedom for almost no work, and asks whether the whole passive income economy is just a pyramid scheme with better lighting. 27 minutes.",
+              "m": "Podcast, Oct 20"
+            },
+            {
+              "t": "Twenty Thousand Hertz: Needle Drops, How pop songs first started showing up in movies",
+              "u": "https://podcasts.apple.com/us/podcast/needle-drops-how-pop-songs-first-started-showing-up/id1171270672?i=1000793682212",
+              "d": "Dallas Taylor traces how pop songs got into movies, from a forgotten Broadway tune that became an unlikely hit to the rock and roll record that changed soundtracks forever, plus the happy accidents behind famous scenes of the 60s, 70s and 80s. Runs a bit long at 42 minutes but it is pure fun.",
+              "m": "Podcast, Oct 12"
+            }
+          ],
+          "more": [
+            {
+              "t": "Grid Talk F1 Podcast: 2026 Singapore Review",
+              "u": "https://podcasts.apple.com/us/podcast/2026-singapore-review-grid-talk-formula-1-podcast/id1479522737?i=1000796144522",
+              "d": "Tom Downey and Jawad Yaqub, with guest Dev Tyagi, break down F1's first Singapore sprint weekend, Ferrari's strategy and McLaren's collisions, then run the title permutations for Austin, where Kimi Antonelli could clinch. 47 minutes.",
+              "m": "F1 podcast, Oct 13"
+            },
+            {
+              "t": "Unexplainable: Talking with the dead",
+              "u": "https://podcasts.apple.com/us/podcast/talking-with-the-dead/id1554578197?i=1000796270570",
+              "d": "Cambridge researchers and psycholinguist Julie Sedivy consider AI deadbots that simulate lost loved ones, what those tools cost us, and the older, stranger ways people have always kept talking to the departed. Thoughtful rather than gloomy. 36 minutes.",
+              "m": "Podcast, Oct 14"
+            },
+            {
+              "t": "99% Invisible: Tony Hawk's Real-Life Willy Wonka",
+              "u": "https://podcasts.apple.com/us/podcast/tony-hawks-real-life-willy-wonka/id394775318?i=1000793269191",
+              "d": "A profile of N.D. Austin, who builds sewer speakeasies, island coming-of-age rituals and a homemade desert train ride for Tony Hawk, and how a childhood in an Alaskan doomsday cult shaped his taste for everyday magic. 52 minutes.",
+              "m": "Podcast, Oct 20"
+            }
+          ]
+        },
+        {
+          "name": "Front page, no Reddit",
+          "items": [
+            {
+              "t": "Whatever Happened to Fire Escapes?",
+              "u": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+              "d": "Grady Hillhouse traces how bolt-on iron fire escapes took over American cities after 1860s tenement fires, why engineers hated them almost from the start, and how New York finally banned new ones in 1968. A fun lesson in how building codes outlive their logic; about 2,700 words, or a 20 minute video if you would rather watch.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The Rise and Fall of the Plasma Screen",
+              "u": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+              "d": "Brian Potter follows plasma displays from a 1960s University of Illinois teaching computer through bank terminals and military gear to the living room, and explains exactly why LCD beat it on heat, brightness, and factory yield. Clean, chart-light engineering history, about 2,100 words.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "In Hilbert Space, All Things Are Quantumly Possible",
+              "u": "https://quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826",
+              "d": "Charlie Wood gives the friendliest explanation you will find of the mathematical space where quantum states live, how von Neumann stitched two rival theories into one in 1927, and why physicists still argue over whether it is real. About 1,500 words, no equations required.",
+              "m": "Hacker News"
+            }
+          ],
+          "more": [
+            {
+              "t": "Good Type Against All Odds",
+              "u": "https://unsung.aresluna.org/good-type-against-all-odds/",
+              "d": "Marcin Wichary collects tiny, unexpectedly lovely typographic details from pixel displays, engraved keyboard caps, and old typesetting machines, and asks why anyone bothered to get them right. Short and picture-heavy, about 300 words plus a dozen close-up photos, five minutes.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Plasticorals: A New Kind of Plastic Pollution Fused Into Coral Rubble",
+              "u": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+              "d": "Researchers in Okinawa found melted household plastic welded into dead coral on local beaches, probably from beach bonfires, and gave the stuff a name. A quick, slightly eerie piece of natural history with good photos, about 500 words.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The Best Way to Play Super Mario 64: On Apple Vision Pro",
+              "u": "https://www.pagetable.com/303",
+              "d": "Michael Steil turns every Mario 64 level into a tabletop diorama you walk around in a headset while playing with a normal controller, built on the fan decompilation projects. Mostly video clips with a short writeup, about 300 words and a few minutes of footage.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+              "u": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+              "d": "A new PNAS study finds deep-sea squid, octopus, krill, and lanternfish populations in the Gulf dropped at least 60 percent after the 2010 spill and have not bounced back. A sobering but quick read, about 300 words.",
+              "m": "Hacker News"
+            }
+          ]
+        },
+        {
+          "name": "Wildcard",
+          "items": [
+            {
+              "t": "The Roman coffin hiding in Westminster Abbey",
+              "u": "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
+              "d": "A stone sarcophagus dug up at Westminster Abbey in 1869 turns out to be a Roman coffin that was carved with a cross and recycled around the year 1000 to bury a medieval abbot, then looted twice. A tidy detective story with radiocarbon dates and a named original owner, about 1,100 words. New site for this list.",
+              "m": "Smithsonian Magazine, Oct 21"
+            }
+          ],
+          "more": [
+            {
+              "t": "Walking Norway's Gudbrandsdalsleden pilgrimage",
+              "u": "https://craigmod.com/ridgeline/235/",
+              "d": "Craig Mod walks 132 km of the old St. Olav's Way to Trondheim with Kevin Kelly and friends: barley fields, farm stays, a comically small bed, and evening debates about what makes a great day. Uncrowded trail inspiration in about 1,300 words with photos.",
+              "m": "Craig Mod, Sep 2026"
+            },
+            {
+              "t": "The more we rely on tech, the more we deskill our bodies",
+              "u": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+              "d": "Melanie Challenger argues that GPS, phones and AI quietly erode skills your body evolved to own, from wayfinding to memory, and that the body-as-machine metaphor was never a good one. A thoughtful 3,400-word essay, about 17 minutes, with a free audio version.",
+              "m": "Aeon, Oct 13"
+            },
+            {
+              "t": "Triple-A Minesweeper",
+              "u": "https://aftermath.site/triple-a-minesweeper/",
+              "d": "A short, funny post about Mike Lacher's browser game that reboots Windows Minesweeper as a bloated blockbuster, complete with yellow-paint hints, an opening credits roll and a hero who keeps announcing he needs to sweep these mines. Two minutes to read, with a link to play it free in your browser.",
+              "m": "Aftermath, Oct 9"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "label": "Wednesday, October 21",
       "note": "New sites today: Longreads, Early Retirement Now, Mr. Money Mustache, GPblog, RacingNews365, Open Culture, Short Wave, and a Nebraska newsroom with a hot dog cannon. Each slot now folds a few extras under a toggle.",
