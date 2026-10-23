@@ -1,6 +1,352 @@
 {
   "days": [
     {
+      "date": "2026-10-23",
+      "label": "Friday, October 23",
+      "note": "New sites today: Damn Interesting, Lapham's Quarterly, JSTOR Daily, Sky Sports F1, Grande Premio, Formula One History, and a handful of small sites off the Hacker News front page, plus two F1 podcasts new to the list, Up To Speed and The Race F1 Rewind. Practice starts in Austin today, and the Horner memoir fallout continues.",
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1521336575822-6da63fb45455?w=1400&q=75&auto=format",
+        "alt": "An orange canoe on a calm fjord below steep mountains in Gudvangen, Norway",
+        "credit": "Benjamin Davies",
+        "page": "https://unsplash.com/photos/orange-canoe-on-lake-surrounding-with-mountain-at-daytime-mqN-EV9rNlY",
+        "caption": "Still water, Norway"
+      },
+      "slots": [
+        {
+          "name": "Gear",
+          "items": [
+            {
+              "t": "Could a Single Shade of Black Help the Outdoor Industry Unite?",
+              "u": "https://www.carryology.com/liking/industry/could-a-single-shade-of-black-help-the-outdoor-industry-unite/",
+              "d": "Every outdoor brand dyes its own nearly identical black fleece, and Haglofs and Polartec want everyone to just share one. A smart look at the hidden plumbing behind your favorite jackets, and whether rival brands can ever agree on anything. About 1,300 words, 6 minutes.",
+              "m": "Carryology, Sep 16"
+            },
+            {
+              "t": "The Most Badass New Performance Truck Doesn't Come from Ford, Chevy or Ram",
+              "u": "https://www.gearpatrol.com/cars/brabus-p-900-rocket-edition-pickup-truck/",
+              "d": "Brabus stretched a G-Wagen by 20 inches, gave it a bed and a 900 hp twin-turbo V8, and will build exactly ten. Pure automotive excess, with the specs and interior details to back up the headline. About 650 words, 3 minutes.",
+              "m": "Gear Patrol, Oct 22"
+            }
+          ],
+          "more": [
+            {
+              "t": "Into the Karakoram: One Designer's Unlikely Education at the Roof of the World",
+              "u": "https://www.carryology.com/liking/into-the-karakoram-one-designers-unlikely-education-at-the-roof-of-the-world/",
+              "d": "A Slovenian pack maker joins a mountaineer on a Gasherbrum expedition that falls apart at altitude, and the story of how she got there (a Patagonia repair shop, custom packs built from guide feedback) is the real payoff. About 2,700 words, 12 minutes.",
+              "m": "Carryology, Jul 27"
+            },
+            {
+              "t": "OluKai's Moto-Ready, Master Bladesmith-Approved New Work Boot Boasts a Life-Extending Design",
+              "u": "https://www.gearpatrol.com/footwear/olukai-x-neil-kamimura-pahi-boot/",
+              "d": "A $300 resoleable work boot designed with a Hawaiian bladesmith, sized up against the Danner Moto Wedge it clearly wants to beat. Good read if you like gear built to be rebuilt rather than replaced. About 550 words, 3 minutes.",
+              "m": "Gear Patrol, Oct 20"
+            },
+            {
+              "t": "Audemars Piguet Is Taking a Page Out of Rolex's Book",
+              "u": "https://www.gearpatrol.com/watches/audemars-piguet-certified-pre-owned/",
+              "d": "Rolex's certified pre-owned program is pulling in roughly $229 million a quarter, and AP looks set to copy it. A quick explainer on why buying a used Royal Oak may soon get a lot less sketchy. About 400 words, 2 minutes.",
+              "m": "Gear Patrol, Oct 20"
+            },
+            {
+              "t": "Relwen Blends Two Vintage Military Jackets into a 2-in-1 Masterpiece",
+              "u": "https://www.gearpatrol.com/style/relwen-defender-2-in-1-jacket/",
+              "d": "An M65 field jacket shell with a quilted bomber liner that works on its own, done in technical fabrics so the vintage look actually performs in fall weather. Fun jacket-nerd detail on how the two pieces fit together. About 600 words, 3 minutes.",
+              "m": "Gear Patrol, Oct 21"
+            }
+          ]
+        },
+        {
+          "name": "Easy science",
+          "items": [
+            {
+              "t": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+              "u": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+              "d": "The winners of this year's Nikon Small World contest, including a time-lapse of mitochondria and chloroplasts streaming through plant leaf cells. Mostly pictures and video with light, friendly captions, about 1,200 words, 5 minutes.",
+              "m": "Quanta Magazine, Oct 21"
+            },
+            {
+              "t": "Artemis II Results Show How Much Science People Can Do at the Moon",
+              "u": "https://www.sciencenews.org/article/artemis-ii-human-moon-science",
+              "d": "The first science from the crewed lunar flyby: the moon's colors, tiny impact flashes, a solar eclipse seen from space, and the surprising value of astronauts' sketches and spoken notes over cameras alone. About 1,600 words, 9 minutes.",
+              "m": "Science News, Oct 16"
+            }
+          ],
+          "more": [
+            {
+              "t": "MMX Mission to Reveal the Origins of the Martian Moons",
+              "u": "https://bigthink.com/starts-with-a-bang/mmx-mission-origins-martian-moons/",
+              "d": "A deeper follow-up to yesterday's Phobos story: Ethan Siegel walks through the two rival ideas for where Mars got its lumpy little moons (captured asteroids or a giant impact) and why the orbits point to a smash-up. About 3,000 words, 13 minutes, no math.",
+              "m": "Big Think, Oct 20"
+            },
+            {
+              "t": "Watch Humpback Whales Team Up With Sea Lions to Hunt",
+              "u": "https://nautil.us/watch-humpback-whales-team-up-with-sea-lions-to-hunt-1286012",
+              "d": "In Monterey Bay, sea lions herd anchovies into tight balls and humpbacks lunge straight through them, and both sides seem to come out ahead. Quick read with video, about 300 words, 2 minutes.",
+              "m": "Nautilus, Oct 22"
+            },
+            {
+              "t": "How Crocodiles Survived the Asteroid That Killed the Dinosaurs",
+              "u": "https://nautil.us/how-crocodiles-survived-the-asteroid-that-killed-the-dinosaurs-1286003",
+              "d": "Researchers matched 7,000 fossils against 245 million years of climate models to figure out why crocs made it through the extinction: they mostly moved toward warmer places. Fun dinner-table fact for the kids. About 430 words, 3 minutes.",
+              "m": "Nautilus, Oct 21"
+            },
+            {
+              "t": "A New Fossil Hints at the Surprising Origins of Snakes",
+              "u": "https://nautil.us/a-new-fossil-hints-at-the-surprising-origins-of-snakes-1286024",
+              "d": "A tiny 75 to 85 million year old snake ancestor from Brazil has a reinforced skull and weak eyes, which says it was a burrower, so early snakes had already split into different lifestyles. About 475 words, 3 minutes.",
+              "m": "Nautilus, Oct 22"
+            }
+          ]
+        },
+        {
+          "name": "Longer read",
+          "items": [
+            {
+              "t": "Lofty Ambitions: The Man Who Tried to Fly a Biplane to Everest and Climb It Alone",
+              "u": "https://www.damninteresting.com/lofty-ambitions/",
+              "d": "In 1933 Maurice Wilson, a WWI veteran who had barely learned to fly, pointed a secondhand biplane at Everest, convinced that faith and fasting would carry him to the summit solo. When officials impounded the plane he sold it and walked into Tibet instead, and what happened next is one of the strangest stories in mountaineering. About 4,000 words, 19 minutes. New site for this list.",
+              "m": "Damn Interesting, Dec 2022"
+            }
+          ],
+          "more": [
+            {
+              "t": "South Polar Times: The Handmade Magazine That Kept Scott's Men Sane Through the Antarctic Winter",
+              "u": "https://www.laphamsquarterly.org/roundtable/south-polar-times",
+              "d": "Anne Fadiman on the typed, hand-illustrated magazine that Shackleton edited and Edward Wilson drew for Scott's expeditions, full of parodies, verse, and in-jokes to beat the months of polar dark. A warm, funny look at how a crew builds morale from nothing. About 4,500 words, 20 minutes. New site for this list.",
+              "m": "Lapham's Quarterly, Mar 2026"
+            },
+            {
+              "t": "The Unceasing Cessna Hacienda: 64 Days in the Air Without Landing",
+              "u": "https://www.damninteresting.com/the-unceasing-cessna-hacienda/",
+              "d": "In 1958 a Las Vegas hotel owner paid two pilots to keep a modified Cessna 172 aloft for as long as humanly possible, refueling from a speeding truck on a desert road and sleeping in shifts. They stayed up for 64 days and set a record nobody has broken. About 4,000 words, 19 minutes.",
+              "m": "Damn Interesting, Oct 2021"
+            }
+          ]
+        },
+        {
+          "name": "Money",
+          "items": [
+            {
+              "t": "Little Rules About Big Things",
+              "u": "https://collabfund.com/blog/little-rules-about-big-things/",
+              "d": "Roughly 90 one-line Morgan Housel observations on wealth, debt, compounding, housing and investor psychology, each one a conversation starter. Evergreen and easy to dip in and out of. About 2,300 words, 10 minutes.",
+              "m": "Collaborative Fund, Aug 2025"
+            },
+            {
+              "t": "Playing the Wrong Game",
+              "u": "https://ofdollarsanddata.com/playing-the-wrong-game/",
+              "d": "Nick Maggiulli, newly a dad, uses competitive sauna and freediving deaths to ask why we chase status games whose rewards are visible and whose costs are hidden. A sharp behavioral finance read on what you are optimizing for in your 40s. About 1,000 words, 5 minutes.",
+              "m": "Of Dollars and Data, Oct 6"
+            }
+          ],
+          "more": [
+            {
+              "t": "15 Year Stock Market Returns",
+              "u": "https://awealthofcommonsense.com/2026/10/15-year-stock-market-returns/",
+              "d": "Ben Carlson lines up the S&P 500's 3, 7, 10 and 15 year returns against the 50 year average and shows how far above trend this run has been. A quick, sober case for dialing down your return assumptions now, which costs nothing if he is wrong. About 500 words, 3 minutes.",
+              "m": "A Wealth of Common Sense, Oct 18"
+            },
+            {
+              "t": "Can the new Bill Bengen Portfolio Increase My Withdrawal Rate to 4.7%?",
+              "u": "https://earlyretirementnow.com/2026/09/28/bengen-swr-series-part-65/",
+              "d": "Big ERN stress tests Bengen's new 55/40/5 small-cap and international tilt and finds the higher safe withdrawal rate leans on small-cap alpha that may not persist. Deep retirement math for a weekend coffee, with his own failsafe numbers at the end. About 7,000 words, 30 minutes.",
+              "m": "Early Retirement Now, Sep 28"
+            },
+            {
+              "t": "Your Financial RPE",
+              "u": "https://humbledollar.com/2026/10/your-financial-rpe/",
+              "d": "A CFP who spent 20 years as a personal trainer borrows rate of perceived exertion to ask how hard you are really working on the money tasks that matter, like estate planning, versus the ones that feel productive. Short and a little uncomfortable in a good way. About 650 words, 3 minutes.",
+              "m": "Humble Dollar, Oct 17"
+            },
+            {
+              "t": "Investing Lessons from 36 Years at Morningstar",
+              "u": "https://www.whitecoatinvestor.com/investing-lessons-from-36-years-at-morningstar-494/",
+              "d": "Jim Dahle interviews retired Morningstar research VP John Rekenthaler on fees, why TIPS look attractive at today's real yields, his skepticism of private investments, and his own retirement setup. Full transcript on the page if you would rather read than listen. Runtime 84 minutes.",
+              "m": "White Coat Investor podcast, Oct 22"
+            }
+          ]
+        },
+        {
+          "name": "Formula 1",
+          "items": [
+            {
+              "t": "MPH: The fastest F1 car at COTA? Everyone is pointing somewhere else",
+              "u": "https://www.motorsportmagazine.com/articles/single-seaters/f1/verstappen-may-steal-the-show-as-antonelli-closes-on-f1-title-2/",
+              "d": "Mark Hughes on the Friday-morning guessing game in Austin, where Red Bull, Ferrari and Mercedes each insist a rival has the quickest car and the bumpy COTA surface may decide who is right. Written today, about 850 words, 5 minutes.",
+              "m": "Motor Sport Magazine, Oct 23"
+            },
+            {
+              "t": "Christian Horner reveals Red Bull talks with Lewis Hamilton's management before telling Niki Lauda to sign him for Mercedes",
+              "u": "https://www.skysports.com/f1/news/13601434/christian-horner-reveals-red-bull-talks-with-lewis-hamilton-management-before-telling-mercedes-niki-lauda-to-sign-british-driver",
+              "d": "The juiciest bit of Horner's new memoir so far: Red Bull quietly sounded out Hamilton's camp, chose Vettel and Webber instead, and Horner then nudged Lauda toward the signing that built the Mercedes dynasty. About 900 words, 5 minutes. New site for this list.",
+              "m": "Sky Sports F1, Oct 21"
+            },
+            {
+              "t": "Marko fires back at Horner and calls explosive Red Bull memoir a collection of untruths",
+              "u": "https://grandepremio.com/en/f1/marko-fires-back-at-horner-and-calls-explosive-red-bull-memoir-a-collection-of-untruths/",
+              "d": "The other side of the Horner book: Helmut Marko's rebuttal plus a tidy history of how the two men's feud grew from Mateschitz's death to both of them being out of Red Bull by 2025. Pure paddock soap opera, about 1,200 words, 7 minutes. New site for this list.",
+              "m": "Grande Premio, Oct 21"
+            }
+          ],
+          "more": [
+            {
+              "t": "How Antonelli levelled up his character to be F1 2026's world champion-elect",
+              "u": "https://www.autosport.com/f1/news/how-antonelli-levelled-up-his-character-to-be-f1-2026s-world-champion-elect/10866630/",
+              "d": "Filip Cleeren argues that Antonelli's five-win opening blitz is less impressive than the composed drives in Baku, Sepang and Singapore once the Mercedes advantage faded. Good context before a possible coronation this weekend, about 1,000 words, 5 minutes.",
+              "m": "Autosport, Oct 21"
+            },
+            {
+              "t": "Drive: a review of Christian Horner's long-awaited F1 memoir",
+              "u": "https://racingnews365.com/drive-a-review-of-christian-horners-long-awaited-f1-memoir",
+              "d": "A proper book review rather than another extract: what the memoir covers (Marko, Jos Verstappen, the Alonso and Leclerc near-misses, the rejected Lauda offer) and whether it is worth your money. About 800 words, 4 minutes.",
+              "m": "RacingNews365, Oct 22"
+            },
+            {
+              "t": "Christian Horner reveals George Russell Red Bull talks amid Max Verstappen rumours",
+              "u": "https://www.planetf1.com/news/christian-horner-george-russell-red-bull-max-verstappen-rumours",
+              "d": "One more memoir nugget: Horner rang Russell's representatives at Silverstone 2025 while Wolff was courting Verstappen, days before Horner was fired. A neat window into how the 2026 grid nearly looked different. About 750 words, 4 minutes.",
+              "m": "PlanetF1, Oct 22"
+            },
+            {
+              "t": "Antonelli's second-year title bid reminds Hamilton of his first seasons in F1",
+              "u": "https://www.racefans.net/2026/10/23/antonellis-second-year-title-bid-reminds-hamilton-of-his-first-seasons-in-f1/",
+              "d": "Hamilton on his Mercedes successor possibly winning the title in year two, just as he did in 2008, and on the support system that made it possible. Quote-heavy but a nice bit of symmetry, about 500 words, 3 minutes.",
+              "m": "RaceFans, Oct 23"
+            },
+            {
+              "t": "Who are F1's youngest world champions?",
+              "u": "https://www.formulaonehistory.com/who-are-f1s-youngest-world-champions/",
+              "d": "A ranked tour of the ten youngest champions, from Vettel's 2010 record (23 years, 134 days) through Hamilton, Alonso and Jim Clark. Handy history if Antonelli, at 20, rewrites the top of this list in Austin. About 3,000 words, 15 minutes. New site for this list.",
+              "m": "Formula One History, updated Oct 2026"
+            }
+          ]
+        },
+        {
+          "name": "Listen",
+          "items": [
+            {
+              "t": "Up To Speed: Christian Horner Full Interview, Red Bull Exit, Verstappen and an F1 Return?",
+              "u": "https://podcasts.apple.com/au/podcast/christian-horner-full-interview-red-bull-exit-verstappen/id1875990109?i=1000796887667",
+              "d": "Horner's first podcast interview since leaving Red Bull, with David Coulthard and Naomi Schiff asking about Abu Dhabi 2021, his relationship with Max Verstappen, how it all came apart, and whether he wants back in. 58 minutes. New show for this list.",
+              "m": "F1 podcast, Oct 18"
+            },
+            {
+              "t": "The Race F1 Rewind: The Truth Behind Schumacher's Ferrari Exit",
+              "u": "https://podcasts.apple.com/us/podcast/the-race-f1-rewind/id1737823563?i=1000797592923",
+              "d": "Edd Straw and Mark Hughes dig into Michael Schumacher's 2006 departure from Ferrari after five titles and 72 wins, how the news broke, the theory that he was pushed out, and what might have happened if he had stayed. 49 minutes of pure F1 history. New show for this list.",
+              "m": "F1 podcast, Oct 22"
+            },
+            {
+              "t": "Short Wave: The sound of fear, why so many animals scream",
+              "u": "https://podcasts.apple.com/us/podcast/the-sound-of-fear-why-so-many-animals-scream/id1482575855?i=1000796072818",
+              "d": "A Halloween-season dive into why marmot shrieks, baby cries, and horror soundtracks all hit the same nerve in us. A quick one for the drive in, 13 minutes.",
+              "m": "Podcast, Oct 13"
+            },
+            {
+              "t": "The Indicator: CoreWeave woes, Pokemon foes, and maple syrup lows",
+              "u": "https://podcasts.apple.com/us/podcast/coreweave-woes-pok%C3%A9mon-foes-and-maple-syrup-lows/id1320118593?i=1000797671628",
+              "d": "The Indicator's weekly grab bag, out this morning: a Pokemon card heist, Canada's strategic maple syrup reserve running low, and one wobble in the AI credit market. 9 minutes.",
+              "m": "Podcast, Oct 23"
+            },
+            {
+              "t": "Short Wave: The terrifying physics of prehistoric sea monsters",
+              "u": "https://podcasts.apple.com/us/podcast/the-terrifying-physics-of-prehistoric-sea-monsters/id1482575855?i=1000796557480",
+              "d": "Mosasaurs were the bus-sized T. rex of the ocean, and a new study worked out how they hunted: far faster than any human swimmer, and sneaky. 9 minutes, and a good one to play for the kids.",
+              "m": "Podcast, Oct 16"
+            }
+          ],
+          "more": [
+            {
+              "t": "F1 Beyond the Grid: Fred Vesti, making champions as Mercedes third driver",
+              "u": "https://podcasts.apple.com/my/podcast/f1-beyond-the-grid/id1405972616?i=1000797344615",
+              "d": "Tom Clarkson talks with Mercedes reserve Fred Vesti about the unseen job behind a title run: thousands of simulator laps, a say in which upgrades make the car, and staying ready to jump in for Russell or Antonelli, plus the party where he cornered Toto Wolff. 58 minutes.",
+              "m": "F1 podcast, Oct 21"
+            },
+            {
+              "t": "The Indicator: Supercore inflation, Bumble valuation and Pooh's repatriation",
+              "u": "https://podcasts.apple.com/us/podcast/supercore-inflation-bumble-valuation-and-poohs/id1320118593?i=1000796559347",
+              "d": "Three quick indicators, including whether the original Winnie the Pooh dolls could leave the New York Public Library for England, and how Bumble went from doldrums to stock market darling. 9 minutes.",
+              "m": "Podcast, Oct 16"
+            }
+          ]
+        },
+        {
+          "name": "Front page, no Reddit",
+          "items": [
+            {
+              "t": "How to Design Flowers",
+              "u": "https://www.asimov.press/p/flowers",
+              "d": "A long interview with Nick Desnoyer, a plant biologist in Norwich who is building a petunia whose petals you can paint by dabbing small molecules on the buds to switch pigment genes on. Part mad-scientist garden tour, part serious genetics, ending with his dream of a flower design studio. Long: about 10,000 words, 40 minutes, so maybe one for the weekend.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "What Is Gridification? The Hidden Shift in Recorded Music",
+              "u": "https://musicalform.substack.com/p/what-is-gridifcation",
+              "d": "Why does so much modern pop feel flat? This essay compares tempo data from 1975 and 2025 Billboard hits to show how performances are now snapped to a rigid grid in post-production, and argues that the tiny human push and pull of timing is what music is actually made of. About 1,600 words, 7 minutes.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The Phenomena That Brighten Dawn and Dusk",
+              "u": "https://www.colorado.edu/asmagazine-archive/node/2039",
+              "d": "A short, clear nature column by a Colorado biologist on what you are looking at during sunrise and sunset: the blue band of Earth's own shadow climbing the sky, the pink Belt of Venus above it, and alpenglow on snowy peaks. Good ammunition for the next early morning with the kids. About 550 words, 3 minutes, from 2016 but timeless.",
+              "m": "Hacker News"
+            }
+          ],
+          "more": [
+            {
+              "t": "The Last Museum: Search 6 Million Artworks from the World's Museums",
+              "u": "https://lastmuseum.com/",
+              "d": "A free search engine across the public collections of the big museums, with semantic search so you can type something like 'red bicycle' and see what turns up. Browse time rather than reading time: 5 to 15 minutes of happy rabbit-holing.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Color Names: 31,970 Colors, Named by People",
+              "u": "https://names.color.pizza/",
+              "d": "Paste any hex code or just scroll and find out that someone has named a shade 'Wine Dregs'. A pleasantly pointless, beautifully made catalog of crowd-named colors with a hand-picked best-of list. 5 minutes of browsing.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Railpass: Stare Out the Window of an Endless Train",
+              "u": "https://train.samismith.com/",
+              "d": "A small web toy by designer Sami Smith: a rendered train carriage with real footage rolling past the window, for when you want to zone out on a long ride without buying a ticket. It takes about a minute to get the idea and as long as you like after that.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Dungeon Generation in the Gnomish Mines of NetHack",
+              "u": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+              "d": "A short, code-free explanation of how the 1987 roguelike NetHack grows its organic cave levels: scatter random floor, run four rounds of a cellular automaton to clump and smooth it, then connect the leftover pockets with corridors. About 300 words, 2 minutes, plus a linked visualizer to play with.",
+              "m": "Hacker News"
+            }
+          ]
+        },
+        {
+          "name": "Wildcard",
+          "items": [
+            {
+              "t": "The Art of the Thousand Bloom Chrysanthemum",
+              "u": "https://daily.jstor.org/the-art-of-the-thousand-bloom-chrysanthemum/",
+              "d": "One plant, eighteen months of pinching, tying and light control, and more than 1,000 flowers arranged in a perfect dome. A lovely piece on an odd Japanese horticultural tradition and the Longwood Gardens crew that keeps it alive in Pennsylvania. About 2,000 words, 11 minutes. New site for this list.",
+              "m": "JSTOR Daily, Oct 22"
+            }
+          ],
+          "more": [
+            {
+              "t": "The Winners of the 2026 International Pano Awards",
+              "u": "https://kottke.org/26/10/the-winners-of-the-2026-international-pano-awards",
+              "d": "Kottke's picks from this year's best panoramic photography, plus the rule that makes a photo a pano (longest side at least twice the shortest). Five big wide images and about 100 words, 2 minutes.",
+              "m": "Kottke.org, Oct 22"
+            },
+            {
+              "t": "221 Camera Obscuras Fill Pneuhaus' Immersive, Inflatable, Image-Capturing Installation",
+              "u": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
+              "d": "A walk-in inflatable with 221 pinhole apertures that projects the sky and street onto soft bulging surfaces you can press to warp the picture, powered by nothing but sunlight. A bug's-eye view you would want to take the kids into. About 230 words plus photos, 2 minutes.",
+              "m": "Colossal, Oct 13"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-22",
       "label": "Thursday, October 22",
       "note": "New sites today: Wait But Why, Autosport, Crash.net, Smithsonian Magazine, Craig Mod, Aeon, Aftermath, Practical Engineering, and Construction Physics, plus two F1 podcasts new to the list, The Autosport F1 Podcast and Inside Line. Austin race week, and the Horner memoir keeps giving.",
