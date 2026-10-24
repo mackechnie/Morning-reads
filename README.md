@@ -12,3 +12,7 @@ A static page with a daily list of free reading and listening links for the comm
 ## Clicks
 
 Links on the page send a beacon to `/api/clicks` (a Netlify Function backed by Netlify Blobs). `GET /api/clicks` returns counts by slot, source, and pick (`top` or `more`, which shows whether the top picks are the right ones) plus the 40 most recent clicks, which the daily task reads to lean toward what Mike actually opens.
+
+## No spoilers
+
+Mike watches F1 sessions and Packers games on delay. A "Game day, no spoilers" slot leads the day whenever there was a session, game, or big news, saying only that it happened, with a link to the recap. Nothing anywhere on the page may reveal a result.
