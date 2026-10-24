@@ -44,6 +44,12 @@ details.day[open] summary{margin-bottom:12px}
 .hero img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:4px;background:var(--chip)}
 .hero figcaption{margin:6px 0 0;color:var(--muted);font-size:.78rem}
 .hero figcaption a{color:var(--muted)}
+.photos{margin:8px 0 0}
+.gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin-top:10px}
+.gallery figure{margin:0;min-width:0}
+.gallery img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;border-radius:4px;background:var(--chip)}
+.gallery figcaption{margin:4px 0 0;color:var(--muted);font-size:.72rem;line-height:1.35}
+.gallery figcaption a{color:var(--muted)}
 footer{border-top:1px solid var(--rule);margin-top:36px;padding-top:12px;color:var(--muted);font-size:.8rem}
 @media (prefers-reduced-motion:no-preference){.item a{transition:color .15s}}
 </style>
@@ -84,6 +90,13 @@ function render(data){
   }
   var hero = (days[0] && days[0].hero) ? days[0].hero : null;
   var heroHtml = hero ? '<figure class="hero"><img src="'+esc(hero.img)+'" alt="'+esc(hero.alt||'')+'" loading="eager"><figcaption>'+(hero.caption?esc(hero.caption)+'. ':'')+'Photo by <a href="'+esc(hero.page||'#')+'" target="_blank" rel="noopener">'+esc(hero.credit||'Unsplash')+'</a> on Unsplash</figcaption></figure>' : '';
+  // Optional hero.more: extra photos in a folded gallery. Thumbnails load small; tapping one opens the full image.
+  if(hero && hero.more && hero.more.length){
+    heroHtml += '<details class="more photos"><summary>'+hero.more.length+' more photos</summary><div class="gallery">'+hero.more.map(function(p){
+      var thumb = String(p.img).replace(/([?&])w=\d+/,'$1w=700');
+      return '<figure><a class="photo" href="'+esc(p.img)+'" target="_blank" rel="noopener"><img src="'+esc(thumb)+'" alt="'+esc(p.alt||'')+'" loading="lazy"></a><figcaption>'+(p.caption?esc(p.caption)+'. ':'')+'<a href="'+esc(p.page||'#')+'" target="_blank" rel="noopener">'+esc(p.credit||'Unsplash')+'</a></figcaption></figure>';
+    }).join('')+'</div></details>';
+  }
   var html = days.map(function(d,i){
     var head = '<h2>'+esc(d.label)+'</h2>'+(d.note?'<p class="note">'+esc(d.note)+'</p>':'');
     if(i===0){ return '<section class="day">'+head+renderSlots(d.slots)+'</section>'; }
