@@ -3,43 +3,234 @@
     {
       "date": "2026-10-24",
       "label": "Saturday, October 24",
-      "note": "Qualifying day in Austin, with Leclerc quickest in both practice sessions and Antonelli able to clinch the title on Sunday. New sites today: F1i, Men's Journal, Spoon & Tamago, plus a Dark Mountain essay and a local Wikipedia map off the Hacker News front page, and two podcasts new to the list, Chequered Flag Extra and The Fast and the Curious.",
+      "note": "Qualifying day in Austin, with recaps of every session behind the Game day links whenever you are ready. Bigger lists today, with more folded under each toggle. New sites: Petrolicious, Worn & Wound, Bikepacking.com, Hagerty, Silodrome, Field Mag, Cool Material, Eos, Narratively, Works in Progress, Can I Retire Yet, Oblivious Investor, Pit Debrief, GPFans, Speedweek and Messy Nessy Chic, plus five podcasts new to the list.",
       "hero": {
-        "img": "https://images.unsplash.com/photo-1532015917327-c7c46aa1d930?w=1400&q=75&auto=format",
-        "alt": "A man fly fishing in a river in Reisaelva, Norway, with mountains in the background",
-        "credit": "Vidar Nordli-Mathisen",
-        "page": "https://unsplash.com/photos/man-fishing-on-the-river-yJKb_4vjYwA",
-        "caption": "Fly fishing, Norway"
+        "img": "https://images.unsplash.com/photo-1526763025764-2a8073a0cd43?w=1400&q=75&auto=format",
+        "alt": "A long straight road runs toward the red sandstone buttes of Monument Valley under a clear summer sky.",
+        "credit": "Gerson Repreza",
+        "page": "https://unsplash.com/photos/road-toward-monument-valley-sandstone-buttes-hniuowbXbBY",
+        "caption": "Monument Valley, Utah",
+        "more": [
+          {
+            "img": "https://images.unsplash.com/photo-1785851099610-30a72cb36602?w=1400&q=75&auto=format",
+            "alt": "A glowing tent and campfire light up a dark forest campsite at night in Yosemite.",
+            "credit": "Aliaksei Lepik",
+            "page": "https://unsplash.com/photos/a-glowing-tent-and-campfire-illuminate-a-dark-forest-campsite-F9-iw5yjs8I",
+            "caption": "Campfire, Yosemite"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1743779035871-9653b8c58c24?w=1400&q=75&auto=format",
+            "alt": "Surfboards lean against a retro van parked by the sea on a bright blue day.",
+            "credit": "Amanda Vick",
+            "page": "https://unsplash.com/photos/surfboards-lean-against-a-retro-van-by-the-sea-ZPpVObKlmgk",
+            "caption": "Surf van, coast"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1525101928560-8c08ad1d9be4?w=1400&q=75&auto=format",
+            "alt": "A weathered gray single cab pickup truck sits abandoned in a remote desert ghost town.",
+            "credit": "Ash Edmonds",
+            "page": "https://unsplash.com/photos/gray-single-cab-truck-on-brown-farm-ie3ua1BsK6k",
+            "caption": "Ghost town pickup"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1534146789009-76ed5060ec70?w=1400&q=75&auto=format",
+            "alt": "A mountain biker rides along a cliffside viewpoint high above the valleys near Mount Elbrus.",
+            "credit": "Dmitrii Vaccinium",
+            "page": "https://unsplash.com/photos/man-riding-bike-on-cliff-at-daytime-9qsK2QHidmg",
+            "caption": "Riding the ridge"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1510798831971-661eb04b3739?w=1400&q=75&auto=format",
+            "alt": "A wooden cabin sits beside pine trees and a frozen lake in the snow at Emerald Lake, Canada.",
+            "credit": "Ian Keefe",
+            "page": "https://unsplash.com/photos/wooden-house-near-pine-trees-and-pond-coated-with-snow-during-daytime-OgcJIKRnRC8",
+            "caption": "Cabin, Emerald Lake"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1498623116890-37e912163d5d?w=1400&q=75&auto=format",
+            "alt": "A person sails a boat across the open ocean under a wide blue sky.",
+            "credit": "Andrew Neel",
+            "page": "https://unsplash.com/photos/person-sailing-on-ocean-0AwoTNSdwVM",
+            "caption": "Open water"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1766893309978-84d73a347d53?w=1400&q=75&auto=format",
+            "alt": "Two hikers walk a trail through an autumn forest of orange and green foliage.",
+            "credit": "Leo_Visions",
+            "page": "https://unsplash.com/photos/two-hikers-walk-on-a-path-in-autumn-woods-Oh8lmpfavic",
+            "caption": "Autumn trail"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1558459023-2df6e5daa5a1?w=1400&q=75&auto=format",
+            "alt": "Five people paddle a raft through fast moving water on a river.",
+            "credit": "Logan Easterling",
+            "page": "https://unsplash.com/photos/five-people-rafting-on-river-465UQnjdcsc",
+            "caption": "Running the rapids"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1664910236854-0c7956182a79?w=1400&q=75&auto=format",
+            "alt": "A river winds through a canyon lined with cliffs and green plateaus beneath a clear blue sky.",
+            "credit": "Luciano Donoso",
+            "page": "https://unsplash.com/photos/a-river-running-through-a-canyon-DemAEnjtIE0",
+            "caption": "River canyon"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1751877055806-db2e9176860a?w=1400&q=75&auto=format",
+            "alt": "The sun sets low on the horizon over an empty desert highway.",
+            "credit": "Francesco Ungaro",
+            "page": "https://unsplash.com/photos/the-sun-sets-over-a-desert-highway-k7T1EB591IA",
+            "caption": "Desert sunset road"
+          }
+        ]
       },
       "slots": [
+        {
+          "name": "Game day, no spoilers",
+          "items": [
+            {
+              "t": "F1: First practice for the United States Grand Prix in Austin was Friday",
+              "u": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-the-united-states-2026.4RPi7TTxLPbQv2rXIDvFPk",
+              "d": "FP1 at Circuit of the Americas, Friday 1:30 pm ET, the first hour on track after a bumpy-surface debate and with several teams bringing upgrades. Official live blog, open when you are ready.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "F1: Second practice for the United States Grand Prix in Austin was Friday",
+              "u": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-the-united-states-2026.3cC2d5dlTvN0egy2pb11Ko",
+              "d": "FP2, Friday 5:00 pm ET, the main hour for long runs and qualifying simulations before the weekend gets serious. Official live blog, open when you are ready.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "F1: Third practice for the United States Grand Prix in Austin was Saturday",
+              "u": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-the-united-states-2026.1BD7GmKj1G3IaUnrRcWI3P",
+              "d": "FP3, Saturday 1:30 pm ET, the final hour of practice before qualifying. Official live blog, open when you are ready.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "F1 news: Lindblad, Colapinto and Bortoleto will take grid penalties for Sunday's race in Austin",
+              "u": "https://www.formula1.com/en/latest/article/lindblad-colapinto-and-bortoleto-to-take-grid-penalties-for-united-states-grand-prix.4qjn84W4zOmwNXeELFWn0k",
+              "d": "All three exceeded their power unit component allocations: 5 places for Lindblad, 10 for Colapinto and 20 for Bortoleto, which means a start from the back. Announced Friday.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "Packers news: Linebacker Zaire Franklin ruled out for Sunday at Detroit, four others questionable",
+              "u": "https://www.packers.com/news/packers-rule-out-zaire-franklin-list-four-questionable-vs-lions-week-7-injury-report",
+              "d": "Franklin (shin) misses just the second game of his career; Aaron Banks, Benjamin St-Juste, Bo Melton and Jordon Riley are questionable. Friday's official injury report, no game content.",
+              "m": "packers.com"
+            },
+            {
+              "t": "Coming up: F1 United States Grand Prix qualifying in Austin, Saturday 5:00 pm ET",
+              "u": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-united-states-grand-prix-and-how-can-i-watch-it.5jZFEoK96n4tpbRzEJjRoH",
+              "d": "Qualifying starts at 4:00 pm local time in Austin, which is 5:00 pm Eastern. Official session times and viewing guide.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "Coming up: F1 United States Grand Prix race in Austin, Sunday 4:00 pm ET",
+              "u": "https://www.formula1.com/en/latest/article/formula-1-msc-cruises-united-states-grand-prix-2026.2u6li2pzNhPzL3TSYaagrm",
+              "d": "Lights out at 3:00 pm local time (4:00 pm Eastern) for 56 laps of Circuit of the Americas. Full weekend timetable, including the F1 Academy and support races.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "Coming up: Packers at Detroit Lions, Sunday 4:25 pm ET",
+              "u": "https://www.packers.com/schedule/2026/",
+              "d": "Week 7 at Ford Field, kickoff 3:25 pm Central, 4:25 pm Eastern. Note it overlaps the Austin race. The Packers are back Thursday Oct 29 at home against Carolina.",
+              "m": "packers.com"
+            }
+          ]
+        },
         {
           "name": "Gear",
           "items": [
             {
-              "t": "Ford Bronco ORV Package",
-              "u": "https://uncrate.com/ford-bronco-orv-package/",
-              "d": "Ford's dealer-installed Custom Garage kit turns a four-door Bronco into a trail rig in one shot: Fox suspension, underbody plates, trail armor, aux lights and wider flares for $18,995. A quick look at a factory-backed answer to the aftermarket. About 120 words, 1 minute.",
-              "m": "Uncrate, Oct 2026"
+              "t": "The Rise and Resurrection of Nike ACG",
+              "u": "https://www.carryology.com/liking/industry/the-rise-resurrection-of-nike-acg/",
+              "d": "Carryology's editor traces Nike's outdoor line from a 1978 K2 expedition where worn-out running shoes sparked the idea, through its 1990s design peak and fade, to this year's relaunch as a trail-running brand, and asks whether runners will trust it again. About 3,100 words, 15 minutes.",
+              "m": "Carryology, Oct 22"
             },
             {
-              "t": "Land Rover's Latest Defender Upgrade Aims for a More Streamlined Drive",
-              "u": "https://www.gearpatrol.com/cars/land-rover-defender-90-alasia-pack/",
-              "d": "The Europe-only Alasia Pack drops the rear spare from the three-door Defender 90 for better visibility and adds copper accents. A small change that says a lot about who buys Defenders now. About 450 words, 2 minutes.",
-              "m": "Gear Patrol, Oct 20"
+              "t": "Audi Rebuilds Its Lost 200 MPH Auto Union Streamliner",
+              "u": "https://petrolicious.com/blogs/articles/auto-union-lucca-audi-rebuilds-its-lost-200-mph-streamliner",
+              "d": "Audi Tradition recreated the 1930s Auto Union Lucca record car from photographs and archive documents because no original survived, then ran it up the hill at Goodwood. A hands-built engineering story with great photos. New site for this list. About 2,500 words, 12 minutes.",
+              "m": "Petrolicious, Oct 8"
+            },
+            {
+              "t": "To Carry and To Keep: The Tudor Watches of Navy SEALs",
+              "u": "https://wornandwound.com/to-carry-and-to-keep-the-tudor-watches-of-warriors/",
+              "d": "How a 1962 bulk order of Tudor Submariners for the Underwater Demolition Teams became issued gear that many SEALs quietly kept for life, told through a visit to the Navy SEAL Museum and a panel with two Apollo 11 recovery veterans. New site for this list. About 2,300 words, 13 minutes.",
+              "m": "Worn & Wound, Oct 21"
+            },
+            {
+              "t": "COROS DURA 2 Solar Review: Big Upgrade, Bigger Price",
+              "u": "https://bikepacking.com/gear/coros-dura-2-solar-review/",
+              "d": "A thorough first review of the new solar GPS head unit, which doubles in price to $499 while gaining a bigger screen and far better maps, with honest gripes about the relocated solar panel and flaky voice controls. Useful even if you only use a GPS for hikes and trail runs. New site for this list. About 3,800 words, 18 minutes.",
+              "m": "Bikepacking.com, Oct 22"
+            },
+            {
+              "t": "I Drove 267 Miles to Not Drive a Slate Truck",
+              "u": "https://hagerty.com/media/opinion/i-drove-267-miles-to-not-drive-a-slate-truck",
+              "d": "A Hagerty writer with a deposit down on the bare-bones Slate electric pickup drives to Texas for a first look, gets a rainy passenger ride in a prototype, and weighs the sparse cabin and roughly $28,000 price against the Ranger his neighbor cannot afford to fix. New site for this list. About 1,300 words, 6 minutes.",
+              "m": "Hagerty, Oct 23"
             }
           ],
           "more": [
             {
-              "t": "Bugatti One-Off Mirrored Veyron Grand Sport Vitesse",
-              "u": "https://uncrate.com/bugatti-one-off-mirrored-veyron-grand-sport-vitesse/",
-              "d": "A collector commissioned a Veyron Grand Sport Vitesse with a bare polished aluminum body, and Bugatti's La Maison Pur Sang program has now certified and restored it for a new owner on the Riviera. Short piece, great photos. About 110 words, 1 minute.",
+              "t": "A Brand New Honda CR250R, Still in the Factory Crate After 20 Years",
+              "u": "https://silodrome.com/brand-new-honda-cr250r/",
+              "d": "A 2007 CR250R that was never uncrated, started, or ridden is heading to auction out of Michigan, and the story walks back through the Elsinore lineage and why Honda stopped making two-stroke motocrossers. New site for this list. About 1,300 words, 6 minutes.",
+              "m": "Silodrome, Oct 22"
+            },
+            {
+              "t": "Inside the Gore-Tex Footwear Lab Where Waterproof Running Shoes Are Made",
+              "u": "https://www.fieldmag.com/articles/inside-gore-tex-labs-with-hoka",
+              "d": "A tour of Gore's Elkton, Maryland facility shows the flex rigs, seam testers, and water tanks used to torture shoes, and explains how the membrane and Invisible Fit construction actually work. New site for this list. About 1,300 words, 6 minutes.",
+              "m": "Field Mag, Oct 7"
+            },
+            {
+              "t": "2026 Ford Bronco Outer Banks Review: More Civilized, Still Capable",
+              "u": "https://coolmaterial.com/feature/2026-ford-bronco-outer-banks/",
+              "d": "A week in a Sasquatch-equipped Outer Banks finds nicer cabin materials and front seats that beat the Wrangler, a cramped back row, a willing 2.7-liter V6, and thirsty fuel economy at $69,065 as tested. New site for this list. About 1,400 words, 7 minutes.",
+              "m": "Cool Material, Oct 6"
+            },
+            {
+              "t": "Review: The Tudor Northflag Gets a Second Chance",
+              "u": "https://wornandwound.com/review/review-the-tudor-northflag-gets-a-second-chance/",
+              "d": "Tudor revived its 2015 North Flag as a 40mm integrated-bracelet GMT with a Master Chronometer movement at $5,525, and the reviewer finds it more refined but wishes it were thinner, smaller, or cheaper. About 1,600 words, 10 minutes.",
+              "m": "Worn & Wound, Oct 5"
+            },
+            {
+              "t": "Ford Custom Garage ORV Package for the Bronco",
+              "u": "https://uncrate.com/ford-bronco-orv-package/",
+              "d": "A dealer-installed kit that adds Fox off-road suspension, Raptor-derived skid plates, rocker armor, RIGID lights, Weld wheels, and wider fender flares to a four-door Bronco for $18,995. Quick look with photos. About 120 words, 1 minute.",
               "m": "Uncrate, Oct 2026"
             },
             {
-              "t": "Cadillac Escalade-V 125th Anniversary SUV",
-              "u": "https://uncrate.com/cadillac-escalade-v-125th-anniversary-suv/",
-              "d": "Cadillac kicks off its 125th year with a 252-unit Collector Series Escalade-V: 682 hp supercharged V8, forged 24s, carbon trim, Santorini Blue cabin accents, $239,000. About 150 words, 1 minute.",
-              "m": "Uncrate, Oct 2026"
+              "t": "Land Rover Defender 90 Alasia Pack",
+              "u": "https://www.gearpatrol.com/cars/land-rover-defender-90-alasia-pack/",
+              "d": "The Europe only Alasia Pack drops the rear spare from the three door Defender 90 for better visibility and adds copper accents. A small change that says a lot about who buys Defenders now. About 450 words, 2 minutes.",
+              "m": "Gear Patrol, Oct 20"
+            },
+            {
+              "t": "Benchmade and Blade HQ Revive the Griptilian in Z-Wear Steel",
+              "u": "https://www.gearpatrol.com/outdoors/benchmade-blade-hq-griptilian/",
+              "d": "A surprise collaboration keeps the classic polymer handle and AXIS lock but adds Z-Wear super steel, a big thumbhole, and a reshaped sheepsfoot blade in teal, green, and purple at $175 each. About 650 words, 3 minutes.",
+              "m": "Gear Patrol, Oct 13"
+            },
+            {
+              "t": "A GXV Pangea 7300 Expedition Camper Heads to Auction",
+              "u": "https://silodrome.com/gxv-pangea-7300-global-expedition-rv-camper/",
+              "d": "A four-wheel-drive home on wheels built on a 7.6-liter International diesel, with a hydraulic lifting roof, locking rear diff, winch, lithium batteries, and an estimated $800,000 build cost, crossing the block at Mecum this month. About 1,100 words, 5 minutes.",
+              "m": "Silodrome, Oct 19"
+            },
+            {
+              "t": "Joolca HOTTAP Go Review: A Portable Hot Shower for Dirty Camp Trips",
+              "u": "https://www.fieldmag.com/articles/joolca-hottap-go-review",
+              "d": "A Moab-based guide tests the $599 propane-heated camp shower and finds it fast to heat and simple to set up, with weaker flow than a roof-mounted rig and a price that only makes sense for frequent vehicle campers. About 1,400 words, 7 minutes.",
+              "m": "Field Mag, Sep 30"
+            },
+            {
+              "t": "Gear Overload: Unpacking 13 Years of Bikepacking Bags",
+              "u": "https://bikepacking.com/gear/unpacking-13-years-of-bikepacking-bags/",
+              "d": "A longtime editor sorts through his whole collection of bags by category to see what he stopped using, what replaced it, and why his setup drifted from race-style stem and seat packs toward racks and long top tube bags. About 2,500 words, 12 minutes.",
+              "m": "Bikepacking.com, Oct 9"
             }
           ]
         },
@@ -47,29 +238,35 @@
           "name": "Easy science",
           "items": [
             {
-              "t": "Was This the Exact Date of Van Gogh's Starry Night?",
+              "t": "Astronomers put a date on Van Gogh's Starry Night",
               "u": "https://nautil.us/was-this-the-exact-date-of-van-goghs-starry-night-1286057",
-              "d": "Astronomers argue the swirl of stars in The Starry Night is the Hyades cluster before dawn on July 22, 1889, and back it up with weather records and Van Gogh's letters about heat and cicadas. Fun forensic astronomy with no math. About 650 words, 3 minutes.",
+              "d": "A team argues the star cluster in the painting is the Hyades, not Aries, and with weather records and a mention of cicadas they pin the sky to July 22, 1889. Art detective work with a telescope. About 800 words, 4 minutes.",
               "m": "Nautilus, Oct 23"
             },
             {
-              "t": "Ice Age Europeans Were More Connected Than We Thought",
-              "u": "https://nautil.us/ice-age-europeans-were-more-connected-than-we-thought-1286066",
-              "d": "The oldest complete genome from southwestern France, a Gravettian woman from Isturitz Cave, shows gene flow from central and eastern Europe 32,000 years ago, suggesting the cave was a meeting hub. About 350 words, 2 minutes.",
-              "m": "Nautilus, Oct 23"
+              "t": "Inkjet droplets, a molting tardigrade and other winners of Nikon Small World 2026",
+              "u": "https://www.sciencenews.org/article/nikon-small-world-contest-2026-photos",
+              "d": "This year's photomicrography winners, led by ink droplets frozen midflight inside a rebuilt printer, plus a pollen-dusted jumping spider and a Brooklyn slime mold, each with the photographer explaining how the shot was made. About 1,200 words, 6 minutes, mostly pictures.",
+              "m": "Science News, Oct 21"
             }
           ],
           "more": [
             {
-              "t": "We Now Know What Denisovans Looked Like",
-              "u": "https://nautil.us/we-now-know-what-denisovans-looked-like-1286027",
-              "d": "Protein sequencing on 130,000-year-old fossils from Xujiayao pins them as Denisovan and sketches a long, shallow skull with heavy brows. About 280 words, 2 minutes.",
-              "m": "Nautilus, Oct 22"
+              "t": "A white dwarf caught eating a planet it may have made itself",
+              "u": "https://eos.org/articles/white-dwarf-spotted-devouring-the-planet-it-birthed",
+              "d": "A dead star's atmosphere is laced with copper, zinc and niobium, which points to a second generation planet that formed from the star's own shed material and is now being consumed. Clean nonprofit science writing from the AGU. New site for this list. About 800 words, 4 minutes.",
+              "m": "Eos, Oct 20"
             },
             {
-              "t": "Mother Bats' Hearts Quicken When They Hear Baby's Cries",
-              "u": "https://nautil.us/mother-bats-hearts-quicken-when-they-hear-babys-cries-1286069",
-              "d": "Japanese house bat mothers' heart rates jump up to 70 beats per minute at their own pup's calls but not others', plus an odd reaction to unfamiliar adult males. About 350 words, 2 minutes.",
+              "t": "The alpine zones of New England and Quebec are turning green",
+              "u": "https://eos.org/articles/in-northeastern-north-america-alpine-zones-are-turning-green",
+              "d": "Forty years of Landsat images show 88 percent of the alpine terrain in the White Mountains, Adirondacks and Gaspe has greened as shrubs push up into tundra, and the windiest ridges are holding out the longest. Good context for anyone who hikes above the trees. New site for this list. About 1,100 words, 5 minutes.",
+              "m": "Eos, Oct 23"
+            },
+            {
+              "t": "Ice Age Europeans were more connected than we thought",
+              "u": "https://nautil.us/ice-age-europeans-were-more-connected-than-we-thought-1286066",
+              "d": "The oldest complete genome from southwestern France, a Gravettian woman from Isturitz Cave, shows gene flow from central and eastern Europe 32,000 years ago, suggesting the cave was a meeting hub. About 350 words, 2 minutes.",
               "m": "Nautilus, Oct 23"
             }
           ]
@@ -78,18 +275,42 @@
           "name": "Longer read",
           "items": [
             {
-              "t": "57 Years Ago: The Moffatt Expedition",
-              "u": "https://mensjournal.com/adventure/57-years-ago",
-              "d": "In 1955 Arthur Moffatt died of hypothermia after his canoe flipped in an unscouted rapid on the Dubawnt River in Canada's Barren Lands; his 22-year-old second-in-command, now in his late seventies, pushes back on the book that made Moffatt a cautionary tale. A sharp story about leadership, patience and scouting. New site for this list. About 2,700 words, 12 minutes.",
-              "m": "Men's Journal, May 2012"
+              "t": "There once was a man called Curley",
+              "u": "https://www.damninteresting.com/there-once-was-a-man-called-curley/",
+              "d": "A former seminarian turned Irish gambler owes bookmakers 30,000 pounds in the summer of 1975 and plots to settle it with one unremarkable horse at a remote country track. A smuggling, showband and racing caper told with Damn Interesting's usual care. About 7,500 words, 32 minutes.",
+              "m": "Damn Interesting, Sep 2025"
+            },
+            {
+              "t": "The teenage prank that has lasted 60 years",
+              "u": "https://www.narratively.com/p/the-teenage-prank-thats-lasted-2026",
+              "d": "Two bored kids hunting frogs at an abandoned sandpit fake a monster sighting, a search party goes out, and decades later the writer learns the creature still scares his old hometown. A funny, slightly rueful true story. New site for this list. About 4,000 words, 16 minutes.",
+              "m": "Narratively, Jan 9"
             }
           ],
           "more": [
             {
-              "t": "Louis Pope Gratacap, a Curator in Lost Worlds",
+              "t": "A fatal canoe expedition on the Dubawnt River, told by the man who came home",
+              "u": "https://mensjournal.com/adventure/57-years-ago",
+              "d": "Arthur Moffatt's 1955 trip across the Canadian Barrens, recounted decades later by his second in command: the slow pace, the early snow, the rapids and the aftermath. Quiet, honest adventure writing. About 2,700 words, 12 minutes.",
+              "m": "Men's Journal, May 2012"
+            },
+            {
+              "t": "The family behind one of F1's greatest photo archives",
+              "u": "https://www.the-race.com/extra/the-family-behind-one-of-f1s-greatest-archives/",
+              "d": "Bernard Cahier and his son Paul-Henri have photographed Formula 1 from inside the paddock for nearly 70 years, and their 400,000 image archive, including Paul-Henri's Senna portraits, is still in family hands with no heir lined up. Pure history, nothing about this weekend. About 1,400 words, 7 minutes.",
+              "m": "The Race, Oct 1"
+            },
+            {
+              "t": "On the origin of continents",
+              "u": "https://worksinprogress.co/issue/on-the-origin-of-continents/",
+              "d": "How Alfred Wegener's continental drift was laughed off for decades, why geologists in Europe and the former colonies stayed open to it, and how Navy funded seafloor magnetics finally settled the argument around 1970. A tidy history of a big idea. New site for this list. About 3,000 words, 13 minutes.",
+              "m": "Works in Progress, Jun 29"
+            },
+            {
+              "t": "A museum curator's 1915 lost world novel and the first fictional T. rex",
               "u": "https://publicdomainreview.org/essay/gratacap-curator-in-lost-worlds/",
-              "d": "A museum curator's 1915 novel The New Northland is often called the first fiction to feature a Tyrannosaurus rex; this essay digs into how it mixed lost-world adventure with the cutting-edge science of its day. About 2,500 words, 11 minutes.",
-              "m": "The Public Domain Review, Jun 2026"
+              "d": "Louis Pope Gratacap ran mineral halls at the American Museum of Natural History and wrote The New Northland, a dense Arctic adventure that put a Tyrannosaurus into fiction before almost anyone else. Richard Fallon makes the case for the book as a strange time capsule. About 3,000 words, 13 minutes.",
+              "m": "The Public Domain Review, Jun 17"
             }
           ]
         },
@@ -97,30 +318,60 @@
           "name": "Money",
           "items": [
             {
-              "t": "How to Save for Your Children (UTMA vs. Trump Account)",
+              "t": "UTMA vs. Trump Account vs. 529 vs. Kid Roth: Where to Put Money for Your Children",
               "u": "https://www.whitecoatinvestor.com/utma-vs-trump-account/",
-              "d": "Jim Dahle lines up every vehicle for stashing money for a kid (529, Trump account, kid Roth, UTMA, taxable) and gives a decision rule based on purpose, contribution size, and how much control you want to keep, plus a frank take on how much to hand over and when. Timely for a parent who can fund several of these at once. About 2,100 words, 11 minutes.",
+              "d": "Jim Dahle lines up the four main ways a high earner can save for young kids, including the new Trump account, and is blunt about which one wins for which goal. Useful if you have been meaning to sort this out before year end. About 2,100 words, 9 minutes.",
               "m": "White Coat Investor, Oct 23"
             },
             {
-              "t": "Beyond Predictions",
-              "u": "https://humbledollar.com/2026/10/beyond-predictions/",
-              "d": "Adam Grossman walks through the two loudest market debates right now (are stocks overpriced after the AI run, and are long Treasuries still safe with rates rising and deficits high) and argues for stress-testing your plan against several scenarios instead of acting on any one forecast. About 1,000 words, 5 minutes.",
-              "m": "Humble Dollar, Oct 24"
+              "t": "Why Bother With Bonds When Stocks Return More?",
+              "u": "https://humbledollar.com/2026/10/why-bonds-matter/",
+              "d": "Adam Grossman answers a reader who wants to go 100 percent stocks by running the 4 percent rule through every retirement start year since 1926, then explains why a few ugly years like 1929, 1969 and 2000 are still reason enough to hold bonds once you are within a decade of needing the money. About 1,250 words, 5 minutes.",
+              "m": "Humble Dollar, Oct 3"
+            },
+            {
+              "t": "Is the Middle Class Trap Real? A Case Study on Getting at Retirement Money Early",
+              "u": "https://www.caniretireyet.com/escaping-middle-class-trap/",
+              "d": "Chris Mamula tests the popular worry that stuffing money into 401(k)s and home equity locks you out of early retirement, walking a mid 50s case through the Rule of 55, SEPP withdrawals and simply paying the penalty, with the tax math for each. His conclusion is that the accounts are not the problem. New site for this list. About 3,200 words, 14 minutes.",
+              "m": "Can I Retire Yet, Oct 19"
             }
           ],
           "more": [
             {
-              "t": "The Rich Are Getting Richer. So Is Everyone Else",
-              "u": "https://awealthofcommonsense.com/2026/10/the-rich-are-getting-richer-so-is-everyone-else/",
-              "d": "Ben Carlson uses the new book The Everywhere Millionaire to show that most American wealth sits in private businesses and that real incomes and stock ownership are rising across the board, a useful counterweight to doom narratives. About 750 words, 4 minutes.",
-              "m": "A Wealth of Common Sense, Oct 6"
+              "t": "Hedging the AI Trade Without Abandoning the Index",
+              "u": "https://awealthofcommonsense.com/2026/10/hedging-the-ai-trade/",
+              "d": "Ben Carlson takes a reader's worry that the S&P 500 has become one giant AI bet, notes the top 10 stocks are about 40 percent of the index for the first time since the 1960s, and lists sensible diversifiers that do not require guessing when the trade ends. About 950 words, 4 minutes.",
+              "m": "A Wealth of Common Sense, Oct 15"
             },
             {
-              "t": "Debt and Physician Finances",
+              "t": "Six Years an Attending and Still in the 1,000 Square Foot Starter Home",
+              "u": "https://www.whitecoatinvestor.com/we-still-dont-have-the-doctor-house/",
+              "d": "A physician couple explains why they passed on a house at the top of their budget, what they are waiting for, and how a practice buy-in and a 25 percent savings rate shape the timeline. A grounded counterpoint to the doctor house reflex. About 1,400 words, 6 minutes.",
+              "m": "White Coat Investor, Oct 7"
+            },
+            {
+              "t": "Are Trading Cards Collectibles for Tax Purposes?",
+              "u": "https://obliviousinvestor.com/tax-treatment-of-selling-trading-cards-are-they-collectibles/",
+              "d": "CPA Mike Piper digs into what happens when you sell an old box of Magic or baseball cards for a gain: the collectibles rate is 28 percent, but the tax code's list of collectibles never actually names trading cards, and the IRS has left the question open for 40 years. New site for this list. About 900 words, 4 minutes.",
+              "m": "Oblivious Investor, Oct 19"
+            },
+            {
+              "t": "How Debt Fits Into a Physician's Finances",
               "u": "https://www.physicianonfire.com/physician-debt-finances/",
-              "d": "Separates unavoidable debt (mortgage, remaining loans) from optional debt and makes the case that the opportunity cost of financed lifestyle purchases usually beats the interest rate, with a section on home equity products worth reading before tapping one. About 2,700 words, 13 minutes.",
+              "d": "A thorough tour of the debts doctors actually carry in mid career, from mortgages and practice buy-ins to leverage in real estate, and a framework for deciding which to pay down and which to keep. About 2,700 words, 11 minutes.",
               "m": "Physician on FIRE, Oct 6"
+            },
+            {
+              "t": "Stress Test Your Plan Instead of Picking a Side in Market Debates",
+              "u": "https://humbledollar.com/2026/10/beyond-predictions/",
+              "d": "Adam Grossman argues that you do not need to decide whether AI is a bubble or whether rates will fall; you need a plan that survives either outcome, and he shows how to check for that. About 1,000 words, 4 minutes.",
+              "m": "Humble Dollar, Oct 24"
+            },
+            {
+              "t": "Why Ben Carlson Finally Bought Bonds",
+              "u": "https://awealthofcommonsense.com/2026/10/how-i-think-about-investing-in-bonds/",
+              "d": "After a career of avoiding them, Carlson explains why today's yields changed his mind, why he sticks to intermediate durations rather than long Treasuries, and how he thinks about bonds as a diversifier after a 15 year stock run rather than a crash prediction. About 800 words, 3 minutes.",
+              "m": "A Wealth of Common Sense, Oct 22"
             }
           ]
         },
@@ -128,42 +379,60 @@
           "name": "Formula 1",
           "items": [
             {
-              "t": "What We Learned from Friday Practice at the 2026 United States GP",
-              "u": "https://www.autosport.com/f1/news/what-we-learned-from-friday-practice-at-the-2026-united-states-gp/10867637/",
-              "d": "Jake Boxall-Legge's Friday wrap from Austin: Leclerc fastest in both sessions, Ferrari, Red Bull and Mercedes near level on long runs, Piastri struggling, Williams in trouble and more than 200 track-limits deletions before qualifying day. The best single primer before today's qualifying. About 1,300 words, 6 minutes.",
-              "m": "Autosport, Oct 24"
-            },
-            {
-              "t": "The Austin Scenarios That Could Crown Antonelli Champion",
-              "u": "https://f1i.com/news/575627-the-austin-scenarios-that-could-crown-antonelli-champion.html",
-              "d": "A clean rundown of the permutations: a win seals it for Antonelli, and Russell and Hamilton need eighth and fourth respectively just to keep the fight alive, with countback on wins covering any tie. Useful to have in your head before Sunday. New site for this list. About 475 words, 2 minutes.",
-              "m": "F1i, Oct 22"
-            },
-            {
-              "t": "The Fastest F1 Car at COTA? Everyone Is Pointing Somewhere Else",
+              "t": "The fastest F1 car at COTA: why everyone is pointing somewhere else",
               "u": "https://www.motorsportmagazine.com/articles/single-seaters/f1/the-fastest-f1-car-at-cota-everyone-is-pointing-somewhere-else/",
-              "d": "Mark Hughes on why Red Bull, Ferrari and Mercedes each insist a rival is the favorite in Austin, and why the volatile track-to-track form, the bumpy surface and the Mercedes upgrade make this an open weekend. About 900 words, 4 minutes.",
+              "d": "Mark Hughes on why Red Bull, Ferrari and Mercedes each insist a rival is the favorite in Austin, and why the volatile track to track form, the bumpy surface and the Mercedes upgrade make this an open weekend. Written before the cars ran. About 900 words, 4 minutes.",
               "m": "Motor Sport Magazine, Oct 23"
+            },
+            {
+              "t": "Colton Herta could replace Bottas at Cadillac for 2027",
+              "u": "https://www.the-race.com/formula-1/herta-could-replace-bottas-at-cadillac-in-f1-2027/",
+              "d": "Josh Suttill on Cadillac's unsettled second seat: Herta's rough Formula 2 year, the superlicence points he still needs, why the team is impressed anyway, and where Tsunoda and Ocon fit. About 900 words, 4 minutes.",
+              "m": "The Race, Oct 24"
+            },
+            {
+              "t": "Verstappen says COTA's bumps are out of control and shares his own spine scan",
+              "u": "https://www.pitdebrief.com/post/verstappen-stresses-spinal-health-risk-for-f1-drivers-caused-by-out-of-control-bumps-at-cota/",
+              "d": "Verstappen says the Austin surface is hurting drivers' backs and brought scan results to prove it; Norris and Russell back him, with Russell calling for regular repaving of F1 tracks. Written before practice. New site for this list. About 1,400 words, 8 minutes.",
+              "m": "Pit Debrief, Oct 23"
             }
           ],
           "more": [
             {
-              "t": "Lewis Hamilton's Major Red Bull Confession: They Proved Me Wrong",
+              "t": "Lewis Hamilton's Red Bull confession: they proved everybody wrong",
               "u": "https://www.crash.net/f1/news/1108173/1/lewis-hamiltons-red-bull-confession-they-proved-everybody-wrong",
-              "d": "Hamilton admits he underestimated Red Bull's recovery under the 2026 rules after Verstappen's Malaysia and Singapore wins, with a sidebar on Horner's memoir claim that Red Bull held secret talks with Hamilton before his 2013 Mercedes move. About 500 words, 2 minutes.",
+              "d": "Hamilton admits he underestimated Red Bull's recovery under the 2026 rules, with a sidebar on Horner's memoir claim that Red Bull held secret talks with Hamilton before his 2013 Mercedes move. About 500 words, 2 minutes.",
               "m": "Crash.net, Oct 24"
             },
             {
-              "t": "What Happened in F1 2026 US GP Second Practice",
-              "u": "https://www.the-race.com/formula-1/what-happened-f1-2026-us-gp-fp2-leclerc-ferrari-fastest/",
-              "d": "Ben Anderson's FP2 summary: Leclerc narrowly ahead of Antonelli and Verstappen, mistakes from Russell and Norris, and Williams and Aston Martin looking off the pace. About 500 words, 2 minutes.",
-              "m": "The Race, Oct 23"
+              "t": "Adrian Newey answers the Horner book with his own 'pain and frustration' over the Renault years",
+              "u": "https://www.planetf1.com/news/adrian-newey-renault-criticism-red-bull-christian-horner",
+              "d": "Asked in Austin about Drive, Newey describes how bleak Red Bull felt from 2014 until the Honda switch, and says he and Horner are still friends. About 400 words, 2 minutes.",
+              "m": "PlanetF1, Oct 24"
             },
             {
-              "t": "Leclerc Stays on Top in Second Practice at COTA, Narrowly Ahead of Antonelli",
-              "u": "https://www.racefans.net/2026/10/23/leclerc-stays-on-top-in-second-practice-at-cota-narrowly-ahead-of-antonelli/",
-              "d": "Keith Collantine's quick FP2 report with the full times table: Antonelli within 0.042s of Leclerc, Verstappen within two tenths, and Albon's rough session for Williams. About 300 words, 2 minutes.",
-              "m": "RaceFans, Oct 23"
+              "t": "Formula 1's fuel flow meter dispute lands in a Texas court",
+              "u": "https://f1i.com/news/575585-formula-1-fuel-flow-dispute-lands-in-court-ahead-of-austin-gp.html",
+              "d": "Sentronics, the FIA's former fuel flow meter supplier, is suing German rival Allengra for patent infringement over ultrasonic measurement, and wants its meters banned in the US. Niche, but a fun look at who makes the sensor that polices the whole grid. About 475 words, 3 minutes.",
+              "m": "F1i, Oct 20"
+            },
+            {
+              "t": "Haas signs Ferrari prodigy Rafael Camara, leaving three seats open on the 2027 grid",
+              "u": "https://www.gpfans.com/en/f1-news/1091731/f1-grid-2027-october-2026-three-seats-remaining/",
+              "d": "Graham Shaw runs through the 2027 line-up team by team, why Camara and Bearman at Haas looks like a Ferrari succession audition, and which two seats at Racing Bulls are still unsettled. New site for this list. About 1,100 words, 5 minutes.",
+              "m": "GPFans, Oct 20"
+            },
+            {
+              "t": "Before Austin worked: F1's long history of embarrassing itself in America",
+              "u": "https://www.speedweek.com/en/a/formula-1/history-usa-gp-ahead-of-the-world-championship-round-in-austin-plenty-of-vicarious-embarrassment-in-america",
+              "d": "Mathias Brunner on the Caesars Palace parking lot, the melting Dallas track in 1984, Phoenix drawing fewer fans than an ostrich race, and how Austin finally made F1 stick. Translated from German, reads fine. New site for this list. About 900 words, 4 minutes.",
+              "m": "Speedweek, Oct 22"
+            },
+            {
+              "t": "Hills, a lake and a roller coaster: inside Rwanda's plan for the African Grand Prix",
+              "u": "https://www.formula1.com/en/latest/article/hills-a-lake-and-a-roller-coaster-inside-rwandas-plan-for-the-african-grand-prix.76LEZDItQYH362QElcHoY1",
+              "d": "Phillip Horton on the 6 km Bugesera circuit Tilke and Alex Wurz are designing south of Kigali for the early 2030s, and what F1 and Rwanda each want from the ten-year deal. About 1,100 words, 5 minutes.",
+              "m": "formula1.com, Oct 13"
             }
           ]
         },
@@ -171,42 +440,90 @@
           "name": "Listen",
           "items": [
             {
-              "t": "Chequered Flag Extra: F1 in Africa, Gasly on Alpine and Palmowski's Title Dream",
+              "t": "Chequered Flag Extra: F1 in Africa, Pierre Gasly on Alpine, and Alisha Palmowski",
               "u": "https://podcasts.apple.com/us/podcast/chequered-flag-extra-f1-in-africa-gasly-on-alpine-palmowskis/id130520763?i=1000796514631",
-              "d": "The BBC's F1 team digs into the reported ten year deal for Rwanda to host a Grand Prix, then sits down with Pierre Gasly on his career and where Alpine is heading, and with F1 Academy leader Alisha Palmowski on her title chase. Interviews and big picture talk rather than a race recap. 37 minutes.",
+              "d": "The BBC team digs into what the new Rwanda Grand Prix deal actually means for the calendar, sits down with Pierre Gasly about life at Alpine, and talks with F1 Academy driver Alisha Palmowski about her season. News and interviews, no race recap. 37 minutes.",
               "m": "F1 podcast, Oct 15"
             },
             {
-              "t": "The Fast and the Curious: Max Verstappen Interview, Jets, Pets and Pressure",
-              "u": "https://podcasts.apple.com/us/podcast/max-verstappen-interview-jets-pets-and-pressure/id1672650209?i=1000792553244",
-              "d": "Betty Glover gets a loose, funny sit down with the four time champion: whether Isack Hadjar has asked for a ride on his jet, dogs versus cats, and how it feels to be the last man to win in Malaysia. A quick, human look at Verstappen away from the stopwatch. 19 minutes. New show for this list.",
-              "m": "F1 podcast, Oct 1"
+              "t": "F1 Explains: Why lap counts differ, why team sizes vary, and what practice is really for",
+              "u": "https://podcasts.apple.com/us/podcast/f1-explains-lap-count-calculations-team-size-differences/id1510367515?i=1000793946852",
+              "d": "Christian Hewgill, F1 TV's Laura Winter, and Le Mans podium finisher Alex Brundle answer listener questions: how the lap count for each Grand Prix is set, why some teams employ far more people than others, what engineers and drivers actually do in practice, and whether the car or the driver matters more. A tidy explainer for a race weekend. 29 minutes.",
+              "m": "F1 podcast, Oct 8"
             },
             {
               "t": "Unexplainable: Spider Web 2.0",
               "u": "https://podcasts.apple.com/us/podcast/spider-web-2-0/id1554578197?i=1000797745171",
-              "d": "Spider silk is tougher than Kevlar for its weight, so why can't we make it ourselves? Chemist Greg Holland walks through what spiders know that our labs still don't, and how close we are to copying it. 22 minutes.",
+              "d": "Spider silk is stronger than steel by weight, and scientists have spent decades trying to copy it. Unexplainable looks at why the copying is so hard and what the latest attempts have learned from the spiders themselves. 22 minutes.",
               "m": "Podcast, Oct 23"
             },
             {
-              "t": "Today, Explained: RFK Jr. and the Chocolate Factory",
+              "t": "Today, Explained: The chocolate factory and the fight over food dyes",
               "u": "https://podcasts.apple.com/us/podcast/rfk-jr-and-the-chocolate-factory/id1346207297?i=1000797825960",
-              "d": "Food companies, including the maker of M&M's, have been pushed to drop artificial dyes, and it turns out that recoloring candy is much harder than it sounds. Noel King on the food science and the business behind the bright colors. 26 minutes.",
+              "d": "Why are M&Ms the color they are, where do synthetic food dyes come from, and what happens when candy makers are pushed to swap them for natural ones? A fun look at the chemistry and the business of making food look the way we expect. 26 minutes.",
               "m": "Podcast, Oct 23"
             },
             {
-              "t": "Unexplainable: The Wild Orchid Mystery",
+              "t": "Unexplainable: The wild orchid mystery",
               "u": "https://podcasts.apple.com/us/podcast/the-wild-orchid-mystery/id1554578197?i=1000797403618",
-              "d": "A crossover with the Smithsonian's Sidedoor team, who go hunting for a rare wild orchid that has puzzled scientists for years. A treasure hunt with botany in it. 26 minutes.",
+              "d": "A team-up with the Smithsonian's Sidedoor podcast follows botanists hunting for a wild orchid that almost nobody has seen, and explains why orchids are so stubbornly hard to find, grow, and protect. Good outdoors science with a detective story shape. 26 minutes.",
               "m": "Podcast, Oct 21"
             }
           ],
           "more": [
             {
-              "t": "99% Invisible: 100 Objects #21, Window from the House of D",
-              "u": "https://podcasts.apple.com/us/podcast/100-objects-21-window-from-the-house-of-d/id394775318?i=1000793501212",
-              "d": "New York's first women's prison opened in Greenwich Village in 1932 with windows the inmates could open, meant as a small kindness. Roman Mars and historian Hugh Ryan trace how those windows accidentally helped build a neighborhood and a movement. 37 minutes, a touch over the usual limit.",
+              "t": "F1 Beyond the Grid: 50 years since James Hunt's title, with Freddie Hunt",
+              "u": "https://podcasts.apple.com/us/podcast/50-years-since-james-hunts-dramatic-title-win-with/id1405972616?i=1000796220037",
+              "d": "Tom Clarkson marks the 50th anniversary of the 1976 championship with James Hunt's son Freddie, a racing driver and TV presenter himself, who shares stories about his maverick father and what it was like growing up as a world champion's kid. Pure F1 history. 25 minutes.",
+              "m": "F1 podcast, Oct 13"
+            },
+            {
+              "t": "The Fast and the Curious: Max Verstappen on jets, pets, and pressure",
+              "u": "https://podcasts.apple.com/us/podcast/max-verstappen-interview-jets-pets-and-pressure/id1672650209?i=1000792553244",
+              "d": "A short, loose Verstappen interview recorded ahead of the Malaysia weekend: a private jet request from Isack Hadjar, dogs versus cats, and how he handles pressure. Light and quick, nothing about this weekend. 19 minutes.",
+              "m": "F1 podcast, Oct 1"
+            },
+            {
+              "t": "The Race F1 Tech Show: The secrets of driver-in-the-loop simulators",
+              "u": "https://podcasts.apple.com/us/podcast/the-secrets-of-driver-in-the-loop-simulators/id1502430647?i=1000784535820",
+              "d": "Edd Straw interviews Ash Warne, founder of Dynisma and a pioneer of F1 simulators at McLaren and Ferrari, on how driver-in-the-loop rigs work: latency and bandwidth, the hexapod motion platform, and how teams actually use them between races. An evergreen explainer from August. New show for this list. 41 minutes.",
+              "m": "F1 podcast, Aug 20"
+            },
+            {
+              "t": "Radiolab: Octomom",
+              "u": "https://podcasts.apple.com/us/podcast/octomom/id152249110?i=1000797662464",
+              "d": "In 2007 a robot submarine found an octopus brooding her eggs a mile down off Monterey, and biologist Bruce Robison kept going back month after month to check on her. What started as a simple act of motherhood became a feat of endurance no other known animal has matched. A rerun of a Radiolab favorite. New show for this list. 34 minutes.",
               "m": "Podcast, Oct 23"
+            },
+            {
+              "t": "Cautionary Tales: The pedlar and the witch",
+              "u": "https://podcasts.apple.com/us/podcast/the-pedlar-and-the-witch-halloween-season/id1484511465?i=1000797624342",
+              "d": "Tim Harford's Halloween season continues with 1612 Lancashire, where a trivial quarrel between a young woman and a travelling pedlar ends with him collapsing on the road and sets off one of Britain's most infamous witch trials. History told as a thriller. New show for this list. 39 minutes.",
+              "m": "Podcast, Oct 23"
+            },
+            {
+              "t": "Outside/In: Why food safety experts will eat rare steak but not buffet fruit salad",
+              "u": "https://podcasts.apple.com/us/podcast/why-these-food-safety-experts-will-eat-rare-steak-but/id1061222770?i=1000797407499",
+              "d": "The scientists behind the Risky or Not podcast answer listener questions: is the tuna sandwich that sat in a backpack all day still fine, is ceviche a gamble, and when is bagged lettuce safe again? Practical, funny, and useful for anyone who packs lunches for kids. New show for this list. 35 minutes.",
+              "m": "Podcast, Oct 21"
+            },
+            {
+              "t": "Decoder Ring: Clown panic",
+              "u": "https://podcasts.apple.com/us/podcast/clown-panic-encore/id1376577202?i=1000797313851",
+              "d": "Clowns were beloved for centuries, from the circus big top to Bozo on TV, so how did so many of us end up scared of them? Slate's culture-mystery show traces the history and argues the happy clown and the scary clown have more in common than you would think. New show for this list. 36 minutes.",
+              "m": "Podcast, Oct 21"
+            },
+            {
+              "t": "99% Invisible: 100 Objects #21, the window from the House of D",
+              "u": "https://podcasts.apple.com/us/podcast/100-objects-21-window-from-the-house-of-d/id394775318?i=1000793501212",
+              "d": "The latest entry in the 100 Objects series takes a 1932 Greenwich Village jail whose windows could be opened, and shows how that one design detail let the women inside talk to the street and turned the building into an unexpected neighborhood landmark. 37 minutes.",
+              "m": "Podcast, Oct 23"
+            },
+            {
+              "t": "Twenty Thousand Hertz: How music supervisors craft the perfect needle drop",
+              "u": "https://podcasts.apple.com/us/podcast/how-modern-music-supervisors-craft-the-perfect-needle-drop/id1171270672?i=1000796160648",
+              "d": "Part two of the needle drop series: a hotly contested track that became a 1990s comedy staple, Tarantino's habit of raiding old soundtracks, what a famous song costs to license, and the controversy over soundalikes. Follows the first part that ran here last week. 55 minutes.",
+              "m": "Podcast, Oct 19"
             }
           ]
         },
@@ -216,13 +533,25 @@
             {
               "t": "Local Wikipedia: Only the Things Within a Half Hour Walk of You",
               "u": "https://edjefferson.com/localwiki/",
-              "d": "Type in a town, landmark or postcode and it hands you every geocoded Wikipedia entry within strolling distance, which is the fastest way to discover the odd history hiding around your own house or any hotel you land in. Your location never leaves the browser. About 100 words, 1 minute, then as long as you like exploring.",
+              "d": "Type in a town, landmark or postcode and it hands you every geocoded Wikipedia entry within strolling distance, the fastest way to find the odd history hiding around your own house or any hotel you land in. Your location never leaves the browser. About 100 words, 1 minute, then as long as you like exploring.",
               "m": "Hacker News"
             },
             {
               "t": "An Avionics Engineer Built a Working Apollo Guidance Computer Replica",
               "u": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
-              "d": "Michael Newton made a 1:1 copy of the DSKY keypad the astronauts used, running the actual Apollo 13 command module software, and open sourced the plans and a 100 page build guide. A nice piece of space history you can hold in your hands. About 1,100 words, 7 minutes.",
+              "d": "Michael Newton made a 1:1 copy of the DSKY keypad the astronauts used, running the real Apollo 13 command module software, and open sourced the plans plus a 100 page build guide. Space history you can hold in your hands. About 1,100 words, 7 minutes.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "A Lost Schrodinger Manuscript Turns Up in an Austrian Library",
+              "u": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+              "d": "A physics historian found three unpublished pages from the 1940s in which Schrodinger sketched a hidden variable model to show quantum randomness need not be fundamental, then quietly shelved it. A tidy detective story about what the man behind the cat actually believed. About 1,200 words, 6 minutes.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Why Soft Bodied Fossils Vanished: Blame the Collagen Eaters",
+              "u": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+              "d": "Cambridge researchers compared 700 bacterial genomes against a dated tree of life and found collagen digesting enzymes spread into oxygen loving microbes right when soft tissue fossils dry up at the start of the Cambrian. A clever answer to a 150 year old puzzle. About 900 words, 4 minutes.",
               "m": "Hacker News"
             },
             {
@@ -233,6 +562,24 @@
             }
           ],
           "more": [
+            {
+              "t": "John Snow's 1854 Cholera Map, Rebuilt as Modern GIS Data",
+              "u": "https://johnsnow.rtwilson.com/",
+              "d": "Robin Wilson georeferenced the most famous map in the history of data, with every death count, every water pump and a modern street layer, plus a browsable web map so you can retrace the Broad Street detective work yourself. A couple of minutes to read, 10 to 15 minutes to poke around.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "A 200 Mile Bike Ride Across Brazil's Vanishing Savanna",
+              "u": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+              "d": "Environmental historian Natascha Otoya cycled through western Bahia and Tocantins filming the Cerrado, a biome as rich as the Amazon that has lost more than half its area to cattle and soy in 40 years. Second place in Yale E360's film contest. A short film plus about 400 words, 3 minutes of reading.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "How Is Music Possible?",
+              "u": "https://www.henrikkarlsson.xyz/p/music",
+              "d": "Henrik Karlsson starts with folk music making the trees outside his car look otherworldly and asks why abstract patterns of tones can do that to a person, finding both the neuroscience and the philosophy too thin. Thoughtful and warm, with a nice closing point about how little of possible music the radio ever uses. About 1,900 words, 9 minutes.",
+              "m": "Hacker News"
+            },
             {
               "t": "Reforming English Spelling, One Unnecessary Letter at a Time",
               "u": "https://blog.oup.com/2026/10/reforming-english-spelling/",
@@ -246,9 +593,33 @@
               "m": "Hacker News"
             },
             {
+              "t": "A Chair That Is 3D Printed Flat, Then Bent by Hand",
+              "u": "https://www.designboom.com/design/hand-bent-3d-printing-oberdoerfer-krebs-digital-fabrication-bend-chair-ukurant-3daysofdesign/",
+              "d": "Danish studio Oberdoerfer and Krebs prints furniture with built in bend zones, reheats it and folds it into shape, and also makes a wall rack by letting the printer deliberately drool plastic into hooks. Photo heavy and fun for anyone who likes seeing how things get made. About 700 words, 4 minutes.",
+              "m": "Hacker News"
+            },
+            {
               "t": "Air Purifiers Make Better White Noise Machines",
               "u": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
               "d": "Jeff Kaufman's short case for swapping the bedside white noise box for a cheap HEPA purifier, which sounds the same and also scrubs smoke from the room. Practical and quick. About 250 words, 1 minute.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "This I Believe, by Robert Heinlein (1952)",
+              "u": "https://www.awakin.org/v2/read/view.php?tid=468",
+              "d": "The science fiction writer's short radio essay for Edward R. Murrow's series, a plain spoken case that everyday decency from neighbors, nurses and tradesmen outweighs our flaws, ending with humanity reaching the stars. Good with coffee. About 575 words, 3 minutes.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The Total Historian: Marc Bloch and the Lost Art of Big History",
+              "u": "https://www.theideasletter.org/essay/total-historian/",
+              "d": "Nicholas Mulder reviews a new biography of Marc Bloch, the Annales school founder and Resistance fighter, and argues historians have abandoned his ambition to synthesize everything from climate to economics into one story. Dense but rewarding for a history buff. About 3,700 words, 17 minutes.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "I Don't Understand Quantum Physics, by a Physicist Who Admits It",
+              "u": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+              "d": "Emeritus professor Douglas Ross wrote a free, plain language book for anyone who stopped at high school physics, arguing that nobody can picture the quantum world and that is fine, you judge it by its predictions. Chapters are separate PDFs so you can dip in. About 85 pages, read a chapter in 10 minutes.",
               "m": "Hacker News"
             }
           ]
@@ -257,18 +628,24 @@
           "name": "Wildcard",
           "items": [
             {
-              "t": "Tadao Ando Designed and Donated a Floating Library for Island Children",
+              "t": "Tadao Ando's Floating Picture Book Library Sails the Seto Inland Sea",
               "u": "https://spoon-tamago.com/tadao-ando-kagawa-floating-library/",
-              "d": "The Hon no Mori-go carries about 2,000 picture books to kids on remote islands in Japan's Seto Inland Sea, with a big circular reading bench Ando built onto the rear deck. Concrete minimalist meets ferry, with good photos. New site for this list. About 400 words, 2 minutes.",
+              "d": "The Hon no Mori-go carries about 2,000 picture books to kids on remote islands in Japan's Seto Inland Sea, with a big circular reading bench Ando built onto the rear deck. Concrete minimalist meets ferry, with good photos. About 400 words, 2 minutes.",
               "m": "Spoon & Tamago, Sep 15"
             }
           ],
           "more": [
             {
-              "t": "Webb's Portrait of the Lion Nebula",
-              "u": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
-              "d": "A dying star has blown a bubble of gas that looks remarkably like a lion's face, captured by Webb's infrared cameras; astronomers give it about 10,000 years before it disperses. Mostly a picture piece. About 300 words, 2 minutes.",
-              "m": "Colossal, Oct 19"
+              "t": "13 Things Found on the Internet This Week, Vol. 780",
+              "u": "https://www.messynessychic.com/2026/10/06/13-things-i-found-on-the-internet/",
+              "d": "A grab bag of oddities: a Flickr group devoted to control rooms, pedestrian signals from around the world, a folk art castle in Antonito, Colorado, bricked up windows left over from window taxes, and the X-ray shoe fitting machines once common in shoe stores. New site for this list. About 1,100 words, 6 minutes.",
+              "m": "Messy Nessy Chic, Oct 6"
+            },
+            {
+              "t": "A Year of Lightning Across the United States, Animated",
+              "u": "https://googlemapsmania.blogspot.com/2026/10/a-year-of-lightning.html",
+              "d": "An animated map of 12 months of lightning strikes that shows storms hugging the Gulf Coast in winter, spreading north in spring and lighting up Florida and the Southwest all summer, with links to the same treatment for Europe and Africa. About 220 words plus the map, 3 minutes.",
+              "m": "Maps Mania, Oct 3"
             }
           ]
         }
