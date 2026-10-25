@@ -1,6 +1,621 @@
 {
   "days": [
     {
+      "date": "2026-10-25",
+      "label": "Sunday, October 25",
+      "note": "Race day in Austin and the Packers at Detroit, both this afternoon, with the qualifying recap behind the Game day link whenever you are ready. New sites today include Treeline Review, GearJunkie, Man of Many, Knowable Magazine, Hakai Magazine, SAPIENS, Futility Closet, 1919 Investment Counsel, Formula Scout, Circuit of The Americas, The Autopian and Box of Neutrals.",
+      "hero": {
+        "img": "https://images.unsplash.com/photo-1437384423356-1aed23732c43?w=1400&q=75&auto=format",
+        "alt": "Aerial view of a lone mountain house below snow covered peaks at golden hour",
+        "credit": "Wolfgang Lutz",
+        "page": "https://unsplash.com/photos/aerial-photography-of-house-and-snow-covered-mountain-at-golden-hour-mBoqB1FEU6o",
+        "caption": "Alpine hut, golden hour",
+        "more": [
+          {
+            "img": "https://images.unsplash.com/photo-1742014268693-def13fbbe0eb?w=1400&q=75&auto=format",
+            "alt": "Two anglers fly fishing in a river",
+            "credit": "Jacob McGowin",
+            "page": "https://unsplash.com/photos/two-people-are-fly-fishing-in-a-river-6Q_2E-19is0",
+            "caption": "Fly fishing"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1759675795062-a657fcb278b1?w=1400&q=75&auto=format",
+            "alt": "Snowy mountains rising from the ocean at sunrise at Vestrahorn",
+            "credit": "Jonny Gios",
+            "page": "https://unsplash.com/photos/snowy-mountains-rise-from-the-ocean-at-sunrise-IHfbPJYsnsI",
+            "caption": "Vestrahorn, Iceland"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1759731688111-0c47be0cdd7c?w=1400&q=75&auto=format",
+            "alt": "White Toyota Land Cruiser driving over sand dunes",
+            "credit": "Ciprian Stoenescu",
+            "page": "https://unsplash.com/photos/white-toyota-land-cruiser-driving-on-sand-dunes-VlwRj9PtY-Q",
+            "caption": "Land Cruiser, dunes"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1505731324189-3d0afbeafcbf?w=1400&q=75&auto=format",
+            "alt": "Fjord water below forested mountains under white clouds",
+            "credit": "Robert Bye",
+            "page": "https://unsplash.com/photos/body-of-water-near-mountain-under-white-clouds-e1sTn8-hGEE",
+            "caption": "Gudvangen, Norway"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1757435555190-465de93201d4?w=1400&q=75&auto=format",
+            "alt": "Lighthouse on a rocky coast at dusk",
+            "credit": "Kevin Mueller",
+            "page": "https://unsplash.com/photos/lighthouse-on-rocky-coast-at-dusk-f3MIpowlx48",
+            "caption": "Lighthouse coast"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1744791588287-6660d83418b3?w=1400&q=75&auto=format",
+            "alt": "A cowboy on horseback in the desert under a starry night sky",
+            "credit": "Diego PH",
+            "page": "https://unsplash.com/photos/a-cowboy-sits-on-his-horse-in-the-desert-9nqNQLfn5B4",
+            "caption": "Desert cowboy"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1778362950179-88f6c8423f8d?w=1400&q=75&auto=format",
+            "alt": "A man running on a rocky mountain peak above the clouds",
+            "credit": "Alban ROZES",
+            "page": "https://unsplash.com/photos/man-running-on-rocky-mountain-peak-above-clouds-DhGC1dVw0Tg",
+            "caption": "Above the clouds"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1757175799910-22c10687976b?w=1400&q=75&auto=format",
+            "alt": "Sailboats on the ocean during a vivid sunset",
+            "credit": "Zoshua Colah",
+            "page": "https://unsplash.com/photos/sailboats-on-the-ocean-at-sunset-3O2SgoJetY0",
+            "caption": "Key West sails"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1602000749957-343a1e07d5b7?w=1400&q=75&auto=format",
+            "alt": "Yellow leafed trees on a green grass field",
+            "credit": "Intricate Explorer",
+            "page": "https://unsplash.com/photos/yellow-leaf-trees-on-green-grass-field-during-daytime-sJ5UIfOjyEo",
+            "caption": "Autumn aspens"
+          },
+          {
+            "img": "https://images.unsplash.com/photo-1524429656589-6633a470097c?w=1400&q=75&auto=format",
+            "alt": "A lake below a mountain at sunset",
+            "credit": "Mike Scheid",
+            "page": "https://unsplash.com/photos/body-of-water-across-the-mountain-during-sunset-xoYPV4oVQJI",
+            "caption": "Mountain lake sunset"
+          }
+        ]
+      },
+      "slots": [
+        {
+          "name": "Game day, no spoilers",
+          "items": [
+            {
+              "t": "F1: Qualifying for the United States Grand Prix in Austin was Saturday",
+              "u": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
+              "d": "The one-hour knockout session at the Circuit of The Americas that sets Sunday's starting grid. Formula 1's live blog follows all three segments as they unfolded.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "Packers activate Josh Jacobs and Jordon Riley, elevate Arron Mosby",
+              "u": "https://www.packers.com/news/packers-activate-rb-josh-jacobs-dt-jordon-riley-oct-24-2026",
+              "d": "Saturday roster moves before the trip to Detroit: RB Josh Jacobs activated from exempt status, DT Jordon Riley activated from reserve/PUP, WR Coleman Owen signed to the active roster, and EDGE Arron Mosby elevated from the practice squad for gameday.",
+              "m": "packers.com"
+            },
+            {
+              "t": "Coming up: F1 United States Grand Prix in Austin, Sunday 4:00 pm ET",
+              "u": "https://www.formula1.com/en/racing/2026/united-states",
+              "d": "The 56-lap Grand Prix at the Circuit of The Americas. The official event page has the full weekend schedule and circuit details.",
+              "m": "formula1.com"
+            },
+            {
+              "t": "Coming up: Packers at Detroit Lions, Sunday 4:25 pm ET",
+              "u": "https://www.packers.com/game-day/2026/reg-week7/packers-at-lions/",
+              "d": "An NFC North road game at Ford Field. The Packers game center collects the previews, matchup notes and videos ahead of kickoff.",
+              "m": "packers.com"
+            }
+          ]
+        },
+        {
+          "name": "Gear",
+          "items": [
+            {
+              "t": "Kids Ride Shotgun Pro EVO 2-in-1 Child Bike Seat Review",
+              "u": "https://www.treelinereview.com/gearreviews/kids-ride-shotgun-shotgun-pro-evo-review",
+              "d": "A tester spent more than a year riding singletrack and bike paths with a toddler perched on this front-mounted seat, and reports what works and what does not. Handy if you want to get young kids out on the trail with you. About 3,500 words, 15 minutes. New site for this list.",
+              "m": "Treeline Review, Oct 18"
+            },
+            {
+              "t": "Hands-On: Exploring Film Photography with the Nodus Obscura II",
+              "u": "https://wornandwound.com/review/hands-on-exploring-film-photography-with-the-nodus-obscura-ii/",
+              "d": "A hobby film photographer takes a watch with a Sunny 16 exposure bezel onto the streets of San Francisco to see if it can stand in for a light meter. A clever crossover of two analog hobbies. About 1,300 words, 6 minutes.",
+              "m": "Worn & Wound, Oct 20"
+            },
+            {
+              "t": "Iconic Folding Knife Gets Modern EDC Upgrades: Buck Knives 110 Crossbar Elite Review",
+              "u": "https://gearjunkie.com/knives/buck-knives-110-crossbar-elite-review",
+              "d": "The classic Buck 110 sheds weight and gains MagnaCut steel, a crossbar lock and a pocket clip, and a longtime knife tester puts it through daily chores. A fun look at how a 1960s icon gets updated for modern pockets. About 1,000 words, 5 minutes. New site for this list.",
+              "m": "GearJunkie, Oct 13"
+            },
+            {
+              "t": "2026 Toyota GR Corolla Review: Can Trick AWD Dethrone the Civic Type R?",
+              "u": "https://manofmany.com/auto/cars/2026-toyota-gr-corolla-review",
+              "d": "A week with the updated manual GR Corolla, the rally-bred hot hatch with adjustable all-wheel drive, and an honest comparison with Honda's Civic Type R. A fun read for anyone who still loves a third pedal. About 1,600 words, 7 minutes. New site for this list.",
+              "m": "Man of Many, Oct 12"
+            },
+            {
+              "t": "The Cut List (Vol. 3): Gear Miles Has Left Behind",
+              "u": "https://bikepacking.com/plan/the-cut-list-vol-3-miles-arbour/",
+              "d": "A veteran bikepacker walks through a decade of gear and habits he has given up, from Dyneema tents to titanium cookware to plus-size tires, and explains why. Refreshingly honest about what is actually worth carrying. About 2,200 words, 10 minutes.",
+              "m": "Bikepacking.com, Oct 13"
+            }
+          ],
+          "more": [
+            {
+              "t": "Fjällräven Nuuk Parka Winter Jacket Review",
+              "u": "https://www.treelinereview.com/gearreviews/fjallraven-nuuk-parka-winter-jacket-review",
+              "d": "A thorough tested review of a heavy-duty Swedish parka built for real cold, with clear notes on warmth, hood, pockets and the tradeoffs of its four-pound weight. Timely as winter coat season arrives. About 3,300 words, 14 minutes. New site for this list.",
+              "m": "Treeline Review, Oct 23"
+            },
+            {
+              "t": "Review: the Gagà Laboratorio Aqualab",
+              "u": "https://wornandwound.com/review/review-the-gaga-laboratorio-aqualab/",
+              "d": "An Italian dive watch with a deliberately odd way of telling time gets some real wrist time. Fun if you like design that breaks the rules, with an honest take on where style beats function. About 1,000 words, 5 minutes.",
+              "m": "Worn & Wound, Oct 22"
+            },
+            {
+              "t": "iPhone Duo Review: Living With Apple's Most Transformational Product in Years",
+              "u": "https://manofmany.com/tech/smartphones/apple-iphone-duo-review",
+              "d": "A week of daily use with Apple's first foldable phone, covering the nearly invisible crease, the big inner screen, battery life and camera compromises. Worth a look if you are curious whether folding phones are finally ready. About 4,000 words, 18 minutes. New site for this list.",
+              "m": "Man of Many, Oct 21"
+            },
+            {
+              "t": "The Wind Up: Raymond Weil's Most Important Watch of 2026",
+              "u": "https://manofmany.com/watches/the-wind-up-raymond-weils-most-important-watch-of-2026",
+              "d": "A weekly watch column led by a few days wearing Raymond Weil's integrated bracelet A.R.T. Date, plus quick takes on new releases from Omega, Seiko and Bremont. A breezy catch-up on the watch world. About 1,400 words, 6 minutes. New site for this list.",
+              "m": "Man of Many, Oct 11"
+            },
+            {
+              "t": "The Company That Zips the Globe: YKK's Ninety Year Obsession",
+              "u": "https://www.carryology.com/liking/the-company-that-zips-the-world-ykks-ninety-year-obsession/",
+              "d": "How a small Japanese zipper maker founded in 1934 came to dominate the world by making everything itself, plus a peek at its self-propelled zipper prototype. A great story about the most overlooked part of every bag and jacket you own. About 3,800 words, 16 minutes.",
+              "m": "Carryology, Oct 2025"
+            },
+            {
+              "t": "Driving Enthusiasts Absolutely Should Not Overlook Kumho's Latest Performance All-Season Tire",
+              "u": "https://www.gearpatrol.com/cars/kumho-ecsta-sport-performance-four-season-tire-review/",
+              "d": "A longtime Michelin loyalist runs a cheaper set of all-season performance tires on his manual Accord coupe through dry, wet and snowy driving. Useful real-world perspective before your next tire purchase. About 1,300 words, 6 minutes.",
+              "m": "Gear Patrol, Jun 2026"
+            },
+            {
+              "t": "This Is Sonos's New Perfect Entry-Level Speaker. Here's Why",
+              "u": "https://www.gearpatrol.com/audio/sonos-play-review/",
+              "d": "Two weeks with the $299 Sonos Play, a smaller sibling of the Move 2 with its own charging dock. A clear verdict on who should buy it and who should spend more. About 1,000 words, 5 minutes.",
+              "m": "Gear Patrol, Mar 2026"
+            },
+            {
+              "t": "Light Phone III Review: Is a Dumbphone Fit for Travel and Adventure?",
+              "u": "https://www.fieldmag.com/articles/light-phone-iii-review",
+              "d": "A writer swaps his smartphone for a minimalist calls-and-texts phone for three months, including a bikepacking trip through Baja. Thoughtful on what you gain in presence and what you lose without maps. About 2,500 words, 11 minutes.",
+              "m": "Field Mag, Jan 2026"
+            },
+            {
+              "t": "Hands-On: the Split GMT",
+              "u": "https://wornandwound.com/review/hands-on-the-split-gmt/",
+              "d": "A look at a music and nature inspired travel watch from a young brand that funds music therapy, with a frank note on size and price. A pleasant short read for watch fans. About 930 words, 4 minutes.",
+              "m": "Worn & Wound, Jul 2026"
+            },
+            {
+              "t": "Hands-On: the Slomo Glance",
+              "u": "https://wornandwound.com/review/hands-on-the-slomo-glance/",
+              "d": "A Toronto microbrand's $685 watch with a sector dial and a clever logo seconds disk gets a careful going-over. Good fun for anyone who likes small independent watchmakers. About 1,400 words, 6 minutes.",
+              "m": "Worn & Wound, Jun 2026"
+            }
+          ]
+        },
+        {
+          "name": "Easy science",
+          "items": [
+            {
+              "t": "The bloody palette of the animal kingdom",
+              "u": "https://knowablemagazine.org/content/article/living-world/2026/why-animal-blood-comes-in-different-colors",
+              "d": "Why octopus blood is blue, some worms bleed violet, certain lizards run green and Antarctic icefish have nearly clear blood. A fun tour of chemistry and evolution you can retell to the kids. About 1,000 words, 5 minutes. New site for this list.",
+              "m": "Knowable Magazine, Oct 23"
+            },
+            {
+              "t": "Was the Moon-forming impact squishy or crunchy?",
+              "u": "https://eos.org/articles/was-the-moon-forming-impact-squishy-or-crunchy",
+              "d": "New simulations give the Mars-sized body that hit early Earth a solid crust, and the Moon's birth story changes depending on how warm it was. A tidy look at how one assumption reshapes planetary history. About 1,000 words, 5 minutes.",
+              "m": "Eos, Oct 23"
+            }
+          ],
+          "more": [
+            {
+              "t": "Loud, colorful and on edge: the lives of Argentina's burrowing parrots",
+              "u": "https://knowablemagazine.org/content/article/living-world/2026/the-quest-to-save-the-argentinean-burrowing-parrot",
+              "d": "Tens of thousands of bright parrots nest in one Patagonian sea cliff, and researchers have counted them, with help from AI, since 1998. A cheerful animal story with a conservation twist. About 1,000 words, 5 minutes. New site for this list.",
+              "m": "Knowable Magazine, Oct 21"
+            },
+            {
+              "t": "Mother bats' hearts quicken when they hear their baby's cries",
+              "u": "https://nautil.us/mother-bats-hearts-quicken-when-they-hear-babys-cries-1286069",
+              "d": "Japanese house bat mothers pick out their own pup's call from the crowd, and their heart rate jumps by up to 70 beats a minute. A short, sweet one any parent will relate to. About 450 words, 2 minutes.",
+              "m": "Nautilus, Oct 23"
+            },
+            {
+              "t": "The year's best weather photos",
+              "u": "https://nautil.us/these-are-the-most-stunning-weather-photos-of-the-year-1286043",
+              "d": "Winners of the American Meteorological Society's photo contest: diamond dust halos, lenticular clouds over Mount Washington, a rainbow over Denver and lightning over Lake Como. Mostly pictures, about 480 words, 3 minutes.",
+              "m": "Nautilus, Oct 23"
+            },
+            {
+              "t": "Tales of a very clever slime mold",
+              "u": "https://knowablemagazine.org/content/article/living-world/2026/learning-memory-learning-physarum-polycephalum-slime-mold",
+              "d": "A single-celled yellow blob with no brain can map Tokyo's rail network, remember where food was and learn to cross salt. Researchers explain how its pulsing tubes seem to store memories. About 1,300 words, 6 minutes. New site for this list.",
+              "m": "Knowable Magazine, 2026"
+            }
+          ]
+        },
+        {
+          "name": "Longer read",
+          "items": [
+            {
+              "t": "The Rube's Dilemma",
+              "u": "https://www.damninteresting.com/the-rubes-dilemma/",
+              "d": "Rube Waddell was the strikeout king of early baseball and a gloriously erratic man; this digs into whether he was paid to sit out the 1905 World Series. Rich with old newspaper sleuthing and a moving ending. About 8,000 words, 33 minutes.",
+              "m": "Damn Interesting, Oct 2022"
+            },
+            {
+              "t": "Why the Pan-American Highway only half exists",
+              "u": "https://aeon.co/essays/why-the-pan-american-highway-only-half-exists",
+              "d": "The dream of one road linking the Americas, told through a forgotten Brazilian army officer who drove from Rio toward Washington in the 1930s, and the Darien Gap that still breaks the route. About 4,200 words, 21 minutes.",
+              "m": "Aeon, Sep 7"
+            }
+          ],
+          "more": [
+            {
+              "t": "The Canoe in the Forest",
+              "u": "https://hakaimagazine.com/features/the-canoe-in-the-forest/",
+              "d": "Deep in an Alaskan rainforest lies a Haida canoe carved from a cedar about 140 years ago and never finished; a writer hikes in with a carver to see it. Quiet, beautiful and a little mysterious. About 3,500 words, 17 minutes. New site for this list.",
+              "m": "Hakai Magazine, Dec 2024"
+            },
+            {
+              "t": "Why has Venus obsessed so many astronomers?",
+              "u": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers",
+              "d": "The 18th century races to time Venus crossing the Sun, which promised the distance to the Sun and delivered shipwrecks, wars and one famously unlucky Frenchman. About 3,500 words, 18 minutes.",
+              "m": "Aeon, Jul 17"
+            },
+            {
+              "t": "Veronese's Dogs",
+              "u": "https://publicdomainreview.org/essay/veroneses-dogs/",
+              "d": "A historian looks at the dogs that keep wandering into Paolo Veronese's grand Renaissance paintings, and how they got the painter hauled before the Inquisition. Lovely images throughout. About 3,000 words, 13 minutes.",
+              "m": "The Public Domain Review, Sep 16"
+            },
+            {
+              "t": "Islands of the Feral Pigs",
+              "u": "https://hakaimagazine.com/features/islands-of-the-feral-pigs/",
+              "d": "Hawaii's wild pigs wreck forests and farms but also feed families and carry deep cultural meaning; a trapper, a conservationist and a hunter show why there is no easy fix. About 4,800 words, 24 minutes. New site for this list.",
+              "m": "Hakai Magazine, Oct 2024"
+            }
+          ]
+        },
+        {
+          "name": "Money",
+          "items": [
+            {
+              "t": "2026 Year-End Planning Guide: Tax, Retirement, and Charitable Giving",
+              "u": "https://1919ic.com/insight/2026-year-end-planning-guide-tax-retirement-and-charitable-giving-opportunities/",
+              "d": "A thorough checklist of the moves to make before December 31: bunching gifts into a donor-advised fund ahead of the new deduction floor, giving appreciated shares, SALT and pass-through entity elections, tax-loss harvesting without wash-sale traps, and 529 and gift exclusion planning. About 2,700 words, 12 minutes. New site for this list.",
+              "m": "1919 Investment Counsel, Oct 22"
+            },
+            {
+              "t": "Living Poor to Die Rich",
+              "u": "https://ofdollarsanddata.com/living-poor-to-die-rich/",
+              "d": "Nick Maggiulli on fancy tax-deferral strategies that pile up unrealized gains you then feel you can never touch, and why holding everything for the step-up at death can quietly keep you from enjoying money you already earned. About 1,200 words, 5 minutes.",
+              "m": "Of Dollars and Data, Sep 8"
+            },
+            {
+              "t": "What if the Good Life Requires Giving Up Some Freedom?",
+              "u": "https://www.physicianonfire.com/what-if-the-good-life-requires-giving-up-some-freedom/",
+              "d": "An early retiree who chased financial independence to avoid obligations explains how becoming a parent changed her math: money buys freedom and help, but the commitments you choose are what pay off over decades. About 1,200 words, 6 minutes.",
+              "m": "Physician on FIRE, Sep 18"
+            }
+          ],
+          "more": [
+            {
+              "t": "The Winners and Losers of Higher Interest Rates",
+              "u": "https://awealthofcommonsense.com/2026/10/the-winners-losers-of-higher-interest-rates/",
+              "d": "Ben Carlson sorts out who quietly benefits from today's rates (cash and bond holders, people with low fixed mortgages) and who pays, and what it means for housing and rents in the years ahead. About 950 words, 4 minutes.",
+              "m": "A Wealth of Common Sense, Oct 9"
+            },
+            {
+              "t": "Who Is Really Rich in America? (Hint: Main Street Millionaires)",
+              "u": "https://ofdollarsanddata.com/who-is-really-rich-in-america/",
+              "d": "A tour of new research on households worth $5 million or more: most of that wealth sits in ordinary private businesses like dealerships and consulting firms, built rather than inherited. About 1,700 words, 8 minutes.",
+              "m": "Of Dollars and Data, Sep 29"
+            },
+            {
+              "t": "529 Plans for Physician Families: 2026 Rules",
+              "u": "https://www.physicianonfire.com/529-rules-updates/",
+              "d": "What changed for 529s this year, from bigger K-12 withdrawals to 529-to-Roth rollovers, plus superfunding, grandparent-owned accounts, and how Trump Accounts fit alongside them. About 1,400 words, 6 minutes.",
+              "m": "Physician on FIRE, Sep 7"
+            },
+            {
+              "t": "The Power of Self-Cleansing",
+              "u": "https://jlcollinsnh.com/2026/07/30/the-power-of-self-cleansing/",
+              "d": "A short, reassuring answer to the worry that tech and AI now dominate total market funds: cap weighting quietly shifts your money toward what is working and away from what fades, so you never have to guess. About 350 words, 2 minutes.",
+              "m": "JLCollinsnh, Jul 30"
+            },
+            {
+              "t": "Ways that Owning Individual Stocks Can Go Wrong",
+              "u": "https://obliviousinvestor.com/ways-that-owning-individual-stocks-can-go-wrong/",
+              "d": "Mike Piper lays out exactly what has to be true for a stock pick to beat the index, and the several quiet ways a smart insight still loses. Useful the next time a hot tip comes up at a dinner party. About 425 words, 2 minutes.",
+              "m": "Oblivious Investor, Sep 21"
+            },
+            {
+              "t": "Our Achilles Heel",
+              "u": "https://collabfund.com/blog/our-achilles-heel/",
+              "d": "Ted Lamade on how badly we judge long odds, from elite college admissions and travel sports to fund managers promising to beat the market, and when chasing a long shot is still worth it. A good one for parents of young kids. About 850 words, 4 minutes.",
+              "m": "Collaborative Fund, Jun 10"
+            }
+          ]
+        },
+        {
+          "name": "Formula 1",
+          "items": [
+            {
+              "t": "The history of the Circuit of The Americas in 20 turns",
+              "u": "https://circuitoftheamericas.com/blog/2023/9/29/cota-crash-course/",
+              "d": "The track's own turn-by-turn tour, pairing each corner of the Austin circuit with a memorable moment from its first decade of racing. Perfect homework before today's race. About 900 words, 4 minutes. New site for this list.",
+              "m": "Circuit of The Americas, Sep 2023"
+            },
+            {
+              "t": "You never forget your first: Bruce McLaren's maiden Grand Prix win",
+              "u": "https://www.mclaren.com/racing/heritage/bruce-mclaren-first-grand-prix-win/",
+              "d": "How a 22-year-old stand-in won the very first United States Grand Prix at Sebring in 1959, on the day his teammate famously ran dry and pushed his car toward the title. A lovely heritage piece from the team that bears his name. About 1,150 words, 5 minutes. New site for this list.",
+              "m": "McLaren, Dec 2019"
+            },
+            {
+              "t": "Listening and learning: Ella Hakkinen taking her first season step by step",
+              "u": "https://formulascout.com/ella-hakkinen-taking-first-season-step-by-step/140412",
+              "d": "Mika Hakkinen's 15-year-old daughter is in her first single-seater season in Formula 4, and this profile talks to her, her coach and her team about learning the craft with a famous surname. About 1,600 words, 7 minutes. New site for this list.",
+              "m": "Formula Scout, Sep 30"
+            }
+          ],
+          "more": [
+            {
+              "t": "The checkered history of the United States Grand Prix",
+              "u": "https://www.hagerty.com/media/automotive-history/the-checkered-history-of-the-united-states-grand-prix/",
+              "d": "From Sebring and Riverside to Watkins Glen, Long Beach, a Las Vegas parking lot, Dallas, Phoenix and Indianapolis, a brisk tour of America's many attempts to host F1 before Austin stuck. About 1,200 words, 5 minutes.",
+              "m": "Hagerty, Apr 2021"
+            },
+            {
+              "t": "Lando Norris and the case of the Coca-Cola can",
+              "u": "https://www.planetf1.com/news/lando-norris-mclaren-coca-cola-f1-incident",
+              "d": "Paddock gossip at its silliest: an official objected to a rival soft drink in the cooldown room, and Norris suspects McLaren took the scolding. Guenther Steiner has opinions. About 500 words, 2 minutes.",
+              "m": "PlanetF1, Oct 24"
+            },
+            {
+              "t": "Why the FIA is banning a hidden wheel rim development war in 2027",
+              "u": "https://www.planetf1.com/features/why-the-fia-has-announced-it-is-banning-a-hidden-f1-development-war-in-2027",
+              "d": "A neat tech explainer on how teams have been using custom wheel rims to manage tire temperatures, and why the rules will force matching rims next year. About 750 words, 3 minutes.",
+              "m": "PlanetF1, Oct 23"
+            },
+            {
+              "t": "Fairness, not punishment: an FIA F2 steward on how penalties get decided",
+              "u": "https://formulascout.com/the-goal-is-fairness-not-punishment-says-fia-f2-steward-mallalieu/140562",
+              "d": "A rare long interview from inside the stewards' room: how incidents are judged in real time, why junior series are stricter than F1, and how stewards review their own calls. About 2,800 words, 12 minutes.",
+              "m": "Formula Scout, Oct 20"
+            }
+          ]
+        },
+        {
+          "name": "Listen",
+          "items": [
+            {
+              "t": "F1 Beyond the Grid: James Vowles, 'the most difficult year of my career'",
+              "u": "https://podcasts.apple.com/us/podcast/james-vowles-the-most-difficult-year-of-my-career/id1405972616?i=1000793536338",
+              "d": "Tom Clarkson sits down with the Williams team principal for a frank, self-critical talk about an overweight car, keeping Albon and Sainz on side, and how a team rebuilds its confidence. 57 minutes.",
+              "m": "F1 podcast, Oct 6"
+            },
+            {
+              "t": "The Fast and the Curious: Valtteri Bottas on charity nudity, sauna rivals and building Cadillac",
+              "u": "https://podcasts.apple.com/us/podcast/valtteri-bottas-interview-charity-nudity-needing-the/id1672650209?i=1000791276060",
+              "d": "Betty Glover gets Bottas at his most relaxed: helping build an F1 team from scratch, which rival he would share a sauna with, and an awkward thought behind a safety car. 18 minutes.",
+              "m": "F1 podcast, Sep 23"
+            },
+            {
+              "t": "Planet Money: How surveillance crept up on us",
+              "u": "https://podcasts.apple.com/us/podcast/how-surveillance-crept-up-on-us/id290783428?i=1000797815551",
+              "d": "How the NYPD quietly spent billions building one of the country's biggest surveillance networks, with the receipts kept in filing cabinets for over a decade, and the push to make police disclose what they watch. 35 minutes.",
+              "m": "Podcast, Oct 23"
+            },
+            {
+              "t": "99% Invisible: (Not Just) Another Brick in the Wall",
+              "u": "https://podcasts.apple.com/hk/podcast/not-just-another-brick-in-the-wall/id394775318?i=1000792103416",
+              "d": "A close look at the messy, beautiful bricks hiding all over Chicago, and the stories baked into them. A perfect walk-around-the-city kind of episode. 28 minutes.",
+              "m": "Podcast, Oct 6"
+            },
+            {
+              "t": "Unexplainable: The bodies buried in the bog",
+              "u": "https://podcasts.apple.com/us/podcast/the-bodies-buried-in-the-bog/id1554578197?i=1000791983927",
+              "d": "Bogs preserve almost anything that falls in, including people thousands of years old. Novelist Anna North joins to dig into who these bog bodies were and why they ended up there. 26 minutes.",
+              "m": "Podcast, Sep 28"
+            }
+          ],
+          "more": [
+            {
+              "t": "The Race F1 Tech Show: Why doesn't car compatibility play a bigger role in driver recruitment?",
+              "u": "https://podcasts.apple.com/us/podcast/why-doesnt-car-compatibility-play-a-bigger-role-in/id1502430647?i=1000790373582",
+              "d": "Edd Straw and Gary Anderson ask why F1 teams do not sign drivers by data the way other sports do, then take listener questions on braking systems, power unit penalties and flip-top wings. 57 minutes.",
+              "m": "F1 podcast, Sep 17"
+            },
+            {
+              "t": "F1 Beyond the Grid: Romain Grosjean, a career of comebacks",
+              "u": "https://podcasts.apple.com/us/podcast/romain-grosjean-a-career-of-comebacks/id1405972616?i=1000791187937",
+              "d": "Grosjean looks back on being dropped after seven races in 2008, fighting his way back through GP2, surviving the fire in Bahrain, and the wins that got away. 45 minutes.",
+              "m": "F1 podcast, Sep 22"
+            },
+            {
+              "t": "Box of Neutrals F1 Podcast: USA Grand Prix 2026",
+              "u": "https://podcasts.apple.com/us/podcast/usa-grand-prix-2026/id643163694?i=1000797249458",
+              "d": "Rob James and Michael Lamonato's irreverent Aussie preview of the Austin weekend, recorded before the cars hit the track, plus a search for a Rwandan Dave Hughes. 34 minutes. New site for this list.",
+              "m": "F1 podcast, Oct 20"
+            },
+            {
+              "t": "99% Invisible: Tootle of a Devilish Song",
+              "u": "https://podcasts.apple.com/hk/podcast/tootle-of-a-devilish-song/id394775318?i=1000791156233",
+              "d": "How a Swiss mountain call crossed the Atlantic and helped shape the sound of country music. 32 minutes.",
+              "m": "Podcast, Sep 29"
+            },
+            {
+              "t": "Twenty Thousand Hertz: Guess That Sound, Video Game Edition",
+              "u": "https://podcasts.apple.com/us/podcast/guess-that-sound-video-game-edition/id1171270672?i=1000792658918",
+              "d": "Three game audio pros try to name 18 sounds from gaming history, from fanfares and power-ups to deep cuts. Fun to play along, kids included. 48 minutes.",
+              "m": "Podcast, Oct 5"
+            },
+            {
+              "t": "Twenty Thousand Hertz: Listener Stories 2026 (Gold), Protest Pop and Birthday Ballads",
+              "u": "https://podcasts.apple.com/us/podcast/listener-stories-2026-gold-protest-pop-birthday-ballads/id1171270672?i=1000790100398",
+              "d": "The best entries from this year's listener story contest: free web music labels, contested public sounds, and the backstory of a worldwide pop hit. 27 minutes.",
+              "m": "Podcast, Sep 21"
+            },
+            {
+              "t": "Smologies: Dancing Spiders with Sebastian Echeverri",
+              "u": "https://podcasts.apple.com/us/podcast/dancing-spiders-with-sebastian-echeverri/id1746567248?i=1000796446298",
+              "d": "The kid-friendly spin-off of Ologies on jumping spiders: how they dance, how far they leap, and why they are so weirdly cute. Great for listening with the kids. 31 minutes. New site for this list.",
+              "m": "Podcast, Oct 15"
+            },
+            {
+              "t": "Ologies: Silicification Geology (Opals) with Patrice Rey",
+              "u": "https://podcasts.apple.com/us/podcast/silicification-geology-opals-with-patrice-rey/id1278815517?i=1000792338525",
+              "d": "A geophysicist explains how opals form, their links to fossils and caves, Aboriginal stories about them, and what separates one type from another. Some salty language. 1 hour 12 minutes. New site for this list.",
+              "m": "Podcast, Sep 30"
+            },
+            {
+              "t": "Short Wave: What's at stake if we can't regrow our forests",
+              "u": "https://podcasts.apple.com/us/podcast/whats-at-stake-if-we-cant-regrow-our-forests/id1482575855?i=1000796395218",
+              "d": "A skydiver dropped 100 million seeds over the Amazon; a restoration ecologist explains whether seed bombing from the sky actually works. 14 minutes.",
+              "m": "Podcast, Oct 15"
+            }
+          ]
+        },
+        {
+          "name": "Front page, no Reddit",
+          "items": [
+            {
+              "t": "The engineering that allows articulated buses to bend",
+              "u": "https://www.theautopian.com/you-wont-believe-the-incredible-engineering-that-allows-articulated-buses-to-bend/",
+              "d": "A fun deep dive into the bendy bus: its odd history from trailer buses onward, and the hinge, hydraulic dampers and electronics that keep a 60-foot vehicle from jackknifing. Classic Autopian nerdery about the engineering of everyday machines. About 3,000 words, 14 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "E. coli chemotaxis: the baffling intelligence of a single cell",
+              "u": "https://jsomers.net/e-coli-chemotaxis/",
+              "d": "James Somers explains how a bacterium with no brain still steers toward food, using a tiny chemical relay and a clever trick for adapting to any concentration. Patient, beautifully clear science writing that makes molecular machinery feel like a mystery story. About 6,000 words, 25 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Sound",
+              "u": "https://ciechanow.ski/sound/",
+              "d": "Bartosz Ciechanowski's interactive explainer builds sound from vibrating plates and air molecules up to harmonics and interference, with dozens of simulations you can play with. One of the best things on the web for curious minds, and kids would enjoy the demos too. About 7,000 words, 30 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Hittite royal archive found in Turkey",
+              "u": "https://www.thehistoryblog.com/archives/77107",
+              "d": "Excavators at the Hittite city of Samuha turned up 131 cuneiform tablets from the reign of Tudhaliya II, covering everything from army logistics to bird omen diaries. A quick, vivid look at how much a single dig season can reveal about a Bronze Age court. About 500 words, 3 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "A 900-page pre-Pantone guide to color from 1692",
+              "u": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+              "d": "A Dutch artist hand-painted hundreds of pages of watercolor swatches in 1692, a one-of-a-kind book now fully scanned and free to browse. A short read, then a rabbit hole of gorgeous pages. About 450 words, 2 minutes, plus browsing.",
+              "m": "Hacker News"
+            }
+          ],
+          "more": [
+            {
+              "t": "Secret of orange cats finally revealed after 60-year search",
+              "u": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+              "d": "Two research teams tracked down the small DNA deletion that makes ginger cats ginger, which also explains why most orange cats are male and calicos are almost always female. A satisfying genetics whodunit. About 800 words, 4 minutes.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The tiniest yet real telescope I've built",
+              "u": "https://lucassifoni.info/blog/miniscope-tiny-telescope/",
+              "d": "An amateur optician builds a 3D-printed Dobsonian that fits in a jacket pocket, then hand-refigures its mirror because the factory one was off. Charming photos and a great weekend-project idea. About 500 words, 3 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "How tube amplifiers work",
+              "u": "https://robrobinette.com/How_Amps_Work.htm",
+              "d": "A layman's tour of a 1950s Fender Champ, following a guitar signal from pickup through tubes and transformer to speaker. Long, but it finally makes that warm tube sound make sense; dip in and out. About 10,000 words, 45 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Rats play DOOM",
+              "u": "https://ratsplaydoom.com/",
+              "d": "A delightfully strange open-source project that built a tiny VR rig, with a trackball treadmill, wraparound screen and trigger lever, so rats could learn to move around in the classic video game. Pure oddity, with photos of the hardware. About 1,100 words, 5 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The UK generates less electricity per person than in the 1970s",
+              "u": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+              "d": "A one-chart surprise from Our World in Data: British electricity generation per person has fallen by a third since 2003, back to late-1960s levels, thanks to deindustrialization, LED lighting and imports. About 250 words, 2 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "The making of Super Mario 64: full Giles Goddard interview",
+              "u": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+              "d": "The unedited 2001 interview with one of the game's original developers, full of stories about Miyamoto's playtesting, the camera headaches and the castle. A nostalgic peek inside Nintendo. About 2,500 words, 11 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Unfenced: land for sale that borders public land",
+              "u": "https://unfenced.land/",
+              "d": "A clever map tool that checks thousands of US land listings against official boundary data to find parcels that back right onto national forests and wildlife areas. Great for daydreaming about a cabin. A browse, 5 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "Guitoro: a virtual guitar you strum with your keyboard",
+              "u": "https://guitoro.com/",
+              "d": "A free browser guitar with 51 songs you can slow down, a backing band and a tuner, no account needed. A fun one to try with the kids on a tablet. A toy, 10 minutes. New site for this list.",
+              "m": "Hacker News"
+            },
+            {
+              "t": "How random are you?",
+              "u": "https://lab.specr.net/rigged-draw/",
+              "d": "Say numbers out loud as randomly as you can while a little predictor in your browser tries to guess them first. A humbling two-minute experiment in how patterned our brains are. A toy, 3 minutes. New site for this list.",
+              "m": "Hacker News"
+            }
+          ]
+        },
+        {
+          "name": "Wildcard",
+          "items": [
+            {
+              "t": "Minecraft characters grow in Gyoda's rice paddy art",
+              "u": "https://spoon-tamago.com/minecraft-gyoda-rice-paddy-art/",
+              "d": "Each summer a Japanese town plants rice in four colors to make giant pictures only visible from above, and this year about 1,000 volunteers grew Minecraft characters. Show the kids the photos. About 210 words, 2 minutes.",
+              "m": "Spoon & Tamago, Aug 29"
+            }
+          ],
+          "more": [
+            {
+              "t": "Here's how to make olive oil like an ancient Egyptian",
+              "u": "https://www.sapiens.org/archaeology/olive-oil-ancient-egypt/",
+              "d": "An archaeologist tests the twisting-bag press shown in Egyptian tomb paintings using cheesecloth, a mortar and some muscle, and ends up with sharp, peppery oil. A fun weekend kitchen experiment. About 1,000 words, 5 minutes. New site for this list.",
+              "m": "SAPIENS, Jun 2022"
+            },
+            {
+              "t": "Gainsborough's tabletop landscapes",
+              "u": "https://www.futilitycloset.com/2026/10/22/false-prospect/",
+              "d": "Too busy painting portraits to sketch outdoors, Thomas Gainsborough built little landscapes on his table from moss, coal, mirror shards and broccoli, then painted them by candlelight. A delightful two-minute oddity. About 130 words, 1 minute. New site for this list.",
+              "m": "Futility Closet, Oct 22"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "label": "Saturday, October 24",
       "note": "Qualifying day in Austin, with recaps of every session behind the Game day links whenever you are ready. Bigger lists today, with more folded under each toggle. New sites: Petrolicious, Worn & Wound, Bikepacking.com, Hagerty, Silodrome, Field Mag, Cool Material, Eos, Narratively, Works in Progress, Can I Retire Yet, Oblivious Investor, Pit Debrief, GPFans, Speedweek and Messy Nessy Chic, plus five podcasts new to the list.",
