@@ -2,11 +2,11 @@
 
 Live at https://morningreads.netlify.app
 
-A static page with a daily list of free reading and listening links for the commute.
+A static page with a ranked directory of good sites (`sites.json`), with past daily lists folded below.
 
 - `index.html` renders `data.json`. Do not edit the HTML for a daily update.
 - `data.json` holds `days`, newest first, each with `date`, `label`, optional `note`, and `slots` of `{name, items:[{t,u,d,m}], more:[{t,u,d,m}]}`. `items` are the top picks shown up front; `more` (optional) holds about twice as many extras, best first, folded under a "N more" toggle in each slot. Each day's `hero` photo may carry `more`, an array of about ten extra photos in the same shape, shown in a folded "N more photos" gallery under the main photo. Keep the last 14 days.
-- A scheduled Claude task adds a day each morning and pushes. Netlify deploys on push. Each run gathers about three times the shown count per slot, so it starts at 3:45 am Eastern to be live by 6:00.
+- `sites.json` holds `groups` of `{name, sites:[{n,u,d}]}`, each group ordered most to least likely to appeal. The daily scheduled task is turned off (Oct 26, 2026) to save cost; it used to add a day each morning and push. Netlify deploys on push. Each run gathers about three times the shown count per slot, so it starts at 3:45 am Eastern to be live by 6:00.
 - Formula 1: two or three articles a day, rotating across many sites (not just The Race and PlanetF1), plus one or two F1 podcasts at the top of the Listen slot. Chequered Flag is a favorite but the point is to keep surfacing new good sources.
 
 ## Clicks

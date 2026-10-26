@@ -28,6 +28,10 @@ header p{margin:4px 0 0;color:var(--muted);font-size:.9rem}
 .item a{color:var(--fg);font-family:var(--display);font-weight:600;font-size:1.1rem;text-decoration:none;line-height:1.3}
 .item a:hover,.item a:focus-visible{text-decoration:underline;outline:none}
 .item p{margin:3px 0 0;color:var(--muted);font-size:.93rem}
+.dir h2{font-family:var(--display);font-weight:600;font-size:1.3rem;margin:0 0 4px}
+.dir .note{color:var(--muted);font-size:.9rem;margin:0 0 14px}
+.past{border-top:1px solid var(--rule);margin-top:28px;padding-top:12px}
+.past>h2{font-family:var(--display);font-weight:600;font-size:1.1rem;margin:0}
 .more summary{cursor:pointer;list-style:none;font-size:.8rem;font-weight:500;color:var(--accent);padding:2px 0;width:max-content}
 .more summary::-webkit-details-marker{display:none}
 .more summary::before{content:"+ "}
@@ -59,18 +63,18 @@ footer{border-top:1px solid var(--rule);margin-top:36px;padding-top:12px;color:v
 <main>
 <header>
   <h1>Morning Reads</h1>
-  <p id="stamp">Updated each morning by 6 am. Everything here is free to read, no sign-in.</p>
+  <p id="stamp">Good sites to browse, ranked by what you click most.</p>
 </header>
 
 <div id="days"></div>
 
-<footer>Older days fold up below the newest one. The page keeps the last 14 days.</footer>
+<footer>Past daily lists fold up below the sites.</footer>
 </main>
 
 
 
 <script>
-function render(data){
+function render(data, sites){
   // Newest first. Ties on date keep their order in data.json (earlier in the file wins), so the sort is stable in every browser.
   var days = data.days.map(function(d,i){ return {d:d,i:i}; }).sort(function(a,b){
     if(a.d.date !== b.d.date){ return a.d.date < b.d.date ? 1 : -1; }
@@ -97,11 +101,19 @@ function render(data){
       return '<figure><a class="photo" href="'+esc(p.img)+'" target="_blank" rel="noopener"><img src="'+esc(thumb)+'" alt="'+esc(p.alt||'')+'" loading="lazy"></a><figcaption>'+(p.caption?esc(p.caption)+'. ':'')+'<a href="'+esc(p.page||'#')+'" target="_blank" rel="noopener">'+esc(p.credit||'Unsplash')+'</a></figcaption></figure>';
     }).join('')+'</div></details>';
   }
+  // With a sites directory present, it leads the page and every daily list folds up below it.
+  var dir = (sites && sites.groups) ? sites.groups.map(function(g){
+    return {name:g.name, items:g.sites.map(function(x){ return {t:x.n, u:x.u, d:x.d}; })};
+  }) : null;
   var html = days.map(function(d,i){
     var head = '<h2>'+esc(d.label)+'</h2>'+(d.note?'<p class="note">'+esc(d.note)+'</p>':'');
-    if(i===0){ return '<section class="day">'+head+renderSlots(d.slots)+'</section>'; }
+    if(i===0 && !dir){ return '<section class="day">'+head+renderSlots(d.slots)+'</section>'; }
     return '<details class="day"><summary>'+head+'</summary>'+renderSlots(d.slots)+'</details>';
   }).join('');
+  if(dir){
+    html = '<section class="day dir"><h2>Your sites</h2><p class="note">'+dir.reduce(function(n,g){return n+g.items.length;},0)+' sites, grouped by type. Within each group, the ones you are most likely to enjoy come first.</p>'+renderSlots(dir)+'</section>'
+      + (html ? '<section class="past"><h2>Past daily lists</h2>'+html+'</section>' : '');
+  }
   root.innerHTML = heroHtml + (html || '<p class="note">Nothing yet. The first list arrives on the next weekday morning.</p>');
   root.addEventListener('click', function(e){
     var a = e.target.closest('.item a'); if(!a) return;
@@ -110,9 +122,11 @@ function render(data){
     var payload = JSON.stringify({u:a.href, t:a.textContent, slot:h?h.textContent:'', m:meta?meta.textContent:'', pick:a.closest('.more')?'more':'top'});
     try{ if(navigator.sendBeacon){ navigator.sendBeacon('/api/clicks', new Blob([payload],{type:'application/json'})); } else { fetch('/api/clicks',{method:'POST',body:payload,keepalive:true,headers:{'content-type':'application/json'}}); } }catch(err){}
   });
-  if(days[0]){ document.getElementById('stamp').textContent = 'Latest: '+days[0].label+'. Updated each morning by 6 am. Everything here is free to read, no sign-in.'; }
+  if(dir){ document.getElementById('stamp').textContent = 'Good sites to browse, ranked by what you click most.'; }
+  else if(days[0]){ document.getElementById('stamp').textContent = 'Latest: '+days[0].label+'. Everything here is free to read, no sign-in.'; }
 }
-fetch('data.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(render).catch(function(){ render({days:[]}); });
+function getJSON(u, fallback){ return fetch(u+'?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).catch(function(){ return fallback; }); }
+Promise.all([getJSON('data.json',{days:[]}), getJSON('sites.json',null)]).then(function(r){ render(r[0], r[1]); });
 </script>
 
 </body>

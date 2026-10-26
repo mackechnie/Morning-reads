@@ -1,0 +1,780 @@
+{
+ "updated": "2026-10-26",
+ "groups": [
+  {
+   "name": "Gear",
+   "sites": [
+    {
+     "n": "Gear Patrol",
+     "u": "https://www.gearpatrol.com/",
+     "d": "Your most-clicked site. Hands-on reviews of watches, outdoor gear, cars and tools."
+    },
+    {
+     "n": "Carryology",
+     "u": "https://www.carryology.com/",
+     "d": "Bags, packs and the history of the brands behind them."
+    },
+    {
+     "n": "Uncrate",
+     "u": "https://uncrate.com/",
+     "d": "A quick daily scroll of good-looking gear, cars and gadgets."
+    },
+    {
+     "n": "GearJunkie",
+     "u": "https://gearjunkie.com/",
+     "d": "Outdoor gear tests: running, camping, climbing, fishing."
+    },
+    {
+     "n": "Bikepacking.com",
+     "u": "https://bikepacking.com/",
+     "d": "Routes, rigs and gear reviews for long rides with camping."
+    },
+    {
+     "n": "Man of Many",
+     "u": "https://manofmany.com/",
+     "d": "Watches, cars, tech and style, with an Australian slant."
+    },
+    {
+     "n": "Huckberry Journal",
+     "u": "https://huckberry.com/journal",
+     "d": "Outdoor stories, field guides and gear features from the shop you like."
+    },
+    {
+     "n": "Field Mag",
+     "u": "https://www.fieldmag.com/",
+     "d": "Clean, well-shot outdoor gear features and buying guides."
+    },
+    {
+     "n": "Treeline Review",
+     "u": "https://www.treelinereview.com/",
+     "d": "Independent, ad-light backpacking gear testing."
+    },
+    {
+     "n": "Worn & Wound",
+     "u": "https://wornandwound.com/",
+     "d": "Tool watches and affordable mechanical watches, reviewed properly."
+    },
+    {
+     "n": "Hodinkee",
+     "u": "https://www.hodinkee.com/",
+     "d": "The big watch site: reviews, history and collector stories."
+    },
+    {
+     "n": "Cool Material",
+     "u": "https://coolmaterial.com/",
+     "d": "Gear, grooming and gift ideas in short, browsable posts."
+    },
+    {
+     "n": "Adventure Journal",
+     "u": "https://www.adventure-journal.com/",
+     "d": "Outdoor culture, gear and good writing in one place."
+    },
+    {
+     "n": "Switchback Travel",
+     "u": "https://www.switchbacktravel.com/",
+     "d": "Detailed comparisons of hiking, ski and camping gear."
+    },
+    {
+     "n": "Section Hiker",
+     "u": "https://sectionhiker.com/",
+     "d": "One experienced hiker's long-term gear reviews and trip notes."
+    },
+    {
+     "n": "Everyday Carry",
+     "u": "https://everydaycarry.com/",
+     "d": "What people carry in their pockets, plus knife and wallet picks."
+    },
+    {
+     "n": "Petrolicious",
+     "u": "https://petrolicious.com/",
+     "d": "Classic cars, filmed and written about beautifully."
+    },
+    {
+     "n": "Hagerty Media",
+     "u": "https://www.hagerty.com/media/",
+     "d": "Car stories, values and history from the classic car insurer."
+    },
+    {
+     "n": "Silodrome",
+     "u": "https://silodrome.com/",
+     "d": "Vintage cars, motorcycles and gear, one great find per post."
+    },
+    {
+     "n": "The Autopian",
+     "u": "https://www.theautopian.com/",
+     "d": "Funny, nerdy car writing from former Jalopnik staff."
+    },
+    {
+     "n": "Bring a Trailer",
+     "u": "https://bringatrailer.com/",
+     "d": "Live classic car auctions. Dangerous to browse."
+    },
+    {
+     "n": "Hemmings",
+     "u": "https://www.hemmings.com/stories",
+     "d": "Old trucks and classic cars, stories and history."
+    },
+    {
+     "n": "Core77",
+     "u": "https://www.core77.com/",
+     "d": "Industrial design: clever tools, workshops and objects."
+    },
+    {
+     "n": "Design Milk",
+     "u": "https://design-milk.com/",
+     "d": "Modern design, furniture and well-made things."
+    },
+    {
+     "n": "Dappered",
+     "u": "https://dappered.com/",
+     "d": "Affordable menswear picks, with honest value judgments."
+    },
+    {
+     "n": "Put This On",
+     "u": "https://putthison.com/",
+     "d": "Thoughtful writing on classic clothing and how to wear it."
+    }
+   ]
+  },
+  {
+   "name": "Money",
+   "sites": [
+    {
+     "n": "Physician on FIRE",
+     "u": "https://www.physicianonfire.com/",
+     "d": "Your most-clicked money site. Early retirement math from a doctor who did it."
+    },
+    {
+     "n": "White Coat Investor",
+     "u": "https://www.whitecoatinvestor.com/blog-2/",
+     "d": "The big one for doctors: taxes, insurance, asset protection, investing."
+    },
+    {
+     "n": "A Wealth of Common Sense",
+     "u": "https://awealthofcommonsense.com/",
+     "d": "Ben Carlson's calm, chart-heavy takes on markets and saving."
+    },
+    {
+     "n": "Collaborative Fund",
+     "u": "https://collabfund.com/blog/",
+     "d": "Morgan Housel and friends on money, behavior and patience."
+    },
+    {
+     "n": "Humble Dollar",
+     "u": "https://humbledollar.com/",
+     "d": "Short essays from many writers on spending, saving and retiring well."
+    },
+    {
+     "n": "Of Dollars and Data",
+     "u": "https://ofdollarsanddata.com/",
+     "d": "Nick Maggiulli's data-driven posts on investing decisions."
+    },
+    {
+     "n": "1919 Investment Counsel",
+     "u": "https://www.1919ic.com/",
+     "d": "Wealth manager research and commentary for high earners."
+    },
+    {
+     "n": "Early Retirement Now",
+     "u": "https://earlyretirementnow.com/",
+     "d": "Deep, rigorous safe withdrawal rate research."
+    },
+    {
+     "n": "JL Collins",
+     "u": "https://jlcollinsnh.com/",
+     "d": "The Stock Series: simple index investing, explained plainly."
+    },
+    {
+     "n": "Kitces",
+     "u": "https://www.kitces.com/blog/",
+     "d": "Where financial planners learn the tax and retirement details."
+    },
+    {
+     "n": "Can I Retire Yet?",
+     "u": "https://www.caniretireyet.com/",
+     "d": "Practical retirement planning and withdrawal case studies."
+    },
+    {
+     "n": "Oblivious Investor",
+     "u": "https://obliviousinvestor.com/",
+     "d": "Mike Piper's clear, short posts on taxes and Social Security."
+    },
+    {
+     "n": "Bogleheads",
+     "u": "https://www.bogleheads.org/",
+     "d": "The forum and wiki for low-cost, long-term investing."
+    },
+    {
+     "n": "The Irrelevant Investor",
+     "u": "https://theirrelevantinvestor.com/",
+     "d": "Michael Batnick on markets and investor behavior."
+    },
+    {
+     "n": "Abnormal Returns",
+     "u": "https://abnormalreturns.com/",
+     "d": "A daily link roundup of the best finance writing."
+    },
+    {
+     "n": "The Big Picture",
+     "u": "https://ritholtz.com/",
+     "d": "Barry Ritholtz's reads, charts and market commentary."
+    },
+    {
+     "n": "Mr. Money Mustache",
+     "u": "https://www.mrmoneymustache.com/",
+     "d": "Frugality and early retirement, with attitude."
+    },
+    {
+     "n": "The Physician Philosopher",
+     "u": "https://thephysicianphilosopher.com/",
+     "d": "Money and life balance for doctors."
+    },
+    {
+     "n": "Passive Income MD",
+     "u": "https://passiveincomemd.com/",
+     "d": "Real estate and side investments for physicians."
+    },
+    {
+     "n": "Mad Fientist",
+     "u": "https://www.madfientist.com/",
+     "d": "Tax optimization tricks for early retirement."
+    },
+    {
+     "n": "Financial Samurai",
+     "u": "https://www.financialsamurai.com/",
+     "d": "High-earner money talk on real estate, kids and retirement."
+    },
+    {
+     "n": "Retire by 40",
+     "u": "https://retireby40.org/",
+     "d": "One family's early retirement, with monthly numbers."
+    }
+   ]
+  },
+  {
+   "name": "Easy science",
+   "sites": [
+    {
+     "n": "Science News",
+     "u": "https://www.sciencenews.org/",
+     "d": "Short, clear science stories. One of your most-clicked."
+    },
+    {
+     "n": "Quanta Magazine",
+     "u": "https://www.quantamagazine.org/",
+     "d": "Beautifully explained physics, math and biology."
+    },
+    {
+     "n": "Nautilus",
+     "u": "https://nautil.us/",
+     "d": "Science essays that read like good magazine features."
+    },
+    {
+     "n": "The Pudding",
+     "u": "https://pudding.cool/",
+     "d": "Interactive visual essays on culture and curiosities."
+    },
+    {
+     "n": "Big Think",
+     "u": "https://bigthink.com/",
+     "d": "Big ideas in short pieces, including Ethan Siegel on space."
+    },
+    {
+     "n": "Knowable Magazine",
+     "u": "https://knowablemagazine.org/",
+     "d": "Nonprofit, ad-free science explainers."
+    },
+    {
+     "n": "Hakai Magazine",
+     "u": "https://hakaimagazine.com/",
+     "d": "Ocean and coastal science, beautifully done."
+    },
+    {
+     "n": "SAPIENS",
+     "u": "https://www.sapiens.org/",
+     "d": "Anthropology and archaeology for everyone."
+    },
+    {
+     "n": "Eos",
+     "u": "https://eos.org/",
+     "d": "Earth and space science news from the AGU."
+    },
+    {
+     "n": "Works in Progress",
+     "u": "https://worksinprogress.co/",
+     "d": "Long, optimistic essays on how progress actually happens."
+    },
+    {
+     "n": "NASA Earth Observatory",
+     "u": "https://earthobservatory.nasa.gov/",
+     "d": "Stunning satellite images with short explanations."
+    },
+    {
+     "n": "Astronomy Picture of the Day",
+     "u": "https://apod.nasa.gov/apod/astropix.html",
+     "d": "One space photo a day, explained by an astronomer."
+    },
+    {
+     "n": "Universe Today",
+     "u": "https://www.universetoday.com/",
+     "d": "Space and astronomy news, written for curious readers."
+    },
+    {
+     "n": "Our World in Data",
+     "u": "https://ourworldindata.org/",
+     "d": "Charts that change how you see the world."
+    },
+    {
+     "n": "Smithsonian Smart News",
+     "u": "https://www.smithsonianmag.com/smart-news/",
+     "d": "Short science and history news items."
+    },
+    {
+     "n": "The Conversation",
+     "u": "https://theconversation.com/us",
+     "d": "Researchers explain their own work, free and ad-free."
+    },
+    {
+     "n": "Popular Science",
+     "u": "https://www.popsci.com/",
+     "d": "Everyday science and how things work."
+    },
+    {
+     "n": "Mental Floss",
+     "u": "https://www.mentalfloss.com/",
+     "d": "Fun facts and light trivia."
+    }
+   ]
+  },
+  {
+   "name": "Formula 1",
+   "sites": [
+    {
+     "n": "The Race",
+     "u": "https://www.the-race.com/formula-1/",
+     "d": "The best F1 analysis site. Edd Straw and Scott Mitchell-Malm."
+    },
+    {
+     "n": "Motor Sport Magazine",
+     "u": "https://www.motorsportmagazine.com/",
+     "d": "Mark Hughes columns and deep racing history."
+    },
+    {
+     "n": "Formula1.com",
+     "u": "https://www.formula1.com/",
+     "d": "Official news, technical explainers and session reports."
+    },
+    {
+     "n": "Autosport",
+     "u": "https://www.autosport.com/f1/",
+     "d": "Classic racing journalism. Some pieces need a login."
+    },
+    {
+     "n": "RaceFans",
+     "u": "https://www.racefans.net/",
+     "d": "Independent F1 news, stats and On This Day pieces."
+    },
+    {
+     "n": "Circuit of The Americas",
+     "u": "https://circuitoftheamericas.com/",
+     "d": "The Austin track you clicked: events and guides."
+    },
+    {
+     "n": "PlanetF1",
+     "u": "https://www.planetf1.com/",
+     "d": "Fast news and gossip. Lots of ads."
+    },
+    {
+     "n": "RacingNews365",
+     "u": "https://racingnews365.com/",
+     "d": "News and technical analysis with a Dutch slant."
+    },
+    {
+     "n": "Motorsport Week",
+     "u": "https://www.motorsportweek.com/",
+     "d": "Solid news across F1 and other series."
+    },
+    {
+     "n": "F1 Technical",
+     "u": "https://www.f1technical.net/",
+     "d": "Car tech, upgrades and an expert forum."
+    },
+    {
+     "n": "Racecar Engineering",
+     "u": "https://www.racecar-engineering.com/",
+     "d": "Engineering deep dives into race cars."
+    },
+    {
+     "n": "Joe Saward's blog",
+     "u": "https://joesaward.wordpress.com/",
+     "d": "A veteran paddock journalist's insider views."
+    },
+    {
+     "n": "GPblog",
+     "u": "https://www.gpblog.com/en/",
+     "d": "Quick F1 news and driver quotes."
+    },
+    {
+     "n": "GPFans",
+     "u": "https://www.gpfans.com/en/",
+     "d": "F1 news, features and history pieces."
+    },
+    {
+     "n": "GrandPrix247",
+     "u": "https://www.grandprix247.com/",
+     "d": "News roundups and opinion."
+    },
+    {
+     "n": "Formula Scout",
+     "u": "https://www.formulascout.com/",
+     "d": "Junior series: the drivers coming next."
+    },
+    {
+     "n": "Pit Debrief",
+     "u": "https://www.pitdebrief.com/",
+     "d": "Independent F1 news and analysis."
+    },
+    {
+     "n": "F1 Chronicle",
+     "u": "https://www.f1chronicle.com/",
+     "d": "Explainers, history and race-weekend guides."
+    },
+    {
+     "n": "Crash.net",
+     "u": "https://www.crash.net/f1",
+     "d": "Long-running F1 and MotoGP news."
+    },
+    {
+     "n": "Speedweek",
+     "u": "https://www.speedweek.com/en/formula-1",
+     "d": "German motorsport site with an English section."
+    },
+    {
+     "n": "Motorsport.com",
+     "u": "https://www.motorsport.com/f1/",
+     "d": "Huge news volume across every series."
+    },
+    {
+     "n": "ESPN F1",
+     "u": "https://www.espn.com/f1/",
+     "d": "US-focused coverage and broadcast info."
+    }
+   ]
+  },
+  {
+   "name": "Front page and link roundups",
+   "sites": [
+    {
+     "n": "Hacker News",
+     "u": "https://news.ycombinator.com/",
+     "d": "Your most-clicked front page. Skim past the programming."
+    },
+    {
+     "n": "Damn Interesting",
+     "u": "https://www.damninteresting.com/",
+     "d": "Well-researched strange true stories. You clicked one."
+    },
+    {
+     "n": "Kottke.org",
+     "u": "https://kottke.org/",
+     "d": "The best hand-picked daily links on the web."
+    },
+    {
+     "n": "Open Culture",
+     "u": "https://www.openculture.com/",
+     "d": "Free courses, films, books and odd cultural finds."
+    },
+    {
+     "n": "Colossal",
+     "u": "https://www.thisiscolossal.com/",
+     "d": "Art, craft and design that make you stop scrolling."
+    },
+    {
+     "n": "Marginal Revolution",
+     "u": "https://marginalrevolution.com/",
+     "d": "Economists' daily links on everything."
+    },
+    {
+     "n": "Recomendo",
+     "u": "https://www.recomendo.com/",
+     "d": "Six short recommendations every week, from Kevin Kelly and friends."
+    },
+    {
+     "n": "MetaFilter",
+     "u": "https://www.metafilter.com/",
+     "d": "A community front page of interesting finds, without Reddit's noise."
+    },
+    {
+     "n": "Boing Boing",
+     "u": "https://boingboing.net/",
+     "d": "Gadgets, oddities and culture."
+    },
+    {
+     "n": "Tedium",
+     "u": "https://tedium.co/",
+     "d": "The dull side of the internet, made interesting."
+    },
+    {
+     "n": "Neatorama",
+     "u": "https://www.neatorama.com/",
+     "d": "Neat and quirky links, every day."
+    },
+    {
+     "n": "Laughing Squid",
+     "u": "https://laughingsquid.com/",
+     "d": "Funny, clever videos and art."
+    },
+    {
+     "n": "Digg",
+     "u": "https://digg.com/",
+     "d": "A curated front page of the day's stories."
+    },
+    {
+     "n": "Waxy",
+     "u": "https://waxy.org/",
+     "d": "Andy Baio's links on internet culture and history."
+    }
+   ]
+  },
+  {
+   "name": "Listen",
+   "sites": [
+    {
+     "n": "The Race F1 Podcast",
+     "u": "https://shows.acast.com/the-race-f1-podcast",
+     "d": "Smart F1 analysis from The Race's writers."
+    },
+    {
+     "n": "F1: Beyond the Grid",
+     "u": "https://audioboom.com/channels/4964339-f1-beyond-the-grid",
+     "d": "Long interviews with drivers and team bosses."
+    },
+    {
+     "n": "Chequered Flag (BBC)",
+     "u": "https://www.bbc.co.uk/programmes/p0npnl10",
+     "d": "BBC race reviews. Spoilers inside each episode."
+    },
+    {
+     "n": "Planet Money",
+     "u": "https://www.npr.org/podcasts/510289/planet-money",
+     "d": "Economics told as fun stories."
+    },
+    {
+     "n": "The Indicator",
+     "u": "https://www.npr.org/podcasts/510325/the-indicator-from-planet-money",
+     "d": "Ten-minute economics explainers."
+    },
+    {
+     "n": "99% Invisible",
+     "u": "https://99percentinvisible.org/",
+     "d": "The hidden design of everyday things."
+    },
+    {
+     "n": "Short Wave",
+     "u": "https://www.npr.org/podcasts/510351/short-wave",
+     "d": "Fifteen-minute science stories from NPR."
+    },
+    {
+     "n": "Twenty Thousand Hertz",
+     "u": "https://www.20k.org/",
+     "d": "The stories behind famous sounds."
+    },
+    {
+     "n": "Unexplainable",
+     "u": "https://www.vox.com/unexplainable",
+     "d": "Science's unanswered questions."
+    },
+    {
+     "n": "Today, Explained",
+     "u": "https://www.vox.com/today-explained-podcast",
+     "d": "One news topic, explained in 25 minutes."
+    },
+    {
+     "n": "Radiolab",
+     "u": "https://radiolab.org/",
+     "d": "Curious science and human stories."
+    },
+    {
+     "n": "Freakonomics Radio",
+     "u": "https://freakonomics.com/",
+     "d": "The hidden side of everything."
+    },
+    {
+     "n": "The Rest Is History",
+     "u": "https://www.therestishistory.com/",
+     "d": "Two historians telling great stories."
+    },
+    {
+     "n": "Cautionary Tales",
+     "u": "https://www.pushkin.fm/podcasts/cautionary-tales",
+     "d": "Tim Harford on mistakes and what they teach."
+    },
+    {
+     "n": "Acquired",
+     "u": "https://www.acquired.fm/",
+     "d": "Long, gripping company histories."
+    },
+    {
+     "n": "Rational Reminder",
+     "u": "https://rationalreminder.ca/podcast",
+     "d": "Evidence-based investing conversations."
+    }
+   ]
+  },
+  {
+   "name": "Packers",
+   "sites": [
+    {
+     "n": "Packers.com",
+     "u": "https://www.packers.com/",
+     "d": "Official news and schedule. The home page shows scores, so check after you watch."
+    },
+    {
+     "n": "Acme Packing Company",
+     "u": "https://www.acmepackingcompany.com/",
+     "d": "The best fan-run Packers site. Scores on the home page."
+    },
+    {
+     "n": "Packers Wire",
+     "u": "https://packerswire.usatoday.com/",
+     "d": "Fast Packers news. Scores in headlines."
+    },
+    {
+     "n": "Lombardi Ave",
+     "u": "https://lombardiave.com/",
+     "d": "Fan opinion and analysis. Scores in headlines."
+    },
+    {
+     "n": "Cheesehead TV",
+     "u": "https://www.cheeseheadtv.com/",
+     "d": "Packers talk, shows and film breakdowns."
+    },
+    {
+     "n": "NFL.com: Packers",
+     "u": "https://www.nfl.com/teams/green-bay-packers/",
+     "d": "Schedule, roster and stats."
+    }
+   ]
+  },
+  {
+   "name": "Longer reads",
+   "sites": [
+    {
+     "n": "Atlas Obscura",
+     "u": "https://www.atlasobscura.com/",
+     "d": "Strange places, history and food from around the world."
+    },
+    {
+     "n": "The Public Domain Review",
+     "u": "https://publicdomainreview.org/",
+     "d": "Odd and beautiful finds from old books and art."
+    },
+    {
+     "n": "Longreads",
+     "u": "https://longreads.com/",
+     "d": "The best long stories, picked every week."
+    },
+    {
+     "n": "Narratively",
+     "u": "https://narratively.com/",
+     "d": "True human stories, well told."
+    },
+    {
+     "n": "Wait But Why",
+     "u": "https://waitbutwhy.com/",
+     "d": "Huge, funny stick-figure deep dives."
+    },
+    {
+     "n": "Futility Closet",
+     "u": "https://www.futilitycloset.com/",
+     "d": "Short curiosities from history, math and language."
+    },
+    {
+     "n": "JSTOR Daily",
+     "u": "https://daily.jstor.org/",
+     "d": "History and science stories backed by research."
+    },
+    {
+     "n": "Aeon",
+     "u": "https://aeon.co/",
+     "d": "Thoughtful essays on big questions."
+    },
+    {
+     "n": "Psyche",
+     "u": "https://psyche.co/",
+     "d": "Practical essays on living well."
+    },
+    {
+     "n": "The Marginalian",
+     "u": "https://www.themarginalian.org/",
+     "d": "Maria Popova on books, art and meaning."
+    },
+    {
+     "n": "Messy Nessy Chic",
+     "u": "https://www.messynessychic.com/",
+     "d": "Forgotten places and vintage oddities."
+    },
+    {
+     "n": "Low-tech Magazine",
+     "u": "https://www.lowtechmagazine.com/",
+     "d": "Old technologies that still make sense."
+    },
+    {
+     "n": "Men's Journal",
+     "u": "https://www.mensjournal.com/",
+     "d": "Adventure, fitness and outdoor features."
+    },
+    {
+     "n": "Smithsonian History",
+     "u": "https://www.smithsonianmag.com/history/",
+     "d": "Magazine-length history features."
+    }
+   ]
+  },
+  {
+   "name": "Wildcard",
+   "sites": [
+    {
+     "n": "Unsplash",
+     "u": "https://unsplash.com/",
+     "d": "Free big-landscape photos, like the ones on this page."
+    },
+    {
+     "n": "Radio Garden",
+     "u": "https://radio.garden/",
+     "d": "Spin a globe and listen to live radio anywhere."
+    },
+    {
+     "n": "Windy",
+     "u": "https://www.windy.com/",
+     "d": "Gorgeous live weather maps. Great before a run or a fishing trip."
+    },
+    {
+     "n": "Gastro Obscura",
+     "u": "https://www.atlasobscura.com/gastro",
+     "d": "Strange and wonderful food from around the world."
+    },
+    {
+     "n": "Serious Eats",
+     "u": "https://www.seriouseats.com/",
+     "d": "Recipes that explain the science of why they work."
+    },
+    {
+     "n": "RecipeTin Eats",
+     "u": "https://www.recipetineats.com/",
+     "d": "Reliable weeknight recipes that work with kids."
+    },
+    {
+     "n": "National Park Service",
+     "u": "https://www.nps.gov/",
+     "d": "Plan the next family trip."
+    },
+    {
+     "n": "Wikipedia: random article",
+     "u": "https://en.wikipedia.org/wiki/Special:Random",
+     "d": "One click, one surprise."
+    }
+   ]
+  }
+ ]
+}
